@@ -1,0 +1,22 @@
+name: Scansione xG Overdue
+on:
+  schedule:
+    - cron: "*/10 10-23 * * *"   # ogni 10 min, 12:00-01:59 ora italiana (UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: scan, cancel-in-progress: false }
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python scan.py
+      - run: python scan.py --minute 65
+      - name: Commit dati
+        run: |
+          git config user.name "xg-bot"; git config user.email "xg-bot@users.noreply.github.com"
+          git add data.json seen.json storico.csv
+          git diff --cached --quiet || (git commit -m "dati $(date -u +%FT%TZ)" && git push)
