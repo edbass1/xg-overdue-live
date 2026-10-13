@@ -1,3 +1,5 @@
 data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_overdue;esito;finale
 20261013;5996738;Premier League;Abo Qir Semad;Asyut Petroleum;45;0-0;0.42;0.36;1;Pareggio;
 20261013;5996739;Premier League;National Bank;Tala'ea El Gaish;45;1-0;0.14;0.1;-1;Pareggio;
+20261013;6106414;Champions League;Lens;Sporting CP;45;0-1;1.23;0.56;1;1 Casa;
+20261013;6106424;Champions League;Sabah FK;Slavia Prague;45;0-0;0.1;0.43;0;2 Ospite;
