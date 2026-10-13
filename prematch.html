@@ -1,0 +1,45 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>xG Overdue Pre-match</title><style>
+:root{--bg:#07090d;--card:#11151c;--line:#1f2630;--t:#e8edf3;--m:#8a96a6;--g:#22c55e;--a:#f59e0b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:15px/1.4 system-ui,Segoe UI,Roboto,sans-serif}
+header{padding:22px 20px;background:linear-gradient(90deg,#0f3d22,#07090d);border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:24px;letter-spacing:.5px}h1 b{color:var(--g)}.sub{color:var(--m);font-size:13px;margin-top:4px}
+main{max-width:1100px;margin:auto;padding:16px}.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.bar button{background:var(--card);color:var(--t);border:1px solid var(--line);padding:7px 14px;border-radius:8px;cursor:pointer}
+.bar button.on{border-color:var(--g);color:var(--g)}
+table{width:100%;border-collapse:collapse;background:var(--card);border-radius:12px;overflow:hidden}
+th{background:#0b0e13;color:var(--m);font-weight:600;font-size:12px;text-transform:uppercase;padding:10px 8px;text-align:center}
+td{padding:11px 8px;border-top:1px solid var(--line);text-align:center;white-space:nowrap}td.l{text-align:left}
+.ov{font-weight:700;border-radius:6px;padding:3px 10px;display:inline-block;min-width:30px}
+.ov.p{background:var(--g);color:#04130a}.ov.z{background:#2a313c;color:var(--m)}
+.lg{color:var(--m);font-size:12px}.ft{color:var(--a);font-weight:600}.empty{padding:30px;text-align:center;color:var(--m)}
+.nav{display:flex;gap:6px;margin-top:12px}.nav a{color:var(--m);text-decoration:none;padding:6px 14px;border:1px solid var(--line);border-radius:8px;font-size:13px}.nav a.act{color:var(--g);border-color:var(--g)}
+footer{color:var(--m);font-size:12px;text-align:center;padding:20px}
+.wrap{overflow-x:auto;border-radius:12px}td.k{color:var(--m);font-size:12px}th{cursor:pointer;user-select:none}th:hover{color:var(--t)}
+td.sep,th.sep{border-left:2px solid #2a313c}.top td{background:#0f2418}.pct{color:#9fb4c8}.cal{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin-top:14px;color:var(--m);font-size:13px}
+.idx{font-weight:700}.idx.h{color:var(--g)}</style></head><body>
+<header><h1>⚽ xG <b>OVERDUE</b> PRE-MATCH</h1><div class="sub" id="upd">Caricamento…</div><nav class="nav"><a href="index.html" >🔴 Live</a><a href="prematch.html" class="act">📅 Pre-match</a></nav></header>
+<main><div class="bar"><button data-f="all" class="on">Tutte</button><button data-f="top">Top Indice Overdue</button><input id="q" placeholder="Cerca squadra/campionato" style="background:var(--card);color:var(--t);border:1px solid var(--line);border-radius:8px;padding:7px 12px"></div>
+<div class="wrap"><table><thead><tr>
+<th data-s="ora" class="l">Ora / Partita</th><th data-s="sq">Squadra</th><th data-s="xgm">xG media</th><th data-s="mxg">Match xG</th><th data-s="pr">Proiezione</th><th data-s="pa">Punt. atteso</th><th data-s="ga">Gol attesi tot</th><th data-s="xs">xSxG</th><th data-s="to">Team overdue</th><th data-s="tot">Totale Overdue</th><th data-s="es">Proiez. esito</th>
+<th data-s="io" class="sep">Indice Overdue HT</th><th data-s="p1">1 / X / 2</th><th data-s="o15">Over 1.5</th><th data-s="o25">Over 2.5</th><th data-s="gg">GG</th><th>Top 3 risultati</th></tr></thead><tbody id="tb"></tbody></table></div>
+<div class="cal" id="cal"></div></main>
+<footer>xG medi ultime 8 partite (casa/trasferta) da FotMob · aggiornato ogni mattina · solo a scopo di studio, nessuna garanzia</footer>
+<script>
+let D={matches:[]},F="all",S="ora",dir=1;const f=n=>Number(n).toFixed(2),pc=n=>Math.round(n*100)+"%";
+const key={ora:m=>m.ora,sq:m=>m.casa,xgm:m=>m.xg_media[0],mxg:m=>m.match_xg,pr:m=>m.proiezione[0],pa:m=>m.gol_attesi,ga:m=>m.gol_attesi,xs:m=>m.match_xg,to:m=>m.totale_overdue,tot:m=>m.totale_overdue,es:m=>m.esito,io:m=>m.indice_overdue,p1:m=>m.p1,o15:m=>m.o15,o25:m=>m.o25,gg:m=>m.gg};
+document.querySelectorAll("th[data-s]").forEach(t=>t.onclick=()=>{dir=S==t.dataset.s?-dir:(t.dataset.s=="ora"?1:-1);S=t.dataset.s;draw()});
+document.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{document.querySelectorAll("[data-f]").forEach(x=>x.classList.remove("on"));b.classList.add("on");F=b.dataset.f;draw()});
+document.getElementById("q").oninput=draw;
+function draw(){const q=document.getElementById("q").value.toLowerCase();let r=D.matches.filter(m=>(m.casa+m.ospite+m.campionato).toLowerCase().includes(q));
+const ix=r.map(m=>m.indice_overdue).sort((a,b)=>b-a),thr=ix[Math.max(0,Math.floor(ix.length*.2)-1)]??1;
+if(F=="top")r=r.filter(m=>m.indice_overdue>=thr);
+r.sort((a,b)=>{const x=key[S](a),y=key[S](b);return(x>y?1:x<y?-1:0)*dir});
+document.getElementById("tb").innerHTML=r.length?r.map(m=>{const t=m.indice_overdue>=thr?' class="top"':'',ov=`<span class="ov ${m.totale_overdue>0?"p":"z"}">${m.totale_overdue}</span>`;
+const row=(i,first)=>`<td>${i?m.ospite:m.casa}</td><td>${f(m.xg_media[i])}</td>${first?`<td rowspan=2>${f(m.match_xg)}</td>`:""}<td>${f(m.proiezione[i])}</td><td>${m.punteggio_atteso[i]}</td>${first?`<td rowspan=2>${m.gol_attesi}</td>`:""}<td>${f(m.xsxg[i])}</td><td>${m.team_overdue[i]}</td>`;
+return `<tr${t}><td class="l" rowspan=2><div class="lg">${m.ora} · ${m.campionato}</div>${m.casa} – ${m.ospite}</td>${row(0,1)}<td rowspan=2>${ov}</td><td rowspan=2>${m.esito}</td>
+<td rowspan=2 class="sep"><span class="idx ${m.indice_overdue>=thr?"h":""}">${pc(m.indice_overdue)}</span><div class="lg">xG HT ${f(m.xg_ht[0])}–${f(m.xg_ht[1])}</div></td><td rowspan=2 class="pct">${pc(m.p1)} / ${pc(m.px)} / ${pc(m.p2)}</td><td rowspan=2 class="pct">${pc(m.o15)}</td><td rowspan=2 class="pct">${pc(m.o25)}</td><td rowspan=2 class="pct">${pc(m.gg)}</td><td rowspan=2 class="k">${m.top3.map(x=>x[0]+" ("+pc(x[1])+")").join("<br>")}</td></tr><tr${t}>${row(1,0)}</tr>`}).join(""):`<tr><td colspan=17 class="empty">Nessuna partita</td></tr>`}
+async function load(){try{D=await(await fetch("prematch.json?t="+Date.now())).json();document.getElementById("upd").textContent="Ultimo aggiornamento: "+D.aggiornato;
+const c=D.calibrazione||{};if(c.n)document.getElementById("cal").innerHTML=`<b>Backtest Indice Overdue</b> su ${c.n} partite: il ${pc(c.base_rate)} è risultato "da metodo" all'intervallo. Top 20% per indice: ${pc(c.hit_top20)} · ultimo 20%: ${pc(c.hit_bottom20)}. Brier ${c.brier.toFixed(3)} vs ${c.brier_base.toFixed(3)} (media fissa). Over 2.5 Poisson: Brier ${c.o25_brier.toFixed(3)} vs ${c.o25_base.toFixed(3)} · 1X2 azzeccati ${pc(c.acc_1x2)}.`}catch(e){document.getElementById("upd").textContent="Dati non disponibili"}draw()}
+load();
+</script></body></html>

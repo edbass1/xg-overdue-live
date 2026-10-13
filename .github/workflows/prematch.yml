@@ -1,0 +1,30 @@
+name: Pre-match giornaliero
+on:
+  schedule:
+    - cron: "7 6 * * *"   # 08:07 ora legale (CEST)
+    - cron: "7 7 * * *"   # 08:07 ora solare (CET)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: data-commit, cancel-in-progress: false }
+jobs:
+  prematch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Solo alle 08 ora italiana
+        id: gate
+        run: |
+          H=$(TZ=Europe/Rome date +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$H" = "08" ]; then echo go=1 >> $GITHUB_OUTPUT; fi
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.go
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go
+        with: { python-version: "3.12" }
+      - if: steps.gate.outputs.go
+        run: pip install numpy && python prematch.py
+      - if: steps.gate.outputs.go
+        run: |
+          git config user.name "xg-bot"; git config user.email "xg-bot@users.noreply.github.com"
+          git add prematch.json cache
+          git diff --cached --quiet || (git commit -m "prematch $(date -u +%F)" && git pull --rebase -q && git push)
