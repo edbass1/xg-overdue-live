@@ -24,6 +24,22 @@ input{background:#0b0e13;color:var(--t);border:1px solid var(--line);border-radi
 .kp{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.kp div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px}
 .kp b{display:block;font-size:20px}.kp b span{font-size:inherit;color:inherit}.kp b span.pos{color:var(--g)}.kp b span.neg{color:#ef4444}.kp span{color:var(--m);font-size:12px}.pos{color:var(--g)}.neg{color:#ef4444}h2{font-size:17px;margin:18px 0 8px}
 footer{color:var(--m);font-size:12px;text-align:center;padding:20px}
+
+/* leggibilità: tutto scuro, testo chiaro e più grande */
+:root{--t:#f2f2f2;--m:#d6dde6;--card:#12161d;--line:#2e3743}
+body{font-size:18.5px;color:#f2f2f2;background:#07090d}h1{font-size:28px}.sub{font-size:15px}
+td{font-size:18px;padding:13px 9px;color:#f2f2f2}th{font-size:14px;color:#e2e8f0;background:#0b0e13}
+.lg{font-size:14px;color:#d6dde6}.empty{color:#e2e8f0}footer{font-size:14px;color:#d6dde6}
+.nav a{font-size:16px;color:#e2e8f0;background:#12161d}.nav a.act{color:#4ade80;border-color:#22c55e}
+.bar button,.btn{font-size:16px;background:#1a212b;color:#f2f2f2}.bar button.on{color:#4ade80;background:#0f2a1a}
+.ov{font-size:18px}.ov.p{background:#0f3a20;color:#6ff59a;border:1px solid #22c55e}.ov.z{background:#1f2630;color:#f2f2f2;border:1px solid #3a4452}
+.gb{background:#0f3a20;color:#6ff59a;border:1px solid #22c55e;font-size:16px}
+.btn.g{background:#0f2a1a;color:#6ff59a}.btn.r{background:#2a1010;color:#ff8a8a}
+.pos{color:#6ff59a}.neg{color:#ff8a8a}.ft{color:#fbbf24}
+.md{background:#12161d;color:#f2f2f2}.md .i{color:#e2e8f0;font-size:16px}.md label{font-size:15px;color:#e2e8f0}
+input{background:#0b0e13;color:#f2f2f2;font-size:18px;color-scheme:dark}input::placeholder{color:#9aa6b4}
+.kp b{font-size:24px;color:#f2f2f2}.kp span{font-size:14px;color:#e2e8f0}.kp b span.pos{color:#6ff59a}.kp b span.neg{color:#ff8a8a}
+h2{font-size:20px}a{color:#e2e8f0}html{color-scheme:dark}
 </style></head><body>
 <header><h1>⚽ xG <b>OVERDUE</b> LIVE</h1><div class="sub" id="upd">Caricamento…</div><nav class="nav"><a href="index.html" class="act">🔴 Live</a><a href="#" id="tabG">📒 Le mie giocate</a><a href="prematch.html">📅 Pre-match</a></nav></header>
 <main><div id="vLive"><div class="bar"><button data-f="ok" class="on">Solo da metodo</button><button data-f="all">Tutte</button>
