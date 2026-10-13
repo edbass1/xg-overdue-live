@@ -14,13 +14,29 @@ td{padding:11px 8px;border-top:1px solid var(--line);text-align:center;white-spa
 .ov.p{background:var(--g);color:#04130a}.ov.z{background:#2a313c;color:var(--m)}
 .lg{color:var(--m);font-size:12px}.ft{color:var(--a);font-weight:600}.empty{padding:30px;text-align:center;color:var(--m)}
 .nav{display:flex;gap:6px;margin-top:12px}.nav a{color:var(--m);text-decoration:none;padding:6px 14px;border:1px solid var(--line);border-radius:8px;font-size:13px}.nav a.act{color:var(--g);border-color:var(--g)}
+.gb{background:var(--g);color:#04130a;border:0;border-radius:6px;padding:5px 12px;font-weight:700;cursor:pointer}
+.mb{position:fixed;inset:0;background:rgba(0,0,0,.75);display:none;align-items:center;justify-content:center;z-index:9}.mb.on{display:flex}
+.md{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;width:min(420px,92vw)}.md h3{margin:0 0 10px;color:var(--g)}
+.md .i{color:var(--m);font-size:13px;margin-bottom:10px;line-height:1.6}.md label{display:block;font-size:13px;color:var(--m);margin:8px 0 3px}
+input{background:#0b0e13;color:var(--t);border:1px solid var(--line);border-radius:6px;padding:8px;width:100%;font-size:15px}
+.btn{background:#1a212b;color:var(--t);border:1px solid var(--line);border-radius:6px;padding:6px 12px;cursor:pointer;margin:2px}
+.btn.g{border-color:var(--g);color:var(--g)}.btn.r{border-color:#ef4444;color:#ef4444}.row{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
+.kp{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.kp div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px}
+.kp b{display:block;font-size:20px}.kp span{color:var(--m);font-size:12px}.pos{color:var(--g)}.neg{color:#ef4444}h2{font-size:17px;margin:18px 0 8px}
 footer{color:var(--m);font-size:12px;text-align:center;padding:20px}
 </style></head><body>
-<header><h1>⚽ xG <b>OVERDUE</b> LIVE</h1><div class="sub" id="upd">Caricamento…</div><nav class="nav"><a href="index.html" class="act">🔴 Live</a><a href="prematch.html">📅 Pre-match</a></nav></header>
-<main><div class="bar"><button data-f="ok" class="on">Solo da metodo</button><button data-f="all">Tutte</button>
+<header><h1>⚽ xG <b>OVERDUE</b> LIVE</h1><div class="sub" id="upd">Caricamento…</div><nav class="nav"><a href="index.html" class="act">🔴 Live</a><a href="#" id="tabG">📒 Le mie giocate</a><a href="prematch.html">📅 Pre-match</a></nav></header>
+<main><div id="vLive"><div class="bar"><button data-f="ok" class="on">Solo da metodo</button><button data-f="all">Tutte</button>
 <button data-m="45" class="on">45'</button><button data-m="65">65'</button></div>
-<table><thead><tr><th class="l">Partita</th><th>Min</th><th>Ris.</th><th>xG</th><th>Proiez.</th><th>xSxG</th><th>Tot. Overdue</th><th>Esito</th><th>Finale</th></tr></thead>
-<tbody id="tb"></tbody></table></main>
+<table><thead><tr><th class="l">Partita</th><th>Min</th><th>Ris.</th><th>xG</th><th>Proiez.</th><th>xSxG</th><th>Tot. Overdue</th><th>Esito</th><th>Finale</th><th></th></tr></thead>
+<tbody id="tb"></tbody></table></div>
+<div id="vG" style="display:none"><div class="bar"><button id="exp">⬇ Esporta backup</button><button id="impB">⬆ Importa backup</button><input type="file" id="imp" accept=".json" style="display:none"></div>
+<div class="kp" id="kp"></div><table><thead><tr><th class="l">Partita</th><th>Alert</th><th>Linea</th><th>Quota</th><th>Stake</th><th>Finale</th><th>Stato</th><th>P/L</th><th></th></tr></thead><tbody id="gb"></tbody></table>
+<h2>Per minuto</h2><table><tbody id="bm"></tbody></table><h2>Per campionato</h2><table><tbody id="bl"></tbody></table></div></main>
+<div class="mb" id="mb"><div class="md"><h3>Registra giocata</h3><div class="i" id="mi"></div>
+<label>Linea Over</label><input id="ml" type="number" step="0.5"><label>Quota Over</label><input id="mq" type="number" step="0.01" min="1.01" placeholder="es. 1,85">
+<label>Stake (facoltativo)</label><input id="ms" type="number" step="0.5" value="1"><div class="row"><button class="btn" id="mx">Annulla</button><button class="btn g" id="mok">Salva giocata</button></div></div></div>
+<div class="mb" id="cb"><div class="md"><h3>Conferma</h3><div class="i">Eliminare questa giocata?</div><div class="row"><button class="btn" id="cn">Annulla</button><button class="btn r" id="cy">Elimina</button></div></div></div>
 <footer>Dati FotMob · aggiornamento ogni ~10 min · solo a scopo di studio, nessuna garanzia</footer>
 <script>
 let D={matches:{}},F="ok",M=45;const f=n=>Number(n).toFixed(2);
@@ -31,8 +47,45 @@ function draw(){const r=Object.values(D.matches).filter(m=>m.minuto==M&&(F=="all
 document.getElementById("tb").innerHTML=r.length?r.map(m=>`<tr><td class="l"><div class="lg">${m.campionato}</div>${m.casa} – ${m.ospite}</td>
 <td>${m.minuto}'</td><td><b>${m.punteggio_live}</b></td><td>${f(m.xg[0])} – ${f(m.xg[1])}</td><td>${f(m.proj[0])} – ${f(m.proj[1])}</td>
 <td>${f(m.xsxg[0])} / ${f(m.xsxg[1])}</td><td><span class="ov ${m.totale>0?"p":"z"}">${m.totale}</span></td><td>${m.esito}</td>
-<td class="ft">${m.finale||"—"}</td></tr>`).join(""):`<tr><td colspan=9 class="empty">Nessuna partita al momento</td></tr>`}
-async function load(){try{D=await (await fetch("data.json?t="+Date.now())).json();
+<td class="ft">${m.finale||"—"}</td><td>${m.finale?"":`<button class="gb" onclick="gioca('${m.id}@${m.minuto}')">GIOCA</button>`}</td></tr>`).join(""):`<tr><td colspan=10 class="empty">Nessuna partita al momento</td></tr>`}
+async function load(){try{D=await (await fetch("data.json?t="+Date.now())).json();await finals();resolve();if($("vG").style.display=="")drawG();
 document.getElementById("upd").textContent="Ultimo aggiornamento: "+(D.aggiornato||"—")}catch(e){document.getElementById("upd").textContent="Dati non disponibili"}draw()}
-load();setInterval(load,60000);
+
+const K="xgov_giocate",$=i=>document.getElementById(i),G=()=>JSON.parse(localStorage.getItem(K)||"[]"),SG=a=>localStorage.setItem(K,JSON.stringify(a));
+const esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);let cur=null,FIN={},del=null;
+const sc=t=>{const m=String(t||"").match(/(\d+)\s*[-:]\s*(\d+)/);return m?[+m[1],+m[2]]:null};
+function gioca(k){const m=D.matches[k];if(!m)return;cur=m;const g=sc(m.punteggio_live)||[0,0];
+$("mi").innerHTML=`<b style="color:var(--t)">${esc(m.casa)} – ${esc(m.ospite)}</b><br>${esc(m.campionato)} · ${m.minuto}' · ${esc(m.punteggio_live)}<br>xG ${f(m.xg[0])} – ${f(m.xg[1])} · Overdue ${m.totale} · ${esc(m.esito)}`;
+$("ml").value=g[0]+g[1]+.5;$("mq").value="";$("ms").value=1;$("mb").classList.add("on");$("mq").focus()}
+$("mx").onclick=()=>$("mb").classList.remove("on");
+$("mok").onclick=()=>{const q=parseFloat(String($("mq").value).replace(",","."));if(!(q>1)){alert("Inserisci una quota valida");return}
+const m=cur,a=G();a.unshift({uid:Date.now()+"",id:m.id,key:m.id+"@"+m.minuto,data:D.date,casa:m.casa,ospite:m.ospite,campionato:m.campionato,minuto:m.minuto,punteggio:m.punteggio_live,
+xg:m.xg,totale:m.totale,esito_alert:m.esito,linea:parseFloat($("ml").value)||.5,quota:q,stake:parseFloat($("ms").value)||1,stato:"aperta",finale:null,auto:false,ora:new Date().toLocaleString("it-IT")});
+SG(a);$("mb").classList.remove("on");resolve();drawG()};
+async function finals(){try{const t=await (await fetch("storico.csv?t="+Date.now())).text();t.trim().split("\n").slice(1).forEach(l=>{const c=l.split(";");if(c[11])FIN[c[1]+"@"+c[5]]=c[11]})}catch(e){}
+Object.entries(D.matches||{}).forEach(([k,m])=>{if(m.finale)FIN[k]=m.finale})}
+function resolve(){const a=G();let ch=0;a.forEach(p=>{if(p.stato!="aperta")return;const fn=sc(FIN[p.key]);if(!fn)return;
+p.finale=FIN[p.key];p.stato=fn[0]+fn[1]>p.linea?"vinta":"persa";p.auto=true;ch=1});if(ch)SG(a)}
+const pl=p=>p.stato=="vinta"?p.stake*(p.quota-1):p.stato=="persa"?-p.stake:0;
+function st(a){const c=a.filter(p=>p.stato!="aperta"),w=c.filter(p=>p.stato=="vinta").length,s=c.reduce((x,p)=>x+p.stake,0),pr=c.reduce((x,p)=>x+pl(p),0),
+q=c.length?c.reduce((x,p)=>x+p.quota,0)/c.length:0;return{n:a.length,c:c.length,h:c.length?w/c.length*100:0,q,pr,roi:s?pr/s*100:0,be:w?c.length/w:0}}
+const cls=v=>v>0?"pos":v<0?"neg":"";
+function grp(a,fn,el){const g={};a.forEach(p=>(g[fn(p)]=g[fn(p)]||[]).push(p));$(el).innerHTML=`<tr><th class="l">Gruppo</th><th>Giocate</th><th>Chiuse</th><th>% vinte</th><th>Quota media</th><th>Profitto</th><th>ROI</th></tr>`+
+(Object.entries(g).map(([k,v])=>{const s=st(v);return`<tr><td class="l">${esc(k)}</td><td>${s.n}</td><td>${s.c}</td><td>${f(s.h)}%</td><td>${f(s.q)}</td><td class="${cls(s.pr)}">${f(s.pr)}</td><td class="${cls(s.roi)}">${f(s.roi)}%</td></tr>`}).join("")||`<tr><td class="empty" colspan=7>—</td></tr>`)}
+function drawG(){const a=G(),s=st(a);
+$("kp").innerHTML=[["Giocate",s.n],["Chiuse",s.c],["% vinte",f(s.h)+"%"],["Quota media",f(s.q)],["Profitto",`<span class="${cls(s.pr)}">${f(s.pr)}</span>`],["ROI",`<span class="${cls(s.roi)}">${f(s.roi)}%</span>`],["Quota pareggio",s.be?f(s.be):"—"]].map(([k,v])=>`<div><span>${k}</span><b>${v}</b></div>`).join("");
+$("gb").innerHTML=a.length?a.map(p=>`<tr><td class="l"><div class="lg">${esc(p.campionato)} · ${esc(p.ora)}</div>${esc(p.casa)} – ${esc(p.ospite)}</td><td>${p.minuto}' ${esc(p.punteggio)}<div class="lg">xG ${f(p.xg[0])}-${f(p.xg[1])}</div></td>
+<td>Over ${p.linea}</td><td>${f(p.quota)}</td><td>${p.stake}</td><td class="ft">${esc(p.finale||"—")}</td>
+<td>${p.stato=="aperta"?`<button class="btn g" onclick="man('${p.uid}','vinta')">Vinta</button><button class="btn r" onclick="man('${p.uid}','persa')">Persa</button>`:`<b class="${p.stato=="vinta"?"pos":"neg"}">${p.stato.toUpperCase()}</b><div class="lg">${p.auto?"automatico":"manuale"} · <a href="#" style="color:var(--m)" onclick="man('${p.uid}','aperta');return false">riapri</a></div>`}</td>
+<td class="${cls(pl(p))}">${p.stato=="aperta"?"—":f(pl(p))}</td><td><button class="btn" title="Elimina" onclick="ask('${p.uid}')">🗑</button></td></tr>`).join(""):`<tr><td colspan=9 class="empty">Nessuna giocata salvata. Premi GIOCA su una partita live.</td></tr>`;
+grp(a,p=>p.minuto+"'","bm");grp(a,p=>p.campionato||"—","bl")}
+function man(u,v){const a=G(),p=a.find(x=>x.uid==u);if(p){p.stato=v;p.auto=false;if(v=="aperta")p.finale=null}SG(a);if(v=="aperta")resolve();drawG()}
+function ask(u){del=u;$("cb").classList.add("on")}$("cn").onclick=()=>$("cb").classList.remove("on");
+$("cy").onclick=()=>{SG(G().filter(x=>x.uid!=del));$("cb").classList.remove("on");drawG()};
+$("exp").onclick=()=>{const b=new Blob([JSON.stringify(G(),null,1)],{type:"application/json"}),l=document.createElement("a");l.href=URL.createObjectURL(b);l.download="giocate_xg_overdue.json";l.click()};
+$("impB").onclick=()=>$("imp").click();$("imp").onchange=e=>{const r=new FileReader();r.onload=()=>{try{const n=JSON.parse(r.result);if(!Array.isArray(n))throw 0;
+const a=G(),ids=new Set(a.map(x=>x.uid));n.forEach(x=>{if(x&&x.uid&&!ids.has(x.uid))a.push(x)});SG(a);resolve();drawG();alert("Importate "+n.length+" giocate (duplicati ignorati)")}catch(_){alert("File non valido")}};r.readAsText(e.target.files[0]);e.target.value=""};
+function tab(g){$("vLive").style.display=g?"none":"";$("vG").style.display=g?"":"none";$("tabG").classList.toggle("act",g);document.querySelector('.nav a[href="index.html"]').classList.toggle("act",!g);if(g)drawG()}
+$("tabG").onclick=e=>{e.preventDefault();location.hash="giocate";tab(true)};document.querySelector('.nav a[href="index.html"]').onclick=e=>{e.preventDefault();location.hash="";tab(false)};
+tab(location.hash=="#giocate");load();setInterval(load,60000);
 </script></body></html>
