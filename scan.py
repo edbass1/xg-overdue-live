@@ -27,26 +27,31 @@ def live_minute(m):
 
 def details_at(det, minute):
     """xG e gol fino a `minute` (45 = fine primo tempo)."""
-    hid = det["general"]["homeTeam"]["id"]
+    det = det or {}
+    content = det.get("content") or {}
+    hid = ((det.get("general") or {}).get("homeTeam") or {}).get("id")
+    if hid is None: return None, [0, 0]
     if minute == 45:  # xG ufficiale del primo tempo
         xg = None
-        for g in det["content"]["stats"]["Periods"].get("FirstHalf", {}).get("stats", []):
-            for s in g.get("stats", []):
-                if s.get("key") == "expected_goals" and s["stats"][0] is not None:
+        periods = (content.get("stats") or {}).get("Periods") or {}
+        for g in (periods.get("FirstHalf") or {}).get("stats") or []:
+            for s in g.get("stats") or []:
+                sv = s.get("stats") or []
+                if s.get("key") == "expected_goals" and len(sv) >= 2 and sv[0] is not None and sv[1] is not None:
                     xg = [float(s["stats"][0]), float(s["stats"][1])]
         first = lambda sh: sh.get("period") == "FirstHalf"
     else:
         first = lambda sh: (sh.get("min") or 0) <= minute
         xg = None
-    shots = (det["content"].get("shotmap") or {}).get("shots") or []
+    shots = (content.get("shotmap") or {}).get("shots") or []
     if xg is None and shots:
         xg = [0.0, 0.0]
         for sh in shots:
             if first(sh) and sh.get("expectedGoals") is not None:
-                xg[0 if sh["teamId"] == hid else 1] += sh["expectedGoals"]
+                xg[0 if sh.get("teamId") == hid else 1] += sh["expectedGoals"]
         xg = [round(x, 2) for x in xg]
     goals = [0, 0]
-    for e in det["content"]["matchFacts"]["events"]["events"]:
+    for e in (((content.get("matchFacts") or {}).get("events") or {}).get("events") or []):
         if e.get("type") == "Goal" and (e.get("time") or 0) <= minute:
             goals[0 if e.get("isHome") else 1] += 1
     return xg, goals
@@ -100,22 +105,25 @@ def main():
     for lgname, m in cand:
         try: det = get(f"/matchDetails?matchId={m['id']}")
         except Exception as e: print("errore", m["id"], e); continue
-        xg, goals = details_at(det, minute)
-        if not xg: continue
-        r = method(xg, goals, minute)
-        rec = {"id": m["id"], "campionato": lgname, "casa": m["home"]["name"], "ospite": m["away"]["name"],
-               "minuto": minute, "punteggio_live": f"{goals[0]}-{goals[1]}", "xg": xg, **r,
-               "finale": m["status"].get("scoreStr") if m["status"].get("finished") else None,
-               "scansione": now.strftime("%d/%m/%Y %H:%M")}
-        data["matches"][f"{m['id']}@{minute}"] = rec
-        new = not os.path.exists(csv_p)
-        with open(csv_p, "a", newline="") as f:
-            w = csv.writer(f, delimiter=";")
-            if new: w.writerow(["data","matchId","campionato","casa","ospite","minuto","punteggio","xg_casa","xg_ospite","totale_overdue","esito","finale"])
-            w.writerow([date, m["id"], lgname, rec["casa"], rec["ospite"], minute, rec["punteggio_live"], xg[0], xg[1], r["totale"], r["esito"], rec["finale"] or ""])
-        sk = f"{m['id']}@{minute}"
-        if r["totale"] > 0 and sk not in seen:
-            seen.add(sk); nuovi.append(rec)
+        try:
+          xg, goals = details_at(det, minute)
+          if not xg: continue
+          r = method(xg, goals, minute)
+          rec = {"id": m["id"], "campionato": lgname, "casa": m["home"]["name"], "ospite": m["away"]["name"],
+                 "minuto": minute, "punteggio_live": f"{goals[0]}-{goals[1]}", "xg": xg, **r,
+                 "finale": m["status"].get("scoreStr") if m["status"].get("finished") else None,
+                 "scansione": now.strftime("%d/%m/%Y %H:%M")}
+          data["matches"][f"{m['id']}@{minute}"] = rec
+          new = not os.path.exists(csv_p)
+          with open(csv_p, "a", newline="") as f:
+              w = csv.writer(f, delimiter=";")
+              if new: w.writerow(["data","matchId","campionato","casa","ospite","minuto","punteggio","xg_casa","xg_ospite","totale_overdue","esito","finale"])
+              w.writerow([date, m["id"], lgname, rec["casa"], rec["ospite"], minute, rec["punteggio_live"], xg[0], xg[1], r["totale"], r["esito"], rec["finale"] or ""])
+          sk = f"{m['id']}@{minute}"
+          if r["totale"] > 0 and sk not in seen:
+              seen.add(sk); nuovi.append(rec)
+        except Exception as e:
+            print("partita saltata", m.get("id"), type(e).__name__, e); continue
     data["aggiornato"] = now.strftime("%d/%m/%Y %H:%M")
     json.dump(data, open(out_p, "w"), ensure_ascii=False, indent=1)
     json.dump(sorted(seen), open(seen_p, "w"))
