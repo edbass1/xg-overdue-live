@@ -198,7 +198,205 @@
    "esito": "2 Ospite",
    "finale": "2 - 2",
    "scansione": "13/10/2026 19:59"
+  },
+  "5836863@45": {
+   "id": 5836863,
+   "campionato": "Championship",
+   "casa": "Bristol City",
+   "ospite": "Blackburn Rovers",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.66,
+    0.02
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.99,
+    0.03
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.99,
+    -0.97
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
+  },
+  "5836864@45": {
+   "id": 5836864,
+   "campionato": "Championship",
+   "casa": "Burnley",
+   "ospite": "Charlton Athletic",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.41,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    1.03
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.39,
+    1.03
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
+  },
+  "5836865@45": {
+   "id": 5836865,
+   "campionato": "Championship",
+   "casa": "Cardiff City",
+   "ospite": "Watford",
+   "minuto": 45,
+   "punteggio_live": "4-0",
+   "xg": [
+    1.56,
+    0.62
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.34,
+    0.93
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -1.66,
+    0.93
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
+  },
+  "5836866@45": {
+   "id": 5836866,
+   "campionato": "Championship",
+   "casa": "Millwall",
+   "ospite": "Swansea City",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.43,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.65,
+    0.48
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.65,
+    0.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
+  },
+  "5836868@45": {
+   "id": 5836868,
+   "campionato": "Championship",
+   "casa": "Wolverhampton Wanderers",
+   "ospite": "Bolton Wanderers",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.83,
+    0.67
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.24,
+    1.01
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.24,
+    0.01
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
+  },
+  "5836869@45": {
+   "id": 5836869,
+   "campionato": "Championship",
+   "casa": "Wrexham",
+   "ospite": "West Bromwich Albion",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.23,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.35,
+    0.06
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.35,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "13/10/2026 21:44"
   }
  },
- "aggiornato": "13/10/2026 21:12"
+ "aggiornato": "13/10/2026 21:46"
 }

@@ -5,3 +5,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261013;6106424;Champions League;Sabah FK;Slavia Prague;45;0-0;0.1;0.43;0;2 Ospite;
 20261013;5996740;Premier League;Al Ittihad Alexandria;El Gouna FC;45;1-1;0.67;0.0;-1;1 Casa;
 20261013;5996741;Premier League;Petrojet-Suez;Wadi Degla FC;45;0-2;0.23;0.91;-1;2 Ospite;
+20261013;5836863;Championship;Bristol City;Blackburn Rovers;45;0-1;0.66;0.02;0;1 Casa;
+20261013;5836864;Championship;Burnley;Charlton Athletic;45;1-0;0.41;0.69;0;2 Ospite;
+20261013;5836865;Championship;Cardiff City;Watford;45;4-0;1.56;0.62;-1;1 Casa;
+20261013;5836866;Championship;Millwall;Swansea City;45;0-0;0.43;0.32;1;Pareggio;
+20261013;5836868;Championship;Wolverhampton Wanderers;Bolton Wanderers;45;0-1;0.83;0.67;1;Pareggio;
+20261013;5836869;Championship;Wrexham;West Bromwich Albion;45;0-0;0.23;0.04;0;Pareggio;
