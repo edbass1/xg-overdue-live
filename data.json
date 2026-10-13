@@ -1,5 +1,72 @@
 {
  "date": "20261013",
- "matches": {},
- "aggiornato": "13/10/2026 16:46"
+ "matches": {
+  "5996738@45": {
+   "id": 5996738,
+   "campionato": "Premier League",
+   "casa": "Abo Qir Semad",
+   "ospite": "Asyut Petroleum",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.42,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.63,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "13/10/2026 17:04"
+  },
+  "5996739@45": {
+   "id": 5996739,
+   "campionato": "Premier League",
+   "casa": "National Bank",
+   "ospite": "Tala'ea El Gaish",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.14,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.15
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.79,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "13/10/2026 17:04"
+  }
+ },
+ "aggiornato": "13/10/2026 17:04"
 }
