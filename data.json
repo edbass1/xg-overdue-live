@@ -132,7 +132,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "13/10/2026 19:41"
+  },
+  "5996740@45": {
+   "id": 5996740,
+   "campionato": "Premier League",
+   "casa": "Al Ittihad Alexandria",
+   "ospite": "El Gouna FC",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.67,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.01,
+    0.0
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.01,
+    -1.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "13/10/2026 19:59"
+  },
+  "5996741@45": {
+   "id": 5996741,
+   "campionato": "Premier League",
+   "casa": "Petrojet-Suez",
+   "ospite": "Wadi Degla FC",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.23,
+    0.91
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.35,
+    1.36
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.35,
+    -0.64
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "13/10/2026 19:59"
   }
  },
- "aggiornato": "13/10/2026 19:41"
+ "aggiornato": "13/10/2026 19:59"
 }
