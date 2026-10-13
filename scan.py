@@ -124,6 +124,23 @@ def main():
               seen.add(sk); nuovi.append(rec)
         except Exception as e:
             print("partita saltata", m.get("id"), type(e).__name__, e); continue
+    # risultati finali persistenti (non azzerati ogni giorno): finali.json {"id@minuto": {"finale", "data"}}
+    try:
+        fin_p = os.path.join(HERE, "finali.json")
+        fin = load_json(fin_p, {})
+        for k, rec in data["matches"].items():
+            fin.setdefault(k, {"finale": None, "data": date})
+            if rec.get("finale"): fin[k]["finale"] = rec["finale"]
+        for d in sorted({v["data"] for v in fin.values() if not v.get("finale") and v.get("data") != date}):
+            if d < (now - dt.timedelta(days=3)).strftime("%Y%m%d"): continue
+            try: old = get(f"/matches?date={d}")
+            except Exception as e: print("finali", d, e); continue
+            st = {str(m.get("id")): m.get("status") or {} for lg in old.get("leagues", []) for m in lg.get("matches", [])}
+            for k, v in fin.items():
+                s2 = st.get(k.split("@")[0])
+                if v["data"] == d and not v.get("finale") and s2 and s2.get("finished"): v["finale"] = s2.get("scoreStr")
+        json.dump(fin, open(fin_p, "w"), ensure_ascii=False, indent=0)
+    except Exception as e: print("errore finali", e)
     data["aggiornato"] = now.strftime("%d/%m/%Y %H:%M")
     json.dump(data, open(out_p, "w"), ensure_ascii=False, indent=1)
     json.dump(sorted(seen), open(seen_p, "w"))

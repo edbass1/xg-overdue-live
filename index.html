@@ -22,7 +22,7 @@ input{background:#0b0e13;color:var(--t);border:1px solid var(--line);border-radi
 .btn{background:#1a212b;color:var(--t);border:1px solid var(--line);border-radius:6px;padding:6px 12px;cursor:pointer;margin:2px}
 .btn.g{border-color:var(--g);color:var(--g)}.btn.r{border-color:#ef4444;color:#ef4444}.row{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
 .kp{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}.kp div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px}
-.kp b{display:block;font-size:20px}.kp span{color:var(--m);font-size:12px}.pos{color:var(--g)}.neg{color:#ef4444}h2{font-size:17px;margin:18px 0 8px}
+.kp b{display:block;font-size:20px}.kp b span{font-size:inherit}.kp span{color:var(--m);font-size:12px}.pos{color:var(--g)}.neg{color:#ef4444}h2{font-size:17px;margin:18px 0 8px}
 footer{color:var(--m);font-size:12px;text-align:center;padding:20px}
 </style></head><body>
 <header><h1>⚽ xG <b>OVERDUE</b> LIVE</h1><div class="sub" id="upd">Caricamento…</div><nav class="nav"><a href="index.html" class="act">🔴 Live</a><a href="#" id="tabG">📒 Le mie giocate</a><a href="prematch.html">📅 Pre-match</a></nav></header>
@@ -63,6 +63,7 @@ const m=cur,a=G();a.unshift({uid:Date.now()+"",id:m.id,key:m.id+"@"+m.minuto,dat
 xg:m.xg,totale:m.totale,esito_alert:m.esito,linea:parseFloat($("ml").value)||.5,quota:q,stake:parseFloat($("ms").value)||1,stato:"aperta",finale:null,auto:false,ora:new Date().toLocaleString("it-IT")});
 SG(a);$("mb").classList.remove("on");resolve();drawG()};
 async function finals(){try{const t=await (await fetch("storico.csv?t="+Date.now())).text();t.trim().split("\n").slice(1).forEach(l=>{const c=l.split(";");if(c[11])FIN[c[1]+"@"+c[5]]=c[11]})}catch(e){}
+try{const j=await (await fetch("finali.json?t="+Date.now())).json();Object.entries(j).forEach(([k,v])=>{if(v&&v.finale)FIN[k]=v.finale})}catch(e){}
 Object.entries(D.matches||{}).forEach(([k,m])=>{if(m.finale)FIN[k]=m.finale})}
 function resolve(){const a=G();let ch=0;a.forEach(p=>{if(p.stato!="aperta")return;const fn=sc(FIN[p.key]);if(!fn)return;
 p.finale=FIN[p.key];p.stato=fn[0]+fn[1]>p.linea?"vinta":"persa";p.auto=true;ch=1});if(ch)SG(a)}
