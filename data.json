@@ -97,7 +97,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "14/10/2026 21:45"
   },
   "5836872@45": {
@@ -130,7 +130,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 2",
    "scansione": "14/10/2026 21:45"
   },
   "5836873@45": {
@@ -167,5 +167,5 @@
    "scansione": "14/10/2026 21:45"
   }
  },
- "aggiornato": "14/10/2026 22:11"
+ "aggiornato": "14/10/2026 22:42"
 }
