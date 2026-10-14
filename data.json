@@ -33,7 +33,40 @@
    "esito": "1 Casa",
    "finale": "2 - 1",
    "scansione": "14/10/2026 16:56"
+  },
+  "6106405@45": {
+   "id": 6106405,
+   "campionato": "Champions League",
+   "casa": "LASK",
+   "ospite": "Liverpool",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    0.33,
+    1.62
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.49,
+    2.43
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.49,
+    -0.57
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "14/10/2026 19:35"
   }
  },
- "aggiornato": "14/10/2026 19:07"
+ "aggiornato": "14/10/2026 19:35"
 }
