@@ -13,3 +13,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261013;5836869;Championship;Wrexham;West Bromwich Albion;45;0-0;0.23;0.04;0;Pareggio;
 20261014;6361995;Indian Super League;Punjab FC;Odisha FC;45;1-1;0.64;0.37;-1;1 Casa;
 20261014;6106405;Champions League;LASK;Liverpool;45;0-3;0.33;1.62;-1;2 Ospite;
+20261014;5836871;Championship;Norwich City;Southampton;45;0-0;0.55;0.67;1;Pareggio;
+20261014;5836872;Championship;Portsmouth;Sheffield United;45;1-0;0.49;1.35;1;2 Ospite;
+20261014;5836873;Championship;Queens Park Rangers;Derby County;45;3-0;1.01;0.04;-2;1 Casa;
