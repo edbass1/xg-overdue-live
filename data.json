@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "15/10/2026 17:49"
+  },
+  "5970156@45": {
+   "id": 5970156,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Hazem",
+   "ospite": "Al Fateh FC",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.93,
+    0.76
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.4,
+    1.14
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.4,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/10/2026 18:14"
   }
  },
- "aggiornato": "15/10/2026 17:49"
+ "aggiornato": "15/10/2026 18:14"
 }
