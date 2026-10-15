@@ -66,7 +66,601 @@
    "esito": "Pareggio",
    "finale": "2 - 3",
    "scansione": "15/10/2026 18:14"
+  },
+  "6112265@45": {
+   "id": 6112265,
+   "campionato": "Europa League",
+   "casa": "AZ Alkmaar",
+   "ospite": "Hapoel Beer Sheva",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.69,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.03,
+    0.0
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.03,
+    0.0
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112318@45": {
+   "id": 6112318,
+   "campionato": "Europa League",
+   "casa": "Lech Poznań",
+   "ospite": "Bayer Leverkusen",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    0.29,
+    2.9
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    4.35
+   ],
+   "punteggio": [
+    0,
+    4
+   ],
+   "xsxg": [
+    0.43,
+    1.35
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112260@45": {
+   "id": 6112260,
+   "campionato": "Europa League",
+   "casa": "Lyon",
+   "ospite": "Crystal Palace",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.64,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.96,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.04,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112336@45": {
+   "id": 6112336,
+   "campionato": "Europa League",
+   "casa": "NK Celje",
+   "ospite": "Omonia Nicosia",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.24,
+    0.96
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.36,
+    1.44
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.36,
+    0.44
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112294@45": {
+   "id": 6112294,
+   "campionato": "Europa League",
+   "casa": "Salzburg",
+   "ospite": "Milan",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.03,
+    1.76
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.04,
+    2.64
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.04,
+    0.64
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112305@45": {
+   "id": 6112305,
+   "campionato": "Europa League",
+   "casa": "Sparta Prague",
+   "ospite": "Lillestrøm",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.47,
+    0.17
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    0.26
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.7,
+    0.26
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112360@45": {
+   "id": 6112360,
+   "campionato": "Europa League",
+   "casa": "Torreense",
+   "ospite": "Sunderland",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.02,
+    0.18
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.03,
+    0.27
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.97,
+    0.27
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112286@45": {
+   "id": 6112286,
+   "campionato": "Europa League",
+   "casa": "Union St.Gilloise",
+   "ospite": "Real Sociedad",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.48,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.72,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.72,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112541@45": {
+   "id": 6112541,
+   "campionato": "Conference League",
+   "casa": "CSKA Sofia",
+   "ospite": "Monaco",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.6,
+    1.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    1.65
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.9,
+    -0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112553@45": {
+   "id": 6112553,
+   "campionato": "Conference League",
+   "casa": "Egnatia",
+   "ospite": "FC Midtjylland",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.37,
+    0.63
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.55,
+    0.95
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.45,
+    -0.05
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112413@45": {
+   "id": 6112413,
+   "campionato": "Conference League",
+   "casa": "Gent",
+   "ospite": "AGF",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.86,
+    0.07
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.29,
+    0.11
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.29,
+    0.11
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112523@45": {
+   "id": 6112523,
+   "campionato": "Conference League",
+   "casa": "Hajduk Split",
+   "ospite": "Ajax",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.55,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.83,
+    0.35
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.17,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112478@45": {
+   "id": 6112478,
+   "campionato": "Conference League",
+   "casa": "KuPS",
+   "ospite": "Trabzonspor",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.27,
+    1.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    1.71
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.41,
+    -0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112473@45": {
+   "id": 6112473,
+   "campionato": "Conference League",
+   "casa": "Lugano",
+   "ospite": "FK Crvena Zvezda",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.39,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    0.68
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.42,
+    -0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112549@45": {
+   "id": 6112549,
+   "campionato": "Conference League",
+   "casa": "Mjällby",
+   "ospite": "Inter Club d'Escaldes",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.27,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112415@45": {
+   "id": 6112415,
+   "campionato": "Conference League",
+   "casa": "Panathinaikos",
+   "ospite": "Borac Banja Luka",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    2.41,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.62,
+    0.08
+   ],
+   "punteggio": [
+    3,
+    0
+   ],
+   "xsxg": [
+    2.62,
+    0.08
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112521@45": {
+   "id": 6112521,
+   "campionato": "Conference League",
+   "casa": "Riga FC",
+   "ospite": "Kairat Almaty",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.78,
+    0.99
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.67,
+    1.48
+   ],
+   "punteggio": [
+    2,
+    1
+   ],
+   "xsxg": [
+    1.67,
+    0.48
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
+  },
+  "6112505@45": {
+   "id": 6112505,
+   "campionato": "Conference League",
+   "casa": "Universitatea Craiova",
+   "ospite": "Getafe",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.28,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.42,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/10/2026 19:43"
   }
  },
- "aggiornato": "15/10/2026 19:16"
+ "aggiornato": "15/10/2026 19:44"
 }
