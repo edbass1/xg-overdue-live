@@ -1,5 +1,39 @@
 {
  "date": "20261015",
- "matches": {},
- "aggiornato": "15/10/2026 17:16"
+ "matches": {
+  "5970158@45": {
+   "id": 5970158,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Khaleej",
+   "ospite": "Al-Fayha",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.04,
+    0.51
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.06,
+    0.77
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.06,
+    0.77
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "15/10/2026 17:49"
+  }
+ },
+ "aggiornato": "15/10/2026 17:49"
 }
