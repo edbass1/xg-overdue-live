@@ -429,7 +429,172 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "16/10/2026 21:17"
+  },
+  "5802957@45": {
+   "id": 5802957,
+   "campionato": "Ligue 1",
+   "casa": "Le Mans",
+   "ospite": "Toulouse",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.18,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.27,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.27,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 21:44"
+  },
+  "5749704@45": {
+   "id": 5749704,
+   "campionato": "Serie A",
+   "casa": "Frosinone",
+   "ospite": "Sassuolo",
+   "minuto": 45,
+   "punteggio_live": "3-2",
+   "xg": [
+    1.38,
+    1.37
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.07,
+    2.06
+   ],
+   "punteggio": [
+    2,
+    2
+   ],
+   "xsxg": [
+    -0.93,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 21:44"
+  },
+  "5100977@45": {
+   "id": 5100977,
+   "campionato": "Premier Division",
+   "casa": "Bohemian FC",
+   "ospite": "Waterford FC",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.26,
+    0.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    0.58
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.61,
+    -0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 21:44"
+  },
+  "5100978@45": {
+   "id": 5100978,
+   "campionato": "Premier Division",
+   "casa": "Drogheda United",
+   "ospite": "Derry City",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.01,
+    0.7
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.01,
+    1.05
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.99,
+    1.05
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "16/10/2026 21:44"
+  },
+  "5100979@45": {
+   "id": 5100979,
+   "campionato": "Premier Division",
+   "casa": "Galway United FC",
+   "ospite": "Shamrock Rovers",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.36,
+    0.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.58
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.46,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 21:44"
   }
  },
- "aggiornato": "16/10/2026 21:17"
+ "aggiornato": "16/10/2026 21:45"
 }
