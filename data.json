@@ -1,5 +1,39 @@
 {
  "date": "20261016",
- "matches": {},
- "aggiornato": "16/10/2026 14:10"
+ "matches": {
+  "1000017749@45": {
+   "id": 1000017749,
+   "campionato": "Thai League",
+   "casa": "Ayutthaya United FC",
+   "ospite": "Lamphun Warrior",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.31,
+    0.89
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    1.33
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.46,
+    1.33
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "16/10/2026 14:55"
+  }
+ },
+ "aggiornato": "16/10/2026 14:55"
 }
