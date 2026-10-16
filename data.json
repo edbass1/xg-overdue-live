@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": "0 - 2",
    "scansione": "16/10/2026 14:55"
+  },
+  "6361996@45": {
+   "id": 6361996,
+   "campionato": "Indian Super League",
+   "casa": "SC Delhi",
+   "ospite": "Mohun Bagan SG",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.71,
+    0.53
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.06,
+    0.8
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.06,
+    0.8
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 17:04"
   }
  },
- "aggiornato": "16/10/2026 16:35"
+ "aggiornato": "16/10/2026 17:04"
 }
