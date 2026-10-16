@@ -132,7 +132,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "16/10/2026 19:29"
+  },
+  "5904772@45": {
+   "id": 5904772,
+   "campionato": "Super Lig",
+   "casa": "Çorum FK",
+   "ospite": "Rizespor",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.31,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.54,
+    -0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 19:56"
+  },
+  "5739529@45": {
+   "id": 5739529,
+   "campionato": "Superligaen",
+   "casa": "AC Horsens",
+   "ospite": "Randers FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.18,
+    0.62
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.27,
+    0.93
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.27,
+    0.93
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "16/10/2026 19:56"
   }
  },
- "aggiornato": "16/10/2026 19:29"
+ "aggiornato": "16/10/2026 19:56"
 }
