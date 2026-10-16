@@ -229,7 +229,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 0",
    "scansione": "16/10/2026 20:50"
   },
   "5803281@45": {
@@ -262,7 +262,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "16/10/2026 20:50"
   },
   "5803282@45": {
@@ -295,7 +295,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "16/10/2026 20:50"
   },
   "5803283@45": {
@@ -328,7 +328,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "16/10/2026 20:50"
   },
   "5803284@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 3",
    "scansione": "16/10/2026 20:50"
   },
   "5803288@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": -3,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "4 - 2",
    "scansione": "16/10/2026 20:50"
   },
   "5868498@45": {
@@ -594,7 +594,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "16/10/2026 21:44"
+  },
+  "5868093@45": {
+   "id": 5868093,
+   "campionato": "LaLiga",
+   "casa": "Deportivo A Coruña",
+   "ospite": "Levante",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.24,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.36,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.36,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 22:04"
+  },
+  "5836876@45": {
+   "id": 5836876,
+   "campionato": "Championship",
+   "casa": "Burnley",
+   "ospite": "Wolverhampton Wanderers",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.88,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.32,
+    0.72
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.32,
+    -0.28
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "16/10/2026 22:04"
   }
  },
- "aggiornato": "16/10/2026 21:45"
+ "aggiornato": "16/10/2026 22:04"
 }
