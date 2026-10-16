@@ -66,7 +66,73 @@
    "esito": "Pareggio",
    "finale": "1 - 2",
    "scansione": "16/10/2026 17:04"
+  },
+  "5881691@45": {
+   "id": 5881691,
+   "campionato": "2. Bundesliga",
+   "casa": "Energie Cottbus",
+   "ospite": "1. FC Nürnberg",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.52,
+    0.4
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.6
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    0.6
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 19:29"
+  },
+  "5881694@45": {
+   "id": 5881694,
+   "campionato": "2. Bundesliga",
+   "casa": "Holstein Kiel",
+   "ospite": "Hertha BSC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.14,
+    0.51
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.77
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    0.77
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "16/10/2026 19:29"
   }
  },
- "aggiornato": "16/10/2026 19:04"
+ "aggiornato": "16/10/2026 19:29"
 }
