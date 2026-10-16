@@ -97,7 +97,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "16/10/2026 19:29"
   },
   "5881694@45": {
@@ -130,7 +130,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "16/10/2026 19:29"
   },
   "5904772@45": {
@@ -198,7 +198,205 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "16/10/2026 19:56"
+  },
+  "5781769@45": {
+   "id": 5781769,
+   "campionato": "Eredivisie",
+   "casa": "SC Heerenveen",
+   "ospite": "Excelsior",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.13,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.69,
+    0.35
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.69,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
+  },
+  "5803281@45": {
+   "id": 5803281,
+   "campionato": "Ligue 2",
+   "casa": "Annecy FC",
+   "ospite": "Nancy",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.19,
+    1.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.29,
+    1.92
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.29,
+    0.92
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
+  },
+  "5803282@45": {
+   "id": 5803282,
+   "campionato": "Ligue 2",
+   "casa": "Grenoble",
+   "ospite": "Boulogne",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.16,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    0.14
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.24,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
+  },
+  "5803283@45": {
+   "id": 5803283,
+   "campionato": "Ligue 2",
+   "casa": "Guingamp",
+   "ospite": "Pau",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.79,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.19,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.19,
+    -1.68
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
+  },
+  "5803284@45": {
+   "id": 5803284,
+   "campionato": "Ligue 2",
+   "casa": "Laval",
+   "ospite": "Clermont Foot",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.42,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    0.68
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.63,
+    -1.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
+  },
+  "5803288@45": {
+   "id": 5803288,
+   "campionato": "Ligue 2",
+   "casa": "Reims",
+   "ospite": "Dijon",
+   "minuto": 45,
+   "punteggio_live": "3-1",
+   "xg": [
+    0.52,
+    0.6
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.9
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -2.22,
+    -0.1
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -3,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "16/10/2026 20:50"
   }
  },
- "aggiornato": "16/10/2026 20:16"
+ "aggiornato": "16/10/2026 20:51"
 }

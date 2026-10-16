@@ -61,3 +61,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261016;5881694;2. Bundesliga;Holstein Kiel;Hertha BSC;45;0-0;0.14;0.51;0;2 Ospite;
 20261016;5904772;Super Lig;Çorum FK;Rizespor;45;1-1;0.31;0.41;-1;Pareggio;
 20261016;5739529;Superligaen;AC Horsens;Randers FC;45;0-0;0.18;0.62;1;2 Ospite;
+20261016;5781769;Eredivisie;SC Heerenveen;Excelsior;45;1-0;1.13;0.23;1;1 Casa;
+20261016;5803281;Ligue 2;Annecy FC;Nancy;45;0-1;0.19;1.28;1;2 Ospite;
+20261016;5803282;Ligue 2;Grenoble;Boulogne;45;0-0;0.16;0.09;0;Pareggio;
+20261016;5803283;Ligue 2;Guingamp;Pau;45;0-2;0.79;0.21;-1;1 Casa;
+20261016;5803284;Ligue 2;Laval;Clermont Foot;45;0-2;0.42;0.45;-1;Pareggio;
+20261016;5803288;Ligue 2;Reims;Dijon;45;3-1;0.52;0.6;-3;Pareggio;
