@@ -2178,7 +2178,40 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "17/10/2026 21:06"
+  },
+  "5881693@45": {
+   "id": 5881693,
+   "campionato": "2. Bundesliga",
+   "casa": "Hannover 96",
+   "ospite": "St. Pauli",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.62,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.93,
+    -0.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 21:26"
   }
  },
- "aggiornato": "17/10/2026 21:06"
+ "aggiornato": "17/10/2026 21:26"
 }
