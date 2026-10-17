@@ -2242,7 +2242,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 21:45"
   },
   "5802963@45": {
@@ -2275,7 +2275,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 3",
    "scansione": "17/10/2026 21:45"
   },
   "5749701@45": {
@@ -2308,7 +2308,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "17/10/2026 21:45"
   },
   "5100981@45": {
@@ -2341,7 +2341,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 21:45"
   },
   "5868099@45": {
@@ -2541,7 +2541,40 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "17/10/2026 22:27"
+  },
+  "1000014053@45": {
+   "id": 1000014053,
+   "campionato": "Primera A",
+   "casa": "Chicó FC",
+   "ospite": "Atlético Nacional",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.31,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.48
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.46,
+    -0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 22:50"
   }
  },
- "aggiornato": "17/10/2026 22:27"
+ "aggiornato": "17/10/2026 22:50"
 }
