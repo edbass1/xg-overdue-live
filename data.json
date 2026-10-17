@@ -2176,7 +2176,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 21:06"
   },
   "5881693@45": {
@@ -2209,7 +2209,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 21:26"
   },
   "5802958@45": {
@@ -2508,7 +2508,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 22:00"
+  },
+  "5190773@45": {
+   "id": 5190773,
+   "campionato": "Série B",
+   "casa": "Ceará",
+   "ospite": "Juventude",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.09,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.14,
+    0.06
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.14,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 22:27"
   }
  },
- "aggiornato": "17/10/2026 22:00"
+ "aggiornato": "17/10/2026 22:27"
 }
