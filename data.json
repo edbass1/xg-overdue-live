@@ -2145,7 +2145,40 @@
    "esito": "Pareggio",
    "finale": "2 - 5",
    "scansione": "17/10/2026 19:39"
+  },
+  "5804004@45": {
+   "id": 5804004,
+   "campionato": "Ekstraklasa",
+   "casa": "Cracovia",
+   "ospite": "Legia Warszawa",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.2,
+    0.34
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.3,
+    0.51
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.7,
+    -0.49
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 21:06"
   }
  },
- "aggiornato": "17/10/2026 20:42"
+ "aggiornato": "17/10/2026 21:06"
 }
