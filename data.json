@@ -295,7 +295,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "17/10/2026 14:33"
   },
   "6361997@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 14:33"
   },
   "5836878@45": {
@@ -460,7 +460,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "17/10/2026 14:33"
   },
   "5105025@45": {
@@ -493,9 +493,240 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "17/10/2026 15:06"
+  },
+  "5749709@45": {
+   "id": 5749709,
+   "campionato": "Serie A",
+   "casa": "Venezia",
+   "ospite": "Napoli",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.17,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.26,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.26,
+    0.75
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5967099@45": {
+   "id": 5967099,
+   "campionato": "Serie B",
+   "casa": "Ascoli",
+   "ospite": "Empoli",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.24,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    0.48
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.86,
+    -0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5967100@45": {
+   "id": 5967100,
+   "campionato": "Serie B",
+   "casa": "Benevento",
+   "ospite": "LR Vicenza",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.84,
+    0.4
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.26,
+    0.6
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.74,
+    0.6
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5967105@45": {
+   "id": 5967105,
+   "campionato": "Serie B",
+   "casa": "Padova",
+   "ospite": "Virtus Entella",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.69,
+    0.75
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.03,
+    1.12
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.03,
+    1.12
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5967101@45": {
+   "id": 5967101,
+   "campionato": "Serie B",
+   "casa": "Carrarese",
+   "ospite": "Modena",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.62,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    0.69
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.07,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5904770@45": {
+   "id": 5904770,
+   "campionato": "Super Lig",
+   "casa": "Amed Sportif",
+   "ospite": "Konyaspor",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.3,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    0.15
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.45,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
+  },
+  "5904771@45": {
+   "id": 5904771,
+   "campionato": "Super Lig",
+   "casa": "Gençlerbirliği",
+   "ospite": "Galatasaray",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.65,
+    1.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.98,
+    1.91
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.98,
+    1.91
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 15:57"
   }
  },
- "aggiornato": "17/10/2026 15:32"
+ "aggiornato": "17/10/2026 15:59"
 }
