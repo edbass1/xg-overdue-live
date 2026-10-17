@@ -856,7 +856,7 @@
    ],
    "totale": 2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "17/10/2026 17:03"
   },
   "5105028@45": {
@@ -955,7 +955,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 17:03"
   },
   "5837207@45": {
@@ -1681,7 +1681,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "17/10/2026 17:27"
   },
   "5845999@45": {
@@ -1782,7 +1782,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "17/10/2026 18:10"
+  },
+  "5804005@45": {
+   "id": 5804005,
+   "campionato": "Ekstraklasa",
+   "casa": "GKS Katowice",
+   "ospite": "Pogoń Szczecin",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.16,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.24,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 18:33"
+  },
+  "5970161@45": {
+   "id": 5970161,
+   "campionato": "Saudi Pro League",
+   "casa": "Neom SC",
+   "ospite": "Al-Ettifaq",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.44,
+    0.03
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.66,
+    0.04
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.66,
+    0.04
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 18:33"
   }
  },
- "aggiornato": "17/10/2026 18:10"
+ "aggiornato": "17/10/2026 18:34"
 }
