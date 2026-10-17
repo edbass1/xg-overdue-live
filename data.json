@@ -328,7 +328,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "17/10/2026 14:33"
   },
   "5981663@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "17/10/2026 14:33"
   },
   "5836879@45": {
@@ -427,7 +427,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "17/10/2026 14:33"
   },
   "1000017751@45": {
@@ -497,5 +497,5 @@
    "scansione": "17/10/2026 15:06"
   }
  },
- "aggiornato": "17/10/2026 15:06"
+ "aggiornato": "17/10/2026 15:32"
 }
