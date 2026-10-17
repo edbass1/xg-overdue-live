@@ -2539,7 +2539,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "17/10/2026 22:27"
   },
   "1000014053@45": {
@@ -2572,7 +2572,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 4",
    "scansione": "17/10/2026 22:50"
   },
   "5071427@45": {
@@ -2673,7 +2673,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 23:32"
+  },
+  "5103665@45": {
+   "id": 5103665,
+   "campionato": "Série A",
+   "casa": "Botafogo",
+   "ospite": "Chapecoense",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.19,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.78,
+    0.12
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 23:56"
   }
  },
- "aggiornato": "17/10/2026 23:32"
+ "aggiornato": "17/10/2026 23:56"
 }
