@@ -1650,7 +1650,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 17:03"
+  },
+  "5781776@45": {
+   "id": 5781776,
+   "campionato": "Eredivisie",
+   "casa": "ADO Den Haag",
+   "ospite": "PSV Eindhoven",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.25,
+    0.51
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.38,
+    0.77
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    -0.23
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 17:27"
   }
  },
- "aggiornato": "17/10/2026 17:06"
+ "aggiornato": "17/10/2026 17:27"
 }
