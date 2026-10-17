@@ -757,7 +757,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "4 - 3",
    "scansione": "17/10/2026 16:40"
   },
   "5795476@45": {
@@ -1683,7 +1683,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "17/10/2026 17:27"
+  },
+  "5845999@45": {
+   "id": 5845999,
+   "campionato": "Bundesliga",
+   "casa": "Austria Lustenau",
+   "ospite": "LASK",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.0,
+    0.92
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.0,
+    1.38
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.0,
+    1.38
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 17:50"
   }
  },
- "aggiornato": "17/10/2026 17:27"
+ "aggiornato": "17/10/2026 17:50"
 }
