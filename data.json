@@ -726,7 +726,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "17/10/2026 15:57"
+  },
+  "5881192@45": {
+   "id": 5881192,
+   "campionato": "Bundesliga",
+   "casa": "Elversberg",
+   "ospite": "Augsburg",
+   "minuto": 45,
+   "punteggio_live": "3-1",
+   "xg": [
+    1.88,
+    1.81
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.82,
+    2.71
+   ],
+   "punteggio": [
+    2,
+    2
+   ],
+   "xsxg": [
+    -0.18,
+    1.71
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 16:40"
   }
  },
- "aggiornato": "17/10/2026 16:15"
+ "aggiornato": "17/10/2026 16:40"
 }
