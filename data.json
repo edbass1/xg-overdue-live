@@ -2343,7 +2343,172 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "17/10/2026 21:45"
+  },
+  "5868099@45": {
+   "id": 5868099,
+   "campionato": "LaLiga",
+   "casa": "Valencia",
+   "ospite": "Athletic Club",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.59,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.89,
+    0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 22:00"
+  },
+  "5781768@45": {
+   "id": 5781768,
+   "campionato": "Eredivisie",
+   "casa": "Sparta Rotterdam",
+   "ospite": "Willem II",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.58,
+    0.86
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.37,
+    1.29
+   ],
+   "punteggio": [
+    2,
+    1
+   ],
+   "xsxg": [
+    1.37,
+    0.29
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 22:00"
+  },
+  "5868499@45": {
+   "id": 5868499,
+   "campionato": "LaLiga2",
+   "casa": "Las Palmas",
+   "ospite": "Castellón",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.14,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.72
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    -1.28
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 22:00"
+  },
+  "5901180@45": {
+   "id": 5901180,
+   "campionato": "Premiere Ligue",
+   "casa": "Paris Saint Germain (W)",
+   "ospite": "OL Lyonnes (W)",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.27,
+    1.81
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    2.71
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.41,
+    0.71
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 22:00"
+  },
+  "5793948@45": {
+   "id": 5793948,
+   "campionato": "Premiership",
+   "casa": "Dundee FC",
+   "ospite": "Rangers",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.41,
+    0.61
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.11,
+    0.92
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.11,
+    -0.08
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 22:00"
   }
  },
- "aggiornato": "17/10/2026 21:46"
+ "aggiornato": "17/10/2026 22:00"
 }
