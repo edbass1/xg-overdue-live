@@ -142,3 +142,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261017;5868091;LaLiga;Real Betis;Barcelona;45;1-2;0.52;0.35;-2;Pareggio;
 20261017;5804004;Ekstraklasa;Cracovia;Legia Warszawa;45;1-1;0.2;0.34;-2;Pareggio;
 20261017;5881693;2. Bundesliga;Hannover 96;St. Pauli;45;0-1;0.62;0.54;0;Pareggio;
+20261017;5802958;Ligue 1;Lille;Brest;45;0-1;0.19;0.26;-1;Pareggio;
+20261017;5802963;Ligue 1;Troyes;Lens;45;1-2;0.54;0.98;-1;2 Ospite;
+20261017;5749701;Serie A;Roma;Genoa;45;0-0;0.47;0.35;1;Pareggio;
+20261017;5100981;Premier Division;Sligo Rovers;Dundalk;45;0-0;0.07;0.97;1;2 Ospite;

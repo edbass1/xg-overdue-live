@@ -2211,7 +2211,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "17/10/2026 21:26"
+  },
+  "5802958@45": {
+   "id": 5802958,
+   "campionato": "Ligue 1",
+   "casa": "Lille",
+   "ospite": "Brest",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.19,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.29,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    -0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 21:45"
+  },
+  "5802963@45": {
+   "id": 5802963,
+   "campionato": "Ligue 1",
+   "casa": "Troyes",
+   "ospite": "Lens",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.54,
+    0.98
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.47
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.19,
+    -0.53
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 21:45"
+  },
+  "5749701@45": {
+   "id": 5749701,
+   "campionato": "Serie A",
+   "casa": "Roma",
+   "ospite": "Genoa",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.47,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    0.52
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.7,
+    0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 21:45"
+  },
+  "5100981@45": {
+   "id": 5100981,
+   "campionato": "Premier Division",
+   "casa": "Sligo Rovers",
+   "ospite": "Dundalk",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.07,
+    0.97
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    1.46
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.11,
+    1.46
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 21:45"
   }
  },
- "aggiornato": "17/10/2026 21:26"
+ "aggiornato": "17/10/2026 21:46"
 }
