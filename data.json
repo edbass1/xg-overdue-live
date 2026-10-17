@@ -66,7 +66,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "17/10/2026 13:04"
+  },
+  "5904775@45": {
+   "id": 5904775,
+   "campionato": "Super Lig",
+   "casa": "Erzurumspor FK",
+   "ospite": "Eyüpspor",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.58,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    0.29
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.13,
+    0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 13:27"
   }
  },
- "aggiornato": "17/10/2026 13:04"
+ "aggiornato": "17/10/2026 13:27"
 }
