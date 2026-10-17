@@ -97,7 +97,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "17/10/2026 13:27"
   },
   "5881692@45": {
@@ -264,7 +264,205 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 14:05"
+  },
+  "5795478@45": {
+   "id": 5795478,
+   "campionato": "Premier League",
+   "casa": "Everton",
+   "ospite": "Chelsea",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.32,
+    0.52
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.48,
+    0.78
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.48,
+    0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
+  },
+  "6361997@45": {
+   "id": 6361997,
+   "campionato": "Indian Super League",
+   "casa": "Inter Kashi",
+   "ospite": "Odisha FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.05,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.08,
+    0.12
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.08,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
+  },
+  "5981663@45": {
+   "id": 5981663,
+   "campionato": "WSL",
+   "casa": "Arsenal (W)",
+   "ospite": "Birmingham City (W)",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.57,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.85,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.85,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
+  },
+  "5836878@45": {
+   "id": 5836878,
+   "campionato": "Championship",
+   "casa": "Middlesbrough",
+   "ospite": "Cardiff City",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    1.4,
+    0.63
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.1,
+    0.95
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.1,
+    -1.05
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
+  },
+  "5836879@45": {
+   "id": 5836879,
+   "campionato": "Championship",
+   "casa": "Millwall",
+   "ospite": "Lincoln City",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.22,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    -1.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
+  },
+  "1000017751@45": {
+   "id": 1000017751,
+   "campionato": "Thai League",
+   "casa": "Chonburi FC",
+   "ospite": "Prachuap FC",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.21,
+    0.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.81,
+    0.58
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.81,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 14:33"
   }
  },
- "aggiornato": "17/10/2026 14:06"
+ "aggiornato": "17/10/2026 14:33"
 }

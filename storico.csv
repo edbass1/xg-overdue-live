@@ -83,3 +83,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261017;1000017750;Thai League;Sukhothai FC;Rasisalai United;45;1-1;1.0;0.15;-1;1 Casa;
 20261017;5881695;2. Bundesliga;Kaiserslautern;Bochum;45;1-0;1.02;0.1;0;1 Casa;
 20261017;5847202;Premier League;Krylya Sovetov Samara;Fakel;45;1-1;1.09;0.39;0;1 Casa;
+20261017;5795478;Premier League;Everton;Chelsea;45;0-0;0.32;0.52;1;2 Ospite;
+20261017;6361997;Indian Super League;Inter Kashi;Odisha FC;45;0-0;0.05;0.08;0;Pareggio;
+20261017;5981663;WSL;Arsenal (W);Birmingham City (W);45;0-0;0.57;0.12;1;1 Casa;
+20261017;5836878;Championship;Middlesbrough;Cardiff City;45;0-2;1.4;0.63;1;1 Casa;
+20261017;5836879;Championship;Millwall;Lincoln City;45;0-2;0.22;0.27;-2;Pareggio;
+20261017;1000017751;Thai League;Chonburi FC;Prachuap FC;45;1-0;1.21;0.39;1;1 Casa;
