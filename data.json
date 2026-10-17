@@ -99,7 +99,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 13:27"
+  },
+  "5881692@45": {
+   "id": 5881692,
+   "campionato": "2. Bundesliga",
+   "casa": "Greuther Fürth",
+   "ospite": "Eintracht Braunschweig",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.49,
+    0.42
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.73,
+    0.63
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.27,
+    0.63
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 13:48"
+  },
+  "5881698@45": {
+   "id": 5881698,
+   "campionato": "2. Bundesliga",
+   "casa": "Wolfsburg",
+   "ospite": "FC Heidenheim",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.52,
+    1.64
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    2.46
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    -1.22,
+    1.46
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 13:48"
+  },
+  "1000017750@45": {
+   "id": 1000017750,
+   "campionato": "Thai League",
+   "casa": "Sukhothai FC",
+   "ospite": "Rasisalai United",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.0,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    0.22
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.5,
+    -0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "17/10/2026 13:48"
   }
  },
- "aggiornato": "17/10/2026 13:27"
+ "aggiornato": "17/10/2026 13:49"
 }
