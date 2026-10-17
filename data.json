@@ -33,7 +33,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 02:01"
+  },
+  "5803611@45": {
+   "id": 5803611,
+   "campionato": "J. League",
+   "casa": "Kashiwa Reysol",
+   "ospite": "Nagoya Grampus",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.36,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.99
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.46,
+    -1.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "17/10/2026 13:04"
   }
  },
- "aggiornato": "17/10/2026 12:40"
+ "aggiornato": "17/10/2026 13:04"
 }
