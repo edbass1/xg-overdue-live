@@ -1813,7 +1813,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "17/10/2026 18:33"
   },
   "5970161@45": {
@@ -1846,7 +1846,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "17/10/2026 18:33"
   },
   "5749702@45": {
@@ -2112,7 +2112,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "17/10/2026 18:58"
+  },
+  "5868091@45": {
+   "id": 5868091,
+   "campionato": "LaLiga",
+   "casa": "Real Betis",
+   "ospite": "Barcelona",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.52,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.52
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.22,
+    -1.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "17/10/2026 19:39"
   }
  },
- "aggiornato": "17/10/2026 19:16"
+ "aggiornato": "17/10/2026 19:40"
 }
