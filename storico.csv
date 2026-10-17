@@ -131,3 +131,11 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261017;5967104;Serie B;Mantova;Palermo;45;0-0;0.65;0.59;1;Pareggio;
 20261017;5804005;Ekstraklasa;GKS Katowice;Pogoń Szczecin;45;0-0;0.16;0.36;0;2 Ospite;
 20261017;5970161;Saudi Pro League;Neom SC;Al-Ettifaq;45;0-0;0.44;0.03;0;1 Casa;
+20261017;5749702;Serie A;Bologna;Inter;45;1-1;0.85;0.9;0;Pareggio;
+20261017;5105026;Eliteserien;Viking;Fredrikstad;45;1-2;0.66;0.38;-2;1 Casa;
+20261017;5908452;Premiere Ligue;Lens (W);Strasbourg (W);45;1-0;0.1;0.59;0;2 Ospite;
+20261017;5901179;Premiere Ligue;Montpellier (W);Le Havre (W);45;1-0;0.57;0.08;-1;1 Casa;
+20261017;5901181;Premiere Ligue;Saint Malo (W);Nantes (W);45;0-2;0.22;0.81;-1;2 Ospite;
+20261017;5901182;Premiere Ligue;Toulouse (W);Paris FC (W);45;0-2;0.02;1.15;-1;2 Ospite;
+20261017;5904773;Super Lig;Fenerbahçe;Alanyaspor;45;1-0;2.68;0.04;3;1 Casa;
+20261017;5955105;Premier Soccer League;Sekhukhune United;Marumo Gallants;45;1-0;1.1;0.09;0;1 Casa;
