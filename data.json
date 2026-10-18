@@ -2077,7 +2077,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "18/10/2026 21:39"
   },
   "5749705@45": {
@@ -2176,7 +2176,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "18/10/2026 21:57"
   },
   "1000014187@45": {
@@ -2308,7 +2308,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "18/10/2026 21:57"
   },
   "5190775@45": {
@@ -2341,7 +2341,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "18/10/2026 21:57"
   },
   "5190777@45": {
@@ -2378,5 +2378,5 @@
    "scansione": "18/10/2026 21:57"
   }
  },
- "aggiornato": "18/10/2026 22:39"
+ "aggiornato": "18/10/2026 23:00"
 }
