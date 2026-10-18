@@ -221,3 +221,11 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5970165;Saudi Pro League;Al Fateh FC;Al Khaleej;45;1-0;0.09;0.11;-1;Pareggio;
 20261018;5802960;Ligue 1;Lyon;Nice;45;2-1;1.38;0.42;-1;1 Casa;
 20261018;5749705;Serie A;Juventus;Lazio;45;0-1;0.11;0.27;-1;Pareggio;
+20261018;5868098;LaLiga;Real Madrid;Sevilla;45;2-0;1.48;0.21;0;1 Casa;
+20261018;5868492;LaLiga2;Burgos CF;Sabadell;45;0-0;0.87;0.03;1;1 Casa;
+20261018;1000014187;Primera A;Águilas Doradas;Tolima;45;1-1;0.33;0.24;-2;Pareggio;
+20261018;5103664;Série A;Fluminense;Santos;45;1-0;0.69;0.37;0;1 Casa;
+20261018;5103670;Série A;Grêmio;Cruzeiro;45;2-1;1.53;0.79;0;1 Casa;
+20261018;5190770;Série B;São Bernardo;Criciúma;45;0-1;0.07;0.61;0;2 Ospite;
+20261018;5190775;Série B;Avaí;Athletic Club MG;45;0-0;0.34;0.04;0;1 Casa;
+20261018;5190777;Série B;CRB;Botafogo SP;45;0-0;0.34;1.04;2;2 Ospite;
