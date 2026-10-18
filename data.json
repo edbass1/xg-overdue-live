@@ -1417,7 +1417,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "6 - 1",
    "scansione": "18/10/2026 17:49"
   },
   "5781772@45": {
@@ -1450,7 +1450,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 5",
    "scansione": "18/10/2026 17:49"
   },
   "5802956@45": {
@@ -1683,7 +1683,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 18:30"
+  },
+  "5749700@45": {
+   "id": 5749700,
+   "campionato": "Serie A",
+   "casa": "Milan",
+   "ospite": "Atalanta",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.01,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.52,
+    0.18
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.48,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 18:58"
+  },
+  "5904769@45": {
+   "id": 5904769,
+   "campionato": "Super Lig",
+   "casa": "Başakşehir",
+   "ospite": "Gaziantep FK",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.48,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.22,
+    0.29
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.22,
+    0.29
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 18:58"
+  },
+  "5739526@45": {
+   "id": 5739526,
+   "campionato": "Superligaen",
+   "casa": "FC København",
+   "ospite": "AGF",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.94,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.41,
+    0.21
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 18:58"
   }
  },
- "aggiornato": "18/10/2026 18:31"
+ "aggiornato": "18/10/2026 18:59"
 }

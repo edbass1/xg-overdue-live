@@ -208,3 +208,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5795483;Premier League;Nottingham Forest;Arsenal;45;0-0;0.26;0.45;1;Pareggio;
 20261018;5881190;Bundesliga;Borussia Mönchengladbach;Hoffenheim;45;0-1;0.22;0.57;0;2 Ospite;
 20261018;5804007;Ekstraklasa;Lech Poznań;Korona Kielce;45;4-0;1.24;0.22;-2;1 Casa;
+20261018;5749700;Serie A;Milan;Atalanta;45;2-0;1.01;0.12;-1;1 Casa;
+20261018;5904769;Super Lig;Başakşehir;Gaziantep FK;45;1-0;1.48;0.19;1;1 Casa;
+20261018;5739526;Superligaen;FC København;AGF;45;1-0;0.94;0.14;0;1 Casa;
