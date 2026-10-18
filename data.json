@@ -130,7 +130,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "6 - 2",
    "scansione": "18/10/2026 13:48"
   },
   "5847206@45": {
@@ -163,7 +163,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 2",
    "scansione": "18/10/2026 14:04"
   },
   "5901178@45": {
@@ -196,7 +196,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "18/10/2026 14:04"
   },
   "1000017753@45": {
@@ -262,7 +262,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "18/10/2026 14:04"
   },
   "5881690@45": {
@@ -429,7 +429,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "18/10/2026 14:33"
+  },
+  "5868494@45": {
+   "id": 5868494,
+   "campionato": "LaLiga2",
+   "casa": "AD Ceuta FC",
+   "ospite": "Real Oviedo",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.27,
+    0.77
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    1.16
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.41,
+    0.16
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:06"
+  },
+  "5739525@45": {
+   "id": 5739525,
+   "campionato": "Superligaen",
+   "casa": "Sønderjyske",
+   "ospite": "Silkeborg",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.19,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.78,
+    0.72
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -1.22,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:06"
+  },
+  "1000017756@45": {
+   "id": 1000017756,
+   "campionato": "Thai League",
+   "casa": "Pattani FC",
+   "ospite": "Buriram United",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.14,
+    0.56
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.84
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    -0.16
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:06"
   }
  },
- "aggiornato": "18/10/2026 14:33"
+ "aggiornato": "18/10/2026 15:07"
 }
