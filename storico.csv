@@ -199,3 +199,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5107622;Allsvenskan;Örgryte;GAIS;45;1-1;0.77;0.61;0;Pareggio;
 20261018;5107623;Allsvenskan;Malmö FF;Häcken;45;0-0;0.64;0.66;1;Pareggio;
 20261018;5107628;Allsvenskan;Halmstads BK;Hammarby;45;0-0;0.13;0.52;0;2 Ospite;
+20261018;5105029;Eliteserien;Molde;Start;45;2-0;1.3;0.01;-1;1 Casa;
+20261018;5781772;Eredivisie;FC Groningen;Ajax;45;0-2;0.26;1.68;0;2 Ospite;

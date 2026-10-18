@@ -1386,7 +1386,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "18/10/2026 17:27"
+  },
+  "5105029@45": {
+   "id": 5105029,
+   "campionato": "Eliteserien",
+   "casa": "Molde",
+   "ospite": "Start",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.3,
+    0.01
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.95,
+    0.01
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.05,
+    0.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 17:49"
+  },
+  "5781772@45": {
+   "id": 5781772,
+   "campionato": "Eredivisie",
+   "casa": "FC Groningen",
+   "ospite": "Ajax",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.26,
+    1.68
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    2.52
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.39,
+    0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 17:49"
   }
  },
- "aggiornato": "18/10/2026 17:27"
+ "aggiornato": "18/10/2026 17:50"
 }
