@@ -1120,7 +1120,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 1",
    "scansione": "18/10/2026 17:04"
   },
   "5868497@45": {
@@ -1186,7 +1186,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "7 - 1",
    "scansione": "18/10/2026 17:04"
   },
   "5943272@45": {
@@ -1219,7 +1219,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "18/10/2026 17:04"
   },
   "5739524@45": {
@@ -1252,7 +1252,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "18/10/2026 17:04"
   },
   "5943271@45": {
@@ -1452,7 +1452,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "18/10/2026 17:49"
+  },
+  "5802956@45": {
+   "id": 5802956,
+   "campionato": "Ligue 1",
+   "casa": "Le Havre",
+   "ospite": "Auxerre",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.75,
+    1.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.12,
+    1.92
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.12,
+    0.92
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 18:06"
+  },
+  "5802959@45": {
+   "id": 5802959,
+   "campionato": "Ligue 1",
+   "casa": "Lorient",
+   "ospite": "Monaco",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.31,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.46,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 18:06"
+  },
+  "5846003@45": {
+   "id": 5846003,
+   "campionato": "Bundesliga",
+   "casa": "Sturm Graz",
+   "ospite": "Grazer AK",
+   "minuto": 45,
+   "punteggio_live": "3-1",
+   "xg": [
+    1.89,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.83,
+    0.38
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -0.17,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 18:06"
+  },
+  "5967102@45": {
+   "id": 5967102,
+   "campionato": "Serie B",
+   "casa": "Cesena",
+   "ospite": "Avellino",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.56,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.34,
+    0.39
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.34,
+    0.39
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 18:06"
   }
  },
- "aggiornato": "18/10/2026 17:50"
+ "aggiornato": "18/10/2026 18:07"
 }

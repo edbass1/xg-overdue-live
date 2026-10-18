@@ -201,3 +201,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5107628;Allsvenskan;Halmstads BK;Hammarby;45;0-0;0.13;0.52;0;2 Ospite;
 20261018;5105029;Eliteserien;Molde;Start;45;2-0;1.3;0.01;-1;1 Casa;
 20261018;5781772;Eredivisie;FC Groningen;Ajax;45;0-2;0.26;1.68;0;2 Ospite;
+20261018;5802956;Ligue 1;Le Havre;Auxerre;45;0-1;0.75;1.28;2;2 Ospite;
+20261018;5802959;Ligue 1;Lorient;Monaco;45;0-0;0.31;0.14;0;Pareggio;
+20261018;5846003;Bundesliga;Sturm Graz;Grazer AK;45;3-1;1.89;0.25;-1;1 Casa;
+20261018;5967102;Serie B;Cesena;Avellino;45;0-0;1.56;0.26;2;1 Casa;
