@@ -211,3 +211,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5749700;Serie A;Milan;Atalanta;45;2-0;1.01;0.12;-1;1 Casa;
 20261018;5904769;Super Lig;Başakşehir;Gaziantep FK;45;1-0;1.48;0.19;1;1 Casa;
 20261018;5739526;Superligaen;FC København;AGF;45;1-0;0.94;0.14;0;1 Casa;
+20261018;5161672;NWSL;Houston Dash (W);Orlando Pride (W);45;0-2;0.42;1.43;0;2 Ospite;
+20261018;5943269;Super League;Kifisia FC;Aris Thessaloniki;45;0-1;0.21;1.06;0;2 Ospite;
