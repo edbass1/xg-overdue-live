@@ -165,3 +165,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5901178;Premiere Ligue;Marseille (W);Fleury Merogis U.S (W);45;0-0;0.33;0.67;1;2 Ospite;
 20261018;1000017753;Thai League;Sisaket United;BG Pathum United;45;0-1;0.08;0.83;0;2 Ospite;
 20261018;1000017754;Thai League;Bangkok United;Port FC;45;0-0;0.29;0.69;1;2 Ospite;
+20261018;5881690;2. Bundesliga;Arminia Bielefeld;VfL Osnabrück;45;1-1;0.41;0.77;-1;2 Ospite;
+20261018;5881697;2. Bundesliga;Dynamo Dresden;Magdeburg;45;1-0;1.01;0.34;1;1 Casa;
+20261018;5881696;2. Bundesliga;Karlsruher SC;Darmstadt;45;2-0;0.36;0.22;-2;Pareggio;
+20261018;6361999;Indian Super League;Churchill Brothers;East Bengal FC;45;0-2;0.26;0.75;-1;2 Ospite;
+20261018;1000017755;Thai League;Chiangrai United;Ratchaburi FC;45;0-1;0.26;0.45;0;Pareggio;
