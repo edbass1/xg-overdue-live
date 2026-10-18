@@ -99,7 +99,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 13:26"
+  },
+  "5981665@45": {
+   "id": 5981665,
+   "campionato": "WSL",
+   "casa": "Chelsea (W)",
+   "ospite": "Tottenham Hotspur (W)",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.86,
+    0.52
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.29,
+    0.78
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    -0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 13:48"
   }
  },
- "aggiornato": "18/10/2026 13:27"
+ "aggiornato": "18/10/2026 13:48"
 }
