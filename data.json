@@ -1879,7 +1879,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "18/10/2026 20:30"
   },
   "5781773@45": {
@@ -2046,7 +2046,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "18/10/2026 20:59"
+  },
+  "5802960@45": {
+   "id": 5802960,
+   "campionato": "Ligue 1",
+   "casa": "Lyon",
+   "ospite": "Nice",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.38,
+    0.42
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.07,
+    0.63
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.07,
+    -0.37
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 21:39"
+  },
+  "5749705@45": {
+   "id": 5749705,
+   "campionato": "Serie A",
+   "casa": "Juventus",
+   "ospite": "Lazio",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.11,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.17,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.17,
+    -0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 21:39"
   }
  },
- "aggiornato": "18/10/2026 21:17"
+ "aggiornato": "18/10/2026 21:39"
 }

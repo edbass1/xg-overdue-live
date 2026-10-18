@@ -219,3 +219,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5847199;Premier League;Baltika;FC Rostov;45;0-0;0.08;0.54;0;2 Ospite;
 20261018;5943273;Super League;PAOK Thessaloniki;Iraklis;45;0-0;0.7;0.17;1;1 Casa;
 20261018;5970165;Saudi Pro League;Al Fateh FC;Al Khaleej;45;1-0;0.09;0.11;-1;Pareggio;
+20261018;5802960;Ligue 1;Lyon;Nice;45;2-1;1.38;0.42;-1;1 Casa;
+20261018;5749705;Serie A;Juventus;Lazio;45;0-1;0.11;0.27;-1;Pareggio;
