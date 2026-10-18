@@ -889,7 +889,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 3",
    "scansione": "18/10/2026 15:58"
   },
   "5904774@45": {
@@ -1054,7 +1054,7 @@
    ],
    "totale": 2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "18/10/2026 16:15"
   },
   "5868092@45": {
@@ -1254,7 +1254,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "18/10/2026 17:04"
+  },
+  "5943271@45": {
+   "id": 5943271,
+   "campionato": "Super League",
+   "casa": "Panathinaikos",
+   "ospite": "Asteras Tripolis",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    2.12,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.18,
+    0.52
+   ],
+   "punteggio": [
+    3,
+    0
+   ],
+   "xsxg": [
+    1.18,
+    0.52
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 17:27"
+  },
+  "5107622@45": {
+   "id": 5107622,
+   "campionato": "Allsvenskan",
+   "casa": "Örgryte",
+   "ospite": "GAIS",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.77,
+    0.61
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.16,
+    0.92
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.16,
+    -0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 17:27"
+  },
+  "5107623@45": {
+   "id": 5107623,
+   "campionato": "Allsvenskan",
+   "casa": "Malmö FF",
+   "ospite": "Häcken",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.64,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.96,
+    0.99
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.96,
+    0.99
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 17:27"
+  },
+  "5107628@45": {
+   "id": 5107628,
+   "campionato": "Allsvenskan",
+   "casa": "Halmstads BK",
+   "ospite": "Hammarby",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.13,
+    0.52
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    0.78
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.2,
+    0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 17:27"
   }
  },
- "aggiornato": "18/10/2026 17:05"
+ "aggiornato": "18/10/2026 17:27"
 }
