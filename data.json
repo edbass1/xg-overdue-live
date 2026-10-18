@@ -132,7 +132,139 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 13:48"
+  },
+  "5847206@45": {
+   "id": 5847206,
+   "campionato": "Premier League",
+   "casa": "Zenit St. Petersburg",
+   "ospite": "FK Akhmat",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.07,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    -0.46
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 14:04"
+  },
+  "5901178@45": {
+   "id": 5901178,
+   "campionato": "Premiere Ligue",
+   "casa": "Marseille (W)",
+   "ospite": "Fleury Merogis U.S (W)",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.33,
+    0.67
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.49,
+    1.01
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.49,
+    1.01
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 14:04"
+  },
+  "1000017753@45": {
+   "id": 1000017753,
+   "campionato": "Thai League",
+   "casa": "Sisaket United",
+   "ospite": "BG Pathum United",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.08,
+    0.83
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.12,
+    1.24
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.12,
+    0.24
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 14:04"
+  },
+  "1000017754@45": {
+   "id": 1000017754,
+   "campionato": "Thai League",
+   "casa": "Bangkok United",
+   "ospite": "Port FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.29,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    1.03
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.43,
+    1.03
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 14:04"
   }
  },
- "aggiornato": "18/10/2026 13:48"
+ "aggiornato": "18/10/2026 14:05"
 }

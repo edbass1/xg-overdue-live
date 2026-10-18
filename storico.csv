@@ -161,3 +161,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5749708;Serie A;Udinese;Lecce;45;0-2;0.07;1.99;1;2 Ospite;
 20261018;5904768;Super Lig;Kasımpaşa;Samsunspor;45;2-1;1.41;0.46;-1;1 Casa;
 20261018;5981665;WSL;Chelsea (W);Tottenham Hotspur (W);45;1-1;0.86;0.52;0;1 Casa;
+20261018;5847206;Premier League;Zenit St. Petersburg;FK Akhmat;45;0-1;0.07;0.36;-1;2 Ospite;
+20261018;5901178;Premiere Ligue;Marseille (W);Fleury Merogis U.S (W);45;0-0;0.33;0.67;1;2 Ospite;
+20261018;1000017753;Thai League;Sisaket United;BG Pathum United;45;0-1;0.08;0.83;0;2 Ospite;
+20261018;1000017754;Thai League;Bangkok United;Port FC;45;0-0;0.29;0.69;1;2 Ospite;
