@@ -1846,7 +1846,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "18/10/2026 20:01"
   },
   "5967107@45": {
@@ -1881,7 +1881,172 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 20:30"
+  },
+  "5781773@45": {
+   "id": 5781773,
+   "campionato": "Eredivisie",
+   "casa": "FC Twente",
+   "ospite": "FC Utrecht",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.41,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    0.87
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.39,
+    0.87
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 20:59"
+  },
+  "5781770@45": {
+   "id": 5781770,
+   "campionato": "Eredivisie",
+   "casa": "NEC Nijmegen",
+   "ospite": "Fortuna Sittard",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.09,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.64,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.64,
+    -0.68
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 20:59"
+  },
+  "5847199@45": {
+   "id": 5847199,
+   "campionato": "Premier League",
+   "casa": "Baltika",
+   "ospite": "FC Rostov",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.08,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.12,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.12,
+    0.81
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 20:59"
+  },
+  "5943273@45": {
+   "id": 5943273,
+   "campionato": "Super League",
+   "casa": "PAOK Thessaloniki",
+   "ospite": "Iraklis",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.7,
+    0.17
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.05,
+    0.26
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.05,
+    0.26
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 20:59"
+  },
+  "5970165@45": {
+   "id": 5970165,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Fateh FC",
+   "ospite": "Al Khaleej",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.09,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.14,
+    0.17
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.86,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 20:59"
   }
  },
- "aggiornato": "18/10/2026 20:30"
+ "aggiornato": "18/10/2026 21:00"
 }

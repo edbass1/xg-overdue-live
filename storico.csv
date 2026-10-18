@@ -214,3 +214,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5161672;NWSL;Houston Dash (W);Orlando Pride (W);45;0-2;0.42;1.43;0;2 Ospite;
 20261018;5943269;Super League;Kifisia FC;Aris Thessaloniki;45;0-1;0.21;1.06;0;2 Ospite;
 20261018;5967107;Serie B;Sampdoria;Arezzo;45;1-1;0.81;0.24;-1;1 Casa;
+20261018;5781773;Eredivisie;FC Twente;FC Utrecht;45;1-0;0.41;0.58;0;Pareggio;
+20261018;5781770;Eredivisie;NEC Nijmegen;Fortuna Sittard;45;1-1;1.09;0.21;-1;1 Casa;
+20261018;5847199;Premier League;Baltika;FC Rostov;45;0-0;0.08;0.54;0;2 Ospite;
+20261018;5943273;Super League;PAOK Thessaloniki;Iraklis;45;0-0;0.7;0.17;1;1 Casa;
+20261018;5970165;Saudi Pro League;Al Fateh FC;Al Khaleej;45;1-0;0.09;0.11;-1;Pareggio;
