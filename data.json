@@ -1,5 +1,39 @@
 {
  "date": "20261018",
- "matches": {},
- "aggiornato": "18/10/2026 12:40"
+ "matches": {
+  "5804006@45": {
+   "id": 5804006,
+   "campionato": "Ekstraklasa",
+   "casa": "Górnik Zabrze",
+   "ospite": "Piast Gliwice",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.32,
+    0.65
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.98,
+    0.98
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.98,
+    -0.02
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 13:04"
+  }
+ },
+ "aggiornato": "18/10/2026 13:05"
 }
