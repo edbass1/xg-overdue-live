@@ -173,3 +173,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261018;5868494;LaLiga2;AD Ceuta FC;Real Oviedo;45;0-1;0.27;0.77;0;2 Ospite;
 20261018;5739525;Superligaen;Sønderjyske;Silkeborg;45;3-0;1.19;0.48;-1;1 Casa;
 20261018;1000017756;Thai League;Pattani FC;Buriram United;45;0-1;0.14;0.56;0;2 Ospite;
+20261018;5846001;Bundesliga;Salzburg;Altach;45;1-0;1.51;0.33;1;1 Casa;
+20261018;5846004;Bundesliga;Wolfsberger AC;WSG Tirol;45;0-1;0.4;0.42;0;Pareggio;
+20261018;5105032;Eliteserien;Sarpsborg 08;Rosenborg;45;0-2;0.51;0.94;0;2 Ospite;
+20261018;5781771;Eredivisie;Cambuur;AZ Alkmaar;45;2-1;0.77;0.51;-2;1 Casa;

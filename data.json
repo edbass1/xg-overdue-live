@@ -229,7 +229,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "18/10/2026 14:04"
   },
   "1000017754@45": {
@@ -295,7 +295,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "18/10/2026 14:33"
   },
   "5881697@45": {
@@ -328,7 +328,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "18/10/2026 14:33"
   },
   "5881696@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "4 - 0",
    "scansione": "18/10/2026 14:33"
   },
   "6361999@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 4",
    "scansione": "18/10/2026 14:33"
   },
   "1000017755@45": {
@@ -427,7 +427,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "18/10/2026 14:33"
   },
   "5868494@45": {
@@ -528,7 +528,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "18/10/2026 15:06"
+  },
+  "5846001@45": {
+   "id": 5846001,
+   "campionato": "Bundesliga",
+   "casa": "Salzburg",
+   "ospite": "Altach",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.51,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.27,
+    0.49
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.27,
+    0.49
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:31"
+  },
+  "5846004@45": {
+   "id": 5846004,
+   "campionato": "Bundesliga",
+   "casa": "Wolfsberger AC",
+   "ospite": "WSG Tirol",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.4,
+    0.42
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.6,
+    0.63
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.6,
+    -0.37
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 15:31"
+  },
+  "5105032@45": {
+   "id": 5105032,
+   "campionato": "Eliteserien",
+   "casa": "Sarpsborg 08",
+   "ospite": "Rosenborg",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.51,
+    0.94
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.77,
+    1.41
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.77,
+    -0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:31"
+  },
+  "5781771@45": {
+   "id": 5781771,
+   "campionato": "Eredivisie",
+   "casa": "Cambuur",
+   "ospite": "AZ Alkmaar",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.77,
+    0.51
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.16,
+    0.77
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.84,
+    -0.23
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:31"
   }
  },
- "aggiornato": "18/10/2026 15:07"
+ "aggiornato": "18/10/2026 15:32"
 }
