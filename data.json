@@ -493,7 +493,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 0",
    "scansione": "18/10/2026 15:06"
   },
   "1000017756@45": {
@@ -660,7 +660,370 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 15:31"
+  },
+  "5795475@45": {
+   "id": 5795475,
+   "campionato": "Premier League",
+   "casa": "AFC Bournemouth",
+   "ospite": "Sunderland",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.6,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.4,
+    0.06
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.4,
+    0.06
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5795477@45": {
+   "id": 5795477,
+   "campionato": "Premier League",
+   "casa": "Brighton & Hove Albion",
+   "ospite": "Crystal Palace",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    0.39,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -2.42,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -3,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5795480@45": {
+   "id": 5795480,
+   "campionato": "Premier League",
+   "casa": "Leeds United",
+   "ospite": "Manchester United",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.25,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.38,
+    0.99
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    -0.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5802955@45": {
+   "id": 5802955,
+   "campionato": "Ligue 1",
+   "casa": "Angers",
+   "ospite": "Marseille",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.9,
+    1.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.35,
+    1.88
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.35,
+    -0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5749703@45": {
+   "id": 5749703,
+   "campionato": "Serie A",
+   "casa": "Fiorentina",
+   "ospite": "Como",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    1.0,
+    0.92
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    1.38
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.5,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5967103@45": {
+   "id": 5967103,
+   "campionato": "Serie B",
+   "casa": "Juve Stabia",
+   "ospite": "Südtirol",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.51,
+    0.02
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.77,
+    0.03
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.23,
+    0.03
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5943268@45": {
+   "id": 5943268,
+   "campionato": "Super League",
+   "casa": "Kalamata",
+   "ospite": "OFI Crete",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.97,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.46,
+    0.69
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.54,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5904774@45": {
+   "id": 5904774,
+   "campionato": "Super Lig",
+   "casa": "Kocaelispor",
+   "ospite": "Göztepe",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.19,
+    0.47
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.29,
+    0.7
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    -0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5981662@45": {
+   "id": 5981662,
+   "campionato": "WSL",
+   "casa": "Aston Villa (W)",
+   "ospite": "Liverpool (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.08,
+    0.38
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.12,
+    0.57
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.12,
+    -0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5981664@45": {
+   "id": 5981664,
+   "campionato": "WSL",
+   "casa": "Charlton (W)",
+   "ospite": "Manchester United (W)",
+   "minuto": 45,
+   "punteggio_live": "1-3",
+   "xg": [
+    0.13,
+    1.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    1.81
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.8,
+    -1.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
+  },
+  "5981667@45": {
+   "id": 5981667,
+   "campionato": "WSL",
+   "casa": "London City Lionesses (W)",
+   "ospite": "Everton (W)",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.72,
+    0.07
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.08,
+    0.11
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.92,
+    0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 15:58"
   }
  },
- "aggiornato": "18/10/2026 15:32"
+ "aggiornato": "18/10/2026 15:59"
 }
