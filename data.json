@@ -33,7 +33,73 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "18/10/2026 13:04"
+  },
+  "5749708@45": {
+   "id": 5749708,
+   "campionato": "Serie A",
+   "casa": "Udinese",
+   "ospite": "Lecce",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.07,
+    1.99
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    2.98
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.11,
+    0.98
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "18/10/2026 13:26"
+  },
+  "5904768@45": {
+   "id": 5904768,
+   "campionato": "Super Lig",
+   "casa": "Kasımpaşa",
+   "ospite": "Samsunspor",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.41,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.11,
+    0.69
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    -0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "18/10/2026 13:26"
   }
  },
- "aggiornato": "18/10/2026 13:05"
+ "aggiornato": "18/10/2026 13:27"
 }

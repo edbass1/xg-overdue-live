@@ -158,3 +158,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261017;1000019587;Liga Profesional;Independiente Rivadavia;Tigre;45;1-1;0.39;0.14;-2;1 Casa;
 20261017;5103665;Série A;Botafogo;Chapecoense;45;1-0;1.19;0.08;0;1 Casa;
 20261018;5804006;Ekstraklasa;Górnik Zabrze;Piast Gliwice;45;1-1;1.32;0.65;0;1 Casa;
+20261018;5749708;Serie A;Udinese;Lecce;45;0-2;0.07;1.99;1;2 Ospite;
+20261018;5904768;Super Lig;Kasımpaşa;Samsunspor;45;2-1;1.41;0.46;-1;1 Casa;
