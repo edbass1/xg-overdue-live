@@ -31,7 +31,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "19/10/2026 17:01"
   },
   "5996742@45": {
@@ -64,9 +64,42 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "19/10/2026 17:01"
+  },
+  "5970166@45": {
+   "id": 5970166,
+   "campionato": "Saudi Pro League",
+   "casa": "Al-Fayha",
+   "ospite": "Al Ahli",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.37,
+    0.22
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.55,
+    0.33
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.45,
+    -0.67
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "19/10/2026 18:05"
   }
  },
- "aggiornato": "19/10/2026 17:35"
+ "aggiornato": "19/10/2026 18:06"
 }
