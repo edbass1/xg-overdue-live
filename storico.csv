@@ -232,3 +232,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261019;6362001;Indian Super League;Punjab FC;Mumbai City FC;45;0-0;0.21;0.26;0;Pareggio;
 20261019;5996742;Premier League;El Gouna FC;Smouha SC;45;0-0;0.27;0.11;0;Pareggio;
 20261019;5970166;Saudi Pro League;Al-Fayha;Al Ahli;45;1-1;0.37;0.22;-2;Pareggio;
+20261019;5749706;Serie A;Monza;Cagliari;45;1-0;0.59;0.51;0;Pareggio;
+20261019;5847204;Premier League;Rodina;FC Orenburg;45;1-1;0.07;1.31;0;2 Ospite;
