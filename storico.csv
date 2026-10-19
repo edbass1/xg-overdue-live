@@ -240,3 +240,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261019;5904767;Super Lig;Trabzonspor;Beşiktaş;45;1-0;1.04;0.83;1;1 Casa;
 20261019;5739528;Superligaen;Viborg;FC Midtjylland;45;0-0;0.93;0.23;1;1 Casa;
 20261019;5107625;Allsvenskan;Degerfors;Kalmar FF;45;1-2;0.83;1.59;0;2 Ospite;
+20261019;5749707;Serie A;Parma;Torino;45;0-2;0.7;1.31;1;2 Ospite;
+20261019;5803289;Ligue 2;Rodez;Montpellier;45;0-0;0.98;0.61;2;1 Casa;
+20261019;5100975;Premier Division;Waterford FC;Galway United FC;45;2-0;1.41;0.09;0;1 Casa;

@@ -363,7 +363,106 @@
    "esito": "2 Ospite",
    "finale": "1 - 2",
    "scansione": "19/10/2026 20:00"
+  },
+  "5749707@45": {
+   "id": 5749707,
+   "campionato": "Serie A",
+   "casa": "Parma",
+   "ospite": "Torino",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.7,
+    1.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.05,
+    1.97
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.05,
+    -0.03
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "19/10/2026 21:45"
+  },
+  "5803289@45": {
+   "id": 5803289,
+   "campionato": "Ligue 2",
+   "casa": "Rodez",
+   "ospite": "Montpellier",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.98,
+    0.61
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.47,
+    0.92
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.47,
+    0.92
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "19/10/2026 21:45"
+  },
+  "5100975@45": {
+   "id": 5100975,
+   "campionato": "Premier Division",
+   "casa": "Waterford FC",
+   "ospite": "Galway United FC",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.41,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.11,
+    0.14
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "19/10/2026 21:45"
   }
  },
- "aggiornato": "19/10/2026 21:13"
+ "aggiornato": "19/10/2026 21:45"
 }
