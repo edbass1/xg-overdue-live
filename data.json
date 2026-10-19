@@ -462,7 +462,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "19/10/2026 21:45"
+  },
+  "5887594@45": {
+   "id": 5887594,
+   "campionato": "Liga Portugal",
+   "casa": "Braga",
+   "ospite": "Gil Vicente",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.53,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.2,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "19/10/2026 22:13"
   }
  },
- "aggiornato": "19/10/2026 21:45"
+ "aggiornato": "19/10/2026 22:13"
 }
