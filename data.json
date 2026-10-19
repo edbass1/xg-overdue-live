@@ -1,5 +1,72 @@
 {
  "date": "20261019",
- "matches": {},
- "aggiornato": "19/10/2026 16:23"
+ "matches": {
+  "6362001@45": {
+   "id": 6362001,
+   "campionato": "Indian Super League",
+   "casa": "Punjab FC",
+   "ospite": "Mumbai City FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.21,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.32,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.32,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "19/10/2026 17:01"
+  },
+  "5996742@45": {
+   "id": 5996742,
+   "campionato": "Premier League",
+   "casa": "El Gouna FC",
+   "ospite": "Smouha SC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.27,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.17
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "19/10/2026 17:01"
+  }
+ },
+ "aggiornato": "19/10/2026 17:01"
 }
