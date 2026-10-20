@@ -1,5 +1,39 @@
 {
  "date": "20261020",
- "matches": {},
- "aggiornato": "20/10/2026 16:13"
+ "matches": {
+  "5996745@45": {
+   "id": 5996745,
+   "campionato": "Premier League",
+   "casa": "Asyut Petroleum",
+   "ospite": "Zamalek SC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.53,
+    1.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    1.58
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.8,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "20/10/2026 16:46"
+  }
+ },
+ "aggiornato": "20/10/2026 16:46"
 }
