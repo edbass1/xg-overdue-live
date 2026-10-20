@@ -99,7 +99,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "20/10/2026 19:53"
+  },
+  "5970164@45": {
+   "id": 5970164,
+   "campionato": "Saudi Pro League",
+   "casa": "Al-Ettifaq",
+   "ospite": "Al Ittihad",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.94,
+    0.56
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.41,
+    0.84
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    -0.16
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "20/10/2026 20:55"
+  },
+  "5970168@45": {
+   "id": 5970168,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Nassr FC",
+   "ospite": "Neom SC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.04,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.56,
+    0.42
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.56,
+    0.42
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "20/10/2026 20:55"
   }
  },
- "aggiornato": "20/10/2026 20:17"
+ "aggiornato": "20/10/2026 20:55"
 }

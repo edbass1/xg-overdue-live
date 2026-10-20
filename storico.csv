@@ -247,3 +247,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261020;5996745;Premier League;Asyut Petroleum;Zamalek SC;45;0-1;0.53;1.05;1;2 Ospite;
 20261020;5996747;Premier League;Tala'ea El Gaish;Pyramids FC;45;1-2;0.73;0.66;-1;Pareggio;
 20261020;5996746;Premier League;Wadi Degla FC;National Bank;45;1-0;0.3;0.12;-1;Pareggio;
+20261020;5970164;Saudi Pro League;Al-Ettifaq;Al Ittihad;45;1-1;0.94;0.56;0;1 Casa;
+20261020;5970168;Saudi Pro League;Al Nassr FC;Neom SC;45;0-0;1.04;0.28;1;1 Casa;
