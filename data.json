@@ -33,7 +33,73 @@
    "esito": "2 Ospite",
    "finale": "0 - 1",
    "scansione": "20/10/2026 16:46"
+  },
+  "5996747@45": {
+   "id": 5996747,
+   "campionato": "Premier League",
+   "casa": "Tala'ea El Gaish",
+   "ospite": "Pyramids FC",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.73,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.09,
+    0.99
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    -1.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "20/10/2026 19:53"
+  },
+  "5996746@45": {
+   "id": 5996746,
+   "campionato": "Premier League",
+   "casa": "Wadi Degla FC",
+   "ospite": "National Bank",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.3,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.55,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "20/10/2026 19:53"
   }
  },
- "aggiornato": "20/10/2026 19:22"
+ "aggiornato": "20/10/2026 19:53"
 }
