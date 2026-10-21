@@ -264,7 +264,73 @@
    "esito": "Pareggio",
    "finale": "2 - 2",
    "scansione": "21/10/2026 12:53"
+  },
+  "6106410@45": {
+   "id": 6106410,
+   "campionato": "Champions League",
+   "casa": "Como",
+   "ospite": "Manchester United",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.4,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.6,
+    0.15
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.4,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 19:48"
+  },
+  "6298359@45": {
+   "id": 6298359,
+   "campionato": "DBU Pokalen",
+   "casa": "Vanløse IF",
+   "ospite": "Nykøbing FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.29,
+    0.72
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    1.08
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.43,
+    1.08
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "21/10/2026 19:48"
   }
  },
- "aggiornato": "21/10/2026 19:18"
+ "aggiornato": "21/10/2026 19:48"
 }
