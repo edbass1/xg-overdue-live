@@ -363,7 +363,271 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "21/10/2026 20:52"
+  },
+  "6106285@45": {
+   "id": 6106285,
+   "campionato": "Champions League",
+   "casa": "Aston Villa",
+   "ospite": "Viking",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.98,
+    0.02
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.97,
+    0.03
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.97,
+    0.03
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 3,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106238@45": {
+   "id": 6106238,
+   "campionato": "Champions League",
+   "casa": "Bayern München",
+   "ospite": "Arsenal",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.82,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.23,
+    0.87
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.23,
+    0.87
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106297@45": {
+   "id": 6106297,
+   "campionato": "Champions League",
+   "casa": "Club Brugge",
+   "ospite": "Lens",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.0,
+    1.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    2.0
+   ],
+   "punteggio": [
+    1,
+    2
+   ],
+   "xsxg": [
+    1.5,
+    2.0
+   ],
+   "overdue": [
+    1,
+    2
+   ],
+   "totale": 3,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106252@45": {
+   "id": 6106252,
+   "campionato": "Champions League",
+   "casa": "Inter",
+   "ospite": "Shakhtar Donetsk",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.29,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    0.42
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.43,
+    0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106300@45": {
+   "id": 6106300,
+   "campionato": "Champions League",
+   "casa": "Real Betis",
+   "ospite": "Feyenoord",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.82,
+    0.55
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.23,
+    0.83
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.23,
+    0.83
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106244@45": {
+   "id": 6106244,
+   "campionato": "Champions League",
+   "casa": "Real Madrid",
+   "ospite": "RB Leipzig",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.28,
+    0.7
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.92,
+    1.05
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.92,
+    1.05
+   ],
+   "overdue": [
+    1,
+    1
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "6106281@45": {
+   "id": 6106281,
+   "campionato": "Champions League",
+   "casa": "Sporting CP",
+   "ospite": "LASK",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.06,
+    0.49
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.59,
+    0.73
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.59,
+    -0.27
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
+  },
+  "5837230@45": {
+   "id": 5837230,
+   "campionato": "League One",
+   "casa": "Reading",
+   "ospite": "Leyton Orient",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.22,
+    1.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.83,
+    1.62
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.83,
+    1.62
+   ],
+   "overdue": [
+    1,
+    1
+   ],
+   "totale": 3,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "21/10/2026 21:54"
   }
  },
- "aggiornato": "21/10/2026 21:23"
+ "aggiornato": "21/10/2026 21:54"
 }
