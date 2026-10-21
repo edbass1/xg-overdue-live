@@ -1,5 +1,5 @@
 {
- "aggiornato": "20/10/2026 08:42",
+ "aggiornato": "21/10/2026 08:43",
  "calibrazione": {
   "n": 308,
   "base_rate": 0.39285714285714285,
@@ -16,70 +16,6 @@
   "quota_overdue0_pos": 1.0
  },
  "matches": [
-  {
-   "id": 5836821,
-   "campionato": "Championship",
-   "ora": "20/10 20:45",
-   "casa": "Wolverhampton Wanderers",
-   "ospite": "Portsmouth",
-   "xg_media": [
-    1.63,
-    0.98
-   ],
-   "match_xg": 2.61,
-   "proiezione": [
-    1.63,
-    0.98
-   ],
-   "punteggio_atteso": [
-    1,
-    0
-   ],
-   "gol_attesi": 1,
-   "xsxg": [
-    1.63,
-    0.98
-   ],
-   "team_overdue": [
-    1,
-    0
-   ],
-   "totale_overdue": 2,
-   "esito": "Vittoria Casa",
-   "p1": 0.5257706320024211,
-   "px": 0.24712056319165926,
-   "p2": 0.2271075730595267,
-   "o15": 0.7345390652689708,
-   "o25": 0.4840767324848103,
-   "gg": 0.5022930998567046,
-   "top3": [
-    [
-     "1-0",
-     0.12
-    ],
-    [
-     "1-1",
-     0.117
-    ],
-    [
-     "2-0",
-     0.098
-    ]
-   ],
-   "xg_ht": [
-    0.89,
-    0.36
-   ],
-   "proiez_ht": [
-    1.34,
-    0.54
-   ],
-   "indice_overdue": 0.37133333333333335,
-   "n": [
-    4,
-    5
-   ]
-  },
   {
    "id": 5868067,
    "campionato": "LaLiga",
