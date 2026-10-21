@@ -1,5 +1,270 @@
 {
  "date": "20261021",
- "matches": {},
- "aggiornato": "21/10/2026 12:19"
+ "matches": {
+  "5803618@45": {
+   "id": 5803618,
+   "campionato": "J. League",
+   "casa": "Avispa Fukuoka",
+   "ospite": "Gamba Osaka",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.14,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.14
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803623@45": {
+   "id": 5803623,
+   "campionato": "J. League",
+   "casa": "Fagiano Okayama FC",
+   "ospite": "Mito Hollyhock",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.66,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.99,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.99,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803619@45": {
+   "id": 5803619,
+   "campionato": "J. League",
+   "casa": "FC Tokyo",
+   "ospite": "Kashiwa Reysol",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.18,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.77,
+    1.03
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.77,
+    1.03
+   ],
+   "overdue": [
+    1,
+    1
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803620@45": {
+   "id": 5803620,
+   "campionato": "J. League",
+   "casa": "Kawasaki Frontale",
+   "ospite": "Vissel Kobe",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.1,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.65,
+    0.39
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.65,
+    0.39
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803622@45": {
+   "id": 5803622,
+   "campionato": "J. League",
+   "casa": "Nagoya Grampus",
+   "ospite": "Cerezo Osaka",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.38,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.43,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803624@45": {
+   "id": 5803624,
+   "campionato": "J. League",
+   "casa": "Shimizu S-Pulse",
+   "ospite": "Machida Zelvia",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.11,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.17,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.17,
+    -0.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803626@45": {
+   "id": 5803626,
+   "campionato": "J. League",
+   "casa": "V-Varen Nagasaki",
+   "ospite": "Sanfrecce Hiroshima",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.35,
+    0.8
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.52,
+    1.2
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.48,
+    1.2
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  },
+  "5803627@45": {
+   "id": 5803627,
+   "campionato": "J. League",
+   "casa": "Yokohama F.Marinos",
+   "ospite": "Tokyo Verdy",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.76,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.14,
+    0.85
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.14,
+    0.85
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "21/10/2026 12:53"
+  }
+ },
+ "aggiornato": "21/10/2026 12:54"
 }
