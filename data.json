@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": "1 - 5",
    "scansione": "22/10/2026 17:26"
+  },
+  "6112289@45": {
+   "id": 6112289,
+   "campionato": "Europa League",
+   "casa": "Union St.Gilloise",
+   "ospite": "Hapoel Beer Sheva",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.62,
+    0.53
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.43,
+    0.8
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.43,
+    0.8
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "22/10/2026 19:52"
   }
  },
- "aggiornato": "22/10/2026 19:23"
+ "aggiornato": "22/10/2026 19:53"
 }
