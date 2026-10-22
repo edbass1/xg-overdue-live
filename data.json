@@ -1,5 +1,39 @@
 {
  "date": "20261022",
- "matches": {},
- "aggiornato": "22/10/2026 16:58"
+ "matches": {
+  "6112498@45": {
+   "id": 6112498,
+   "campionato": "Conference League",
+   "casa": "Kairat Almaty",
+   "ospite": "Panathinaikos",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.24,
+    1.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.36,
+    2.54
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.36,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "22/10/2026 17:26"
+  }
+ },
+ "aggiornato": "22/10/2026 17:26"
 }
