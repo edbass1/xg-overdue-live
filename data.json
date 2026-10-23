@@ -559,7 +559,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "23/10/2026 21:23"
   },
   "5804020@45": {
@@ -592,7 +592,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "23/10/2026 21:23"
   },
   "5868510@45": {
@@ -625,7 +625,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "23/10/2026 21:23"
   },
   "5967113@45": {
@@ -658,7 +658,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "23/10/2026 21:23"
   },
   "5795491@45": {
@@ -757,7 +757,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "23/10/2026 21:51"
   },
   "5100986@45": {
@@ -825,7 +825,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "23/10/2026 21:51"
+  },
+  "5887662@45": {
+   "id": 5887662,
+   "campionato": "Liga Portugal",
+   "casa": "Vitória de Guimarães",
+   "ospite": "Marítimo",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.85,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.27,
+    0.15
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.27,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 22:45"
   }
  },
- "aggiornato": "23/10/2026 22:13"
+ "aggiornato": "23/10/2026 22:45"
 }
