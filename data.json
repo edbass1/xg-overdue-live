@@ -33,7 +33,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "23/10/2026 18:21"
+  },
+  "5804016@45": {
+   "id": 5804016,
+   "campionato": "Ekstraklasa",
+   "casa": "Motor Lublin",
+   "ospite": "Zagłębie Lubin",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.52,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    -0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 18:58"
   }
  },
- "aggiornato": "23/10/2026 18:21"
+ "aggiornato": "23/10/2026 18:58"
 }
