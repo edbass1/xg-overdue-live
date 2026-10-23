@@ -298,3 +298,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261022;6112540;Conference League;Thun;Hajduk Split;45;0-1;0.33;0.37;0;Pareggio;
 20261023;5970175;Saudi Pro League;Al Ittihad;Al Diriyah;45;1-0;1.16;0.24;1;1 Casa;
 20261023;5804016;Ekstraklasa;Motor Lublin;Zagłębie Lubin;45;0-1;0.52;0.15;0;1 Casa;
+20261023;5881699;2. Bundesliga;Bochum;Wolfsburg;45;0-1;0.8;0.15;0;1 Casa;
+20261023;5881701;2. Bundesliga;Darmstadt;St. Pauli;45;0-0;0.19;1.15;2;2 Ospite;
+20261023;5847207;Premier League;FK Akhmat;FC Orenburg;45;0-1;0.13;0.25;-1;Pareggio;
