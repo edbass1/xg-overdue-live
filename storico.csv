@@ -312,3 +312,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261023;5803296;Ligue 2;Pau;Grenoble;45;0-1;0.36;0.66;0;2 Ospite;
 20261023;5970171;Saudi Pro League;Al Ahli;Al Khaleej;45;1-0;0.7;0.04;0;1 Casa;
 20261023;5970177;Saudi Pro League;Al Qadsiah;Al Hilal;45;1-1;0.53;2.11;1;2 Ospite;
+20261023;5881205;Bundesliga;VfB Stuttgart;Borussia Mönchengladbach;45;1-1;0.57;1.08;0;2 Ospite;
+20261023;5804020;Ekstraklasa;Widzew Łódź;Górnik Zabrze;45;1-1;0.5;1.23;0;2 Ospite;
+20261023;5868510;LaLiga2;Granada;Real Valladolid;45;1-0;0.56;0.8;1;2 Ospite;
+20261023;5967113;Serie B;Empoli;LR Vicenza;45;0-1;0.35;0.86;0;2 Ospite;
