@@ -31,7 +31,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "23/10/2026 18:21"
   },
   "5804016@45": {
@@ -165,7 +165,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "23/10/2026 19:22"
+  },
+  "5904778@45": {
+   "id": 5904778,
+   "campionato": "Super Lig",
+   "casa": "Alanyaspor",
+   "ospite": "Kocaelispor",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.05,
+    1.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.08,
+    2.15
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.08,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 19:52"
+  },
+  "5739531@45": {
+   "id": 5739531,
+   "campionato": "Superligaen",
+   "casa": "Randers FC",
+   "ospite": "Brøndby IF",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.15,
+    0.94
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.72,
+    1.41
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.72,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 19:52"
+  },
+  "5107633@45": {
+   "id": 5107633,
+   "campionato": "Allsvenskan",
+   "casa": "Elfsborg",
+   "ospite": "Malmö FF",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.22,
+    0.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.46
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    0.46
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "23/10/2026 19:52"
+  },
+  "5107635@45": {
+   "id": 5107635,
+   "campionato": "Allsvenskan",
+   "casa": "Västerås SK",
+   "ospite": "Halmstads BK",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.73,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.09,
+    0.21
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 19:52"
   }
  },
- "aggiornato": "23/10/2026 19:22"
+ "aggiornato": "23/10/2026 19:53"
 }
