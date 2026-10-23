@@ -660,7 +660,172 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "23/10/2026 21:23"
+  },
+  "5795491@45": {
+   "id": 5795491,
+   "campionato": "Premier League",
+   "casa": "Ipswich Town",
+   "ospite": "Nottingham Forest",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.4,
+    1.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.6,
+    2.08
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    -0.4,
+    1.08
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 21:51"
+  },
+  "5868101@45": {
+   "id": 5868101,
+   "campionato": "LaLiga",
+   "casa": "Deportivo Alavés",
+   "ospite": "Málaga",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.3,
+    0.42
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    0.63
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.45,
+    -0.37
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "23/10/2026 21:51"
+  },
+  "5100982@45": {
+   "id": 5100982,
+   "campionato": "Premier Division",
+   "casa": "Bohemian FC",
+   "ospite": "Shelbourne",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.27,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "23/10/2026 21:51"
+  },
+  "5100986@45": {
+   "id": 5100986,
+   "campionato": "Premier Division",
+   "casa": "Shamrock Rovers",
+   "ospite": "Sligo Rovers",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.9,
+    1.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.35,
+    1.67
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    -0.65,
+    1.67
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 21:51"
+  },
+  "5836887@45": {
+   "id": 5836887,
+   "campionato": "Championship",
+   "casa": "Bolton Wanderers",
+   "ospite": "Middlesbrough",
+   "minuto": 45,
+   "punteggio_live": "1-3",
+   "xg": [
+    0.59,
+    2.85
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    4.28
+   ],
+   "punteggio": [
+    0,
+    4
+   ],
+   "xsxg": [
+    -0.11,
+    1.28
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 21:51"
   }
  },
- "aggiornato": "23/10/2026 21:23"
+ "aggiornato": "23/10/2026 21:51"
 }
