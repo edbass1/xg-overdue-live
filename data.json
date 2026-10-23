@@ -97,7 +97,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "23/10/2026 19:22"
   },
   "5881701@45": {
@@ -130,7 +130,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "23/10/2026 19:22"
   },
   "5847207@45": {
@@ -163,7 +163,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "23/10/2026 19:22"
   },
   "5904778@45": {
@@ -295,9 +295,240 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "23/10/2026 19:52"
+  },
+  "5781781@45": {
+   "id": 5781781,
+   "campionato": "Eredivisie",
+   "casa": "Go Ahead Eagles",
+   "ospite": "Telstar",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.63,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.95,
+    0.29
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.05,
+    0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5803291@45": {
+   "id": 5803291,
+   "campionato": "Ligue 2",
+   "casa": "Clermont Foot",
+   "ospite": "Guingamp",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.07,
+    0.81
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    1.22
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.11,
+    -0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5803293@45": {
+   "id": 5803293,
+   "campionato": "Ligue 2",
+   "casa": "Dunkerque",
+   "ospite": "Metz",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.28,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.42,
+    -0.25
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5803295@45": {
+   "id": 5803295,
+   "campionato": "Ligue 2",
+   "casa": "Nancy",
+   "ospite": "Laval",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.39,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    0.85
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.58,
+    0.85
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5803296@45": {
+   "id": 5803296,
+   "campionato": "Ligue 2",
+   "casa": "Pau",
+   "ospite": "Grenoble",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.36,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.99
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    -0.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5970171@45": {
+   "id": 5970171,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Ahli",
+   "ospite": "Al Khaleej",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.7,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.05,
+    0.06
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.05,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
+  },
+  "5970177@45": {
+   "id": 5970177,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Qadsiah",
+   "ospite": "Al Hilal",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.53,
+    2.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    3.17
+   ],
+   "punteggio": [
+    0,
+    3
+   ],
+   "xsxg": [
+    -0.2,
+    2.17
+   ],
+   "overdue": [
+    0,
+    2
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "23/10/2026 20:52"
   }
  },
- "aggiornato": "23/10/2026 20:14"
+ "aggiornato": "23/10/2026 20:53"
 }

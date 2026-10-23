@@ -305,3 +305,10 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261023;5739531;Superligaen;Randers FC;Brøndby IF;45;1-1;1.15;0.94;1;1 Casa;
 20261023;5107633;Allsvenskan;Elfsborg;Malmö FF;45;0-0;0.22;0.31;0;Pareggio;
 20261023;5107635;Allsvenskan;Västerås SK;Halmstads BK;45;1-0;0.73;0.14;0;1 Casa;
+20261023;5781781;Eredivisie;Go Ahead Eagles;Telstar;45;2-0;0.63;0.19;-1;1 Casa;
+20261023;5803291;Ligue 2;Clermont Foot;Guingamp;45;0-2;0.07;0.81;-1;2 Ospite;
+20261023;5803293;Ligue 2;Dunkerque;Metz;45;0-1;0.28;0.5;0;2 Ospite;
+20261023;5803295;Ligue 2;Nancy;Laval;45;0-0;0.39;0.57;1;Pareggio;
+20261023;5803296;Ligue 2;Pau;Grenoble;45;0-1;0.36;0.66;0;2 Ospite;
+20261023;5970171;Saudi Pro League;Al Ahli;Al Khaleej;45;1-0;0.7;0.04;0;1 Casa;
+20261023;5970177;Saudi Pro League;Al Qadsiah;Al Hilal;45;1-1;0.53;2.11;1;2 Ospite;
