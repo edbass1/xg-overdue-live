@@ -368,3 +368,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5847213;Premier League;Rubin Kazan;Krylya Sovetov Samara;45;0-0;0.18;0.0;0;Pareggio;
 20261024;5781784;Eredivisie;FC Utrecht;PEC Zwolle;45;0-0;0.31;0.23;0;Pareggio;
 20261024;5887655;Liga Portugal;Estrela da Amadora;Casa Pia AC;45;0-1;1.08;0.16;0;1 Casa;
+20261024;5846006;Bundesliga;Hartberg;Wolfsberger AC;45;0-0;0.3;0.25;0;Pareggio;
+20261024;5846010;Bundesliga;WSG Tirol;Grazer AK;45;0-1;0.32;1.56;1;2 Ospite;
+20261024;5970176;Saudi Pro League;Al Kholood;Al-Ettifaq;45;0-1;1.32;0.33;1;1 Casa;
