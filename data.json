@@ -658,7 +658,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "24/10/2026 15:02"
   },
   "5847210@45": {
@@ -724,7 +724,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "24/10/2026 15:02"
   },
   "1000017760@45": {
@@ -759,7 +759,337 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "24/10/2026 15:31"
+  },
+  "5749711@45": {
+   "id": 5749711,
+   "campionato": "Serie A",
+   "casa": "Cagliari",
+   "ospite": "Bologna",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.13,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    0.14
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.2,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5749712@45": {
+   "id": 5749712,
+   "campionato": "Serie A",
+   "casa": "Como",
+   "ospite": "Sassuolo",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.31,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.17
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.46,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5967110@45": {
+   "id": 5967110,
+   "campionato": "Serie B",
+   "casa": "Avellino",
+   "ospite": "Padova",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.56,
+    0.79
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.84,
+    1.19
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.84,
+    0.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5967112@45": {
+   "id": 5967112,
+   "campionato": "Serie B",
+   "casa": "Cremonese",
+   "ospite": "Juve Stabia",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.58,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.87,
+    -0.7
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5967115@45": {
+   "id": 5967115,
+   "campionato": "Serie B",
+   "casa": "Modena",
+   "ospite": "Cesena",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.16,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.74,
+    0.08
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -1.26,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5967117@45": {
+   "id": 5967117,
+   "campionato": "Serie B",
+   "casa": "Südtirol",
+   "ospite": "Sampdoria",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.32,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.48,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.48,
+    -0.55
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5967114@45": {
+   "id": 5967114,
+   "campionato": "Serie B",
+   "casa": "Virtus Entella",
+   "ospite": "Mantova",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.48,
+    0.8
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.72,
+    1.2
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.72,
+    0.2
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5904776@45": {
+   "id": 5904776,
+   "campionato": "Super Lig",
+   "casa": "Gaziantep FK",
+   "ospite": "Erzurumspor FK",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.48,
+    0.22
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.72,
+    0.33
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.72,
+    0.33
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5107631@45": {
+   "id": 5107631,
+   "campionato": "Allsvenskan",
+   "casa": "Häcken",
+   "ospite": "Degerfors",
+   "minuto": 45,
+   "punteggio_live": "4-0",
+   "xg": [
+    1.53,
+    0.4
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.29,
+    0.6
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -1.71,
+    0.6
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
+  },
+  "5107634@45": {
+   "id": 5107634,
+   "campionato": "Allsvenskan",
+   "casa": "Sirius",
+   "ospite": "AIK",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.5,
+    1.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.75,
+    1.64
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.25,
+    -0.36
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 15:59"
   }
  },
- "aggiornato": "24/10/2026 15:32"
+ "aggiornato": "24/10/2026 16:00"
 }
