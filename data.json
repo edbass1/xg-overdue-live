@@ -1648,7 +1648,7 @@
    ],
    "totale": -2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "4 - 3",
    "scansione": "24/10/2026 18:20"
   },
   "5107629@45": {
@@ -1747,7 +1747,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 3",
    "scansione": "24/10/2026 18:52"
   },
   "5104937@45": {
@@ -1780,7 +1780,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "24/10/2026 18:52"
   },
   "5908453@45": {
@@ -1813,7 +1813,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "24/10/2026 18:52"
   },
   "5901185@45": {
@@ -1846,7 +1846,7 @@
    ],
    "totale": -2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 2",
    "scansione": "24/10/2026 18:52"
   },
   "5943277@45": {
@@ -1879,7 +1879,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "24/10/2026 18:52"
   },
   "5804285@45": {
@@ -1912,7 +1912,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 18:52"
   },
   "5804281@45": {
@@ -1945,7 +1945,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 18:52"
   },
   "5904784@45": {
@@ -1978,7 +1978,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "24/10/2026 18:52"
   },
   "5811787@45": {
@@ -2079,7 +2079,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "24/10/2026 19:39"
+  },
+  "5887654@45": {
+   "id": 5887654,
+   "campionato": "Liga Portugal",
+   "casa": "Alverca",
+   "ospite": "Arouca",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.07,
+    1.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    1.81
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.11,
+    0.81
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 20:00"
+  },
+  "5943274@45": {
+   "id": 5943274,
+   "campionato": "Super League",
+   "casa": "AEK Athens",
+   "ospite": "Panetolikos",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.73,
+    0.07
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.59,
+    0.11
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -0.41,
+    0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 20:00"
   }
  },
- "aggiornato": "24/10/2026 19:39"
+ "aggiornato": "24/10/2026 20:00"
 }
