@@ -64,7 +64,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "24/10/2026 13:07"
   },
   "5904777@45": {
@@ -231,7 +231,337 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "24/10/2026 13:59"
+  },
+  "5795486@45": {
+   "id": 5795486,
+   "campionato": "Premier League",
+   "casa": "Aston Villa",
+   "ospite": "Manchester City",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.38,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.43,
+    0.81
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5837237@45": {
+   "id": 5837237,
+   "campionato": "League One",
+   "casa": "Huddersfield Town",
+   "ospite": "Wigan Athletic",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    2.13,
+    0.03
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.19,
+    0.04
+   ],
+   "punteggio": [
+    3,
+    0
+   ],
+   "xsxg": [
+    2.19,
+    0.04
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5837238@45": {
+   "id": 5837238,
+   "campionato": "League One",
+   "casa": "Luton Town",
+   "ospite": "Leicester City",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.75,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.12,
+    0.69
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.12,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5838004@45": {
+   "id": 5838004,
+   "campionato": "League Two",
+   "casa": "Bristol Rovers",
+   "ospite": "Swindon Town",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.06,
+    0.98
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.59,
+    1.47
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.59,
+    1.47
+   ],
+   "overdue": [
+    1,
+    1
+   ],
+   "totale": 3,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5838005@45": {
+   "id": 5838005,
+   "campionato": "League Two",
+   "casa": "Cheltenham Town",
+   "ospite": "Newport County",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.27,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.59,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5838010@45": {
+   "id": 5838010,
+   "campionato": "League Two",
+   "casa": "Northampton Town",
+   "ospite": "Colchester United",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.14,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.79,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5836889@45": {
+   "id": 5836889,
+   "campionato": "Championship",
+   "casa": "Charlton Athletic",
+   "ospite": "Norwich City",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.41,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.39,
+    -0.55
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5836891@45": {
+   "id": 5836891,
+   "campionato": "Championship",
+   "casa": "Portsmouth",
+   "ospite": "Millwall",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.44,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.66,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.34,
+    -0.55
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "5836894@45": {
+   "id": 5836894,
+   "campionato": "Championship",
+   "casa": "Sheffield United",
+   "ospite": "Derby County",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.3,
+    0.97
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    1.46
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.45,
+    0.46
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
+  },
+  "1000017758@45": {
+   "id": 1000017758,
+   "campionato": "Thai League",
+   "casa": "Buriram United",
+   "ospite": "Sisaket United",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.58,
+    0.85
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    1.27
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.13,
+    -0.73
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 14:23"
   }
  },
- "aggiornato": "24/10/2026 14:01"
+ "aggiornato": "24/10/2026 14:24"
 }

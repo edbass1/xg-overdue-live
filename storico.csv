@@ -329,3 +329,13 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5881703;2. Bundesliga;Hertha BSC;Arminia Bielefeld;45;0-0;0.61;0.12;1;1 Casa;
 20261024;5881705;2. Bundesliga;Magdeburg;Karlsruher SC;45;1-0;1.0;0.29;0;1 Casa;
 20261024;1000017757;Thai League;Port FC;Rayong FC;45;3-0;0.42;0.01;-3;1 Casa;
+20261024;5795486;Premier League;Aston Villa;Manchester City;45;1-0;0.38;0.54;0;Pareggio;
+20261024;5837237;League One;Huddersfield Town;Wigan Athletic;45;1-0;2.13;0.03;2;1 Casa;
+20261024;5837238;League One;Luton Town;Leicester City;45;1-0;0.75;0.46;0;1 Casa;
+20261024;5838004;League Two;Bristol Rovers;Swindon Town;45;0-0;1.06;0.98;3;Pareggio;
+20261024;5838005;League Two;Cheltenham Town;Newport County;45;1-0;0.27;0.26;-1;Pareggio;
+20261024;5838010;League Two;Northampton Town;Colchester United;45;1-0;0.14;0.26;-1;Pareggio;
+20261024;5836889;Championship;Charlton Athletic;Norwich City;45;1-1;0.41;0.3;-1;Pareggio;
+20261024;5836891;Championship;Portsmouth;Millwall;45;1-1;0.44;0.3;-1;Pareggio;
+20261024;5836894;Championship;Sheffield United;Derby County;45;0-1;0.3;0.97;0;2 Ospite;
+20261024;1000017758;Thai League;Buriram United;Sisaket United;45;1-2;0.58;0.85;-1;2 Ospite;
