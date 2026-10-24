@@ -1681,7 +1681,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "24/10/2026 18:20"
   },
   "5107636@45": {
@@ -1714,7 +1714,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "24/10/2026 18:20"
   },
   "5749717@45": {
@@ -2046,7 +2046,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "24/10/2026 19:13"
+  },
+  "5781785@45": {
+   "id": 5781785,
+   "campionato": "Eredivisie",
+   "casa": "Willem II",
+   "ospite": "Cambuur",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    0.28,
+    0.91
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    1.36
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.42,
+    -1.64
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 19:39"
   }
  },
- "aggiornato": "24/10/2026 19:13"
+ "aggiornato": "24/10/2026 19:39"
 }
