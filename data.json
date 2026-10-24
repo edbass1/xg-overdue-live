@@ -1582,7 +1582,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 17:59"
   },
   "5970176@45": {
@@ -1615,7 +1615,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "24/10/2026 17:59"
   },
   "5804018@45": {
@@ -1980,7 +1980,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 18:52"
+  },
+  "5811787@45": {
+   "id": 5811787,
+   "campionato": "Belgian Pro League",
+   "casa": "OH Leuven",
+   "ospite": "Lommel",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.3,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.95,
+    0.87
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.95,
+    -0.13
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 19:13"
+  },
+  "5981671@45": {
+   "id": 5981671,
+   "campionato": "WSL",
+   "casa": "Brighton (W)",
+   "ospite": "West Ham United (W)",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.74,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.11,
+    0.72
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 19:13"
   }
  },
- "aggiornato": "24/10/2026 18:53"
+ "aggiornato": "24/10/2026 19:13"
 }
