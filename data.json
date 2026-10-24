@@ -2242,7 +2242,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "24/10/2026 20:55"
   },
   "5970179@45": {
@@ -2475,7 +2475,172 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 21:37"
+  },
+  "5868103@45": {
+   "id": 5868103,
+   "campionato": "LaLiga",
+   "casa": "Atlético Madrid",
+   "ospite": "Deportivo A Coruña",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.3,
+    0.91
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    1.36
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.45,
+    1.36
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 21:56"
+  },
+  "5781779@45": {
+   "id": 5781779,
+   "campionato": "Eredivisie",
+   "casa": "ADO Den Haag",
+   "ospite": "SC Heerenveen",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.66,
+    1.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.99,
+    1.78
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.99,
+    0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 21:56"
+  },
+  "5868504@45": {
+   "id": 5868504,
+   "campionato": "LaLiga2",
+   "casa": "Almería",
+   "ospite": "Real Oviedo",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.36,
+    0.49
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.73
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.46,
+    0.73
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:56"
+  },
+  "5901184@45": {
+   "id": 5901184,
+   "campionato": "Premiere Ligue",
+   "casa": "OL Lyonnes (W)",
+   "ospite": "Marseille (W)",
+   "minuto": 45,
+   "punteggio_live": "4-0",
+   "xg": [
+    2.81,
+    0.38
+   ],
+   "fattore": 1.5,
+   "proj": [
+    4.21,
+    0.57
+   ],
+   "punteggio": [
+    4,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    0.57
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 21:56"
+  },
+  "5190785@45": {
+   "id": 5190785,
+   "campionato": "Série B",
+   "casa": "Avaí",
+   "ospite": "Botafogo SP",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.23,
+    0.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.35,
+    0.2
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.35,
+    -0.8
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:56"
   }
  },
- "aggiornato": "24/10/2026 21:37"
+ "aggiornato": "24/10/2026 21:56"
 }
