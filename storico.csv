@@ -358,3 +358,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5881197;Bundesliga;Augsburg;Union Berlin;45;0-0;0.62;0.04;0;1 Casa;
 20261024;5881203;Bundesliga;Paderborn;Hamburger SV;45;0-0;0.21;0.1;0;Pareggio;
 20261024;5881204;Bundesliga;RB Leipzig;Elversberg;45;0-0;0.08;0.18;0;Pareggio;
+20261024;5793957;Premiership;St. Mirren;Dundee FC;45;1-0;0.5;0.09;-1;1 Casa;
+20261024;5836886;Championship;Blackburn Rovers;Wrexham;45;1-0;0.95;0.76;1;Pareggio;
+20261024;1000015489;First Division B;Genk U23;Club Brugge NXT;45;0-0;0.13;0.27;0;Pareggio;

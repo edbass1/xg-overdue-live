@@ -757,7 +757,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "24/10/2026 15:31"
   },
   "5749711@45": {
@@ -1188,7 +1188,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 16:19"
+  },
+  "5793957@45": {
+   "id": 5793957,
+   "campionato": "Premiership",
+   "casa": "St. Mirren",
+   "ospite": "Dundee FC",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.5,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.75,
+    0.14
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.25,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 16:47"
+  },
+  "5836886@45": {
+   "id": 5836886,
+   "campionato": "Championship",
+   "casa": "Blackburn Rovers",
+   "ospite": "Wrexham",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.95,
+    0.76
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.42,
+    1.14
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.42,
+    1.14
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 16:47"
+  },
+  "1000015489@45": {
+   "id": 1000015489,
+   "campionato": "First Division B",
+   "casa": "Genk U23",
+   "ospite": "Club Brugge NXT",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.13,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.2,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 16:47"
   }
  },
- "aggiornato": "24/10/2026 16:19"
+ "aggiornato": "24/10/2026 16:47"
 }
