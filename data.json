@@ -2308,7 +2308,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 21:15"
   },
   "5802967@45": {
@@ -2640,7 +2640,238 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 21:56"
+  },
+  "5071442@45": {
+   "id": 5071442,
+   "campionato": "Major League Soccer",
+   "casa": "Columbus Crew",
+   "ospite": "Toronto FC",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.24,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    0.72
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.14,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5887657@45": {
+   "id": 5887657,
+   "campionato": "Liga Portugal",
+   "casa": "Gil Vicente",
+   "ospite": "FC Porto",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.29,
+    0.77
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    1.16
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.43,
+    1.16
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5103678@45": {
+   "id": 5103678,
+   "campionato": "Série A",
+   "casa": "Mirassol",
+   "ospite": "São Paulo",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.68,
+    0.6
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.02,
+    0.9
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.02,
+    -0.1
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5103680@45": {
+   "id": 5103680,
+   "campionato": "Série A",
+   "casa": "Internacional",
+   "ospite": "Botafogo",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.18,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.77,
+    0.48
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.23,
+    0.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5103682@45": {
+   "id": 5103682,
+   "campionato": "Série A",
+   "casa": "Vitória",
+   "ospite": "Athletico Paranaense",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.45,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.17,
+    0.3
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.17,
+    -0.7
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5190780@45": {
+   "id": 5190780,
+   "campionato": "Série B",
+   "casa": "São Bernardo",
+   "ospite": "Vila Nova",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.76,
+    1.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.14,
+    1.59
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.14,
+    0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
+  },
+  "5190784@45": {
+   "id": 5190784,
+   "campionato": "Série B",
+   "casa": "Atlético-GO",
+   "ospite": "Novorizontino",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.55,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.83,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.83,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 22:31"
   }
  },
- "aggiornato": "24/10/2026 22:08"
+ "aggiornato": "24/10/2026 22:32"
 }
