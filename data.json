@@ -1,5 +1,39 @@
 {
  "date": "20261024",
- "matches": {},
- "aggiornato": "24/10/2026 12:13"
+ "matches": {
+  "5847208@45": {
+   "id": 5847208,
+   "campionato": "Premier League",
+   "casa": "Akron Togliatti",
+   "ospite": "Dinamo Moscow",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.28,
+    0.56
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.84
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.58,
+    0.84
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 12:42"
+  }
+ },
+ "aggiornato": "24/10/2026 12:42"
 }
