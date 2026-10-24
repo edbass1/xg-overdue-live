@@ -325,3 +325,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5847208;Premier League;Akron Togliatti;Dinamo Moscow;45;1-0;0.28;0.56;0;2 Ospite;
 20261024;5804017;Ekstraklasa;Piast Gliwice;Cracovia;45;2-0;0.39;0.84;-1;2 Ospite;
 20261024;5904777;Super Lig;Eyüpspor;Kasımpaşa;45;0-1;0.28;0.3;-1;Pareggio;
+20261024;5881702;2. Bundesliga;FC Heidenheim;Energie Cottbus;45;0-1;0.46;0.37;0;Pareggio;
+20261024;5881703;2. Bundesliga;Hertha BSC;Arminia Bielefeld;45;0-0;0.61;0.12;1;1 Casa;
+20261024;5881705;2. Bundesliga;Magdeburg;Karlsruher SC;45;1-0;1.0;0.29;0;1 Casa;
+20261024;1000017757;Thai League;Port FC;Rayong FC;45;3-0;0.42;0.01;-3;1 Casa;

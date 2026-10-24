@@ -31,7 +31,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "24/10/2026 12:42"
   },
   "5804017@45": {
@@ -99,7 +99,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 13:32"
+  },
+  "5881702@45": {
+   "id": 5881702,
+   "campionato": "2. Bundesliga",
+   "casa": "FC Heidenheim",
+   "ospite": "Energie Cottbus",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.46,
+    0.37
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.69,
+    0.55
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.69,
+    -0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 13:59"
+  },
+  "5881703@45": {
+   "id": 5881703,
+   "campionato": "2. Bundesliga",
+   "casa": "Hertha BSC",
+   "ospite": "Arminia Bielefeld",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.61,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.92,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.92,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 13:59"
+  },
+  "5881705@45": {
+   "id": 5881705,
+   "campionato": "2. Bundesliga",
+   "casa": "Magdeburg",
+   "ospite": "Karlsruher SC",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.0,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    0.43
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.5,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 13:59"
+  },
+  "1000017757@45": {
+   "id": 1000017757,
+   "campionato": "Thai League",
+   "casa": "Port FC",
+   "ospite": "Rayong FC",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    0.42,
+    0.01
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    0.01
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -2.37,
+    0.01
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -3,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 13:59"
   }
  },
- "aggiornato": "24/10/2026 13:32"
+ "aggiornato": "24/10/2026 14:01"
 }
