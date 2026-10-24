@@ -1483,7 +1483,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 17:32"
   },
   "5887655@45": {
@@ -1516,7 +1516,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "24/10/2026 17:32"
   },
   "5846006@45": {
@@ -1549,7 +1549,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "24/10/2026 17:59"
   },
   "5846010@45": {
@@ -1716,7 +1716,271 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 18:20"
+  },
+  "5749717@45": {
+   "id": 5749717,
+   "campionato": "Serie A",
+   "casa": "Napoli",
+   "ospite": "Roma",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.24,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    0.99
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.86,
+    0.99
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5104937@45": {
+   "id": 5104937,
+   "campionato": "Eliteserien",
+   "casa": "Hamarkameratene",
+   "ospite": "Rosenborg",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.17,
+    0.65
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.26,
+    0.98
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.26,
+    0.98
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5908453@45": {
+   "id": 5908453,
+   "campionato": "Premiere Ligue",
+   "casa": "Le Havre (W)",
+   "ospite": "Lens (W)",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.52,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.42
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5901185@45": {
+   "id": 5901185,
+   "campionato": "Premiere Ligue",
+   "casa": "Nantes (W)",
+   "ospite": "Strasbourg (W)",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.16,
+    1.01
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    1.52
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.76,
+    0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5943277@45": {
+   "id": 5943277,
+   "campionato": "Super League",
+   "casa": "Iraklis",
+   "ospite": "Kifisia FC",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.11,
+    1.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.17,
+    1.97
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.83,
+    0.97
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5804285@45": {
+   "id": 5804285,
+   "campionato": "Super League",
+   "casa": "FC Zürich",
+   "ospite": "Luzern",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.36,
+    0.55
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.04,
+    0.83
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.04,
+    0.83
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5804281@45": {
+   "id": 5804281,
+   "campionato": "Super League",
+   "casa": "Servette",
+   "ospite": "FC Vaduz",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.6,
+    0.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    0.09
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.1,
+    0.09
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
+  },
+  "5904784@45": {
+   "id": 5904784,
+   "campionato": "Super Lig",
+   "casa": "Samsunspor",
+   "ospite": "Amed Sportif",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.52,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.22,
+    0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 18:52"
   }
  },
- "aggiornato": "24/10/2026 18:20"
+ "aggiornato": "24/10/2026 18:53"
 }
