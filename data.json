@@ -2341,7 +2341,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 21:37"
   },
   "5749715@45": {
@@ -2374,7 +2374,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 21:37"
   },
   "5811788@45": {
@@ -2407,7 +2407,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "24/10/2026 21:37"
   },
   "5811790@45": {
@@ -2440,7 +2440,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "4 - 4",
    "scansione": "24/10/2026 21:37"
   },
   "5803298@45": {
@@ -2473,7 +2473,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "24/10/2026 21:37"
   },
   "5868103@45": {
@@ -2506,7 +2506,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "24/10/2026 21:56"
   },
   "5781779@45": {
@@ -2539,7 +2539,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "24/10/2026 21:56"
   },
   "5868504@45": {
@@ -2605,7 +2605,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 0",
    "scansione": "24/10/2026 21:56"
   },
   "5190785@45": {
@@ -2638,7 +2638,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "24/10/2026 21:56"
   },
   "5071442@45": {
@@ -2871,7 +2871,40 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 22:31"
+  },
+  "1000019595@45": {
+   "id": 1000019595,
+   "campionato": "Liga Profesional",
+   "casa": "Talleres",
+   "ospite": "Defensa y Justicia",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.2,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.3,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.7,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 22:58"
   }
  },
- "aggiornato": "24/10/2026 22:32"
+ "aggiornato": "24/10/2026 22:58"
 }
