@@ -355,3 +355,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5904776;Super Lig;Gaziantep FK;Erzurumspor FK;45;0-0;0.48;0.22;1;1 Casa;
 20261024;5107631;Allsvenskan;Häcken;Degerfors;45;4-0;1.53;0.4;-2;1 Casa;
 20261024;5107634;Allsvenskan;Sirius;AIK;45;1-2;0.5;1.09;-1;2 Ospite;
+20261024;5881197;Bundesliga;Augsburg;Union Berlin;45;0-0;0.62;0.04;0;1 Casa;
+20261024;5881203;Bundesliga;Paderborn;Hamburger SV;45;0-0;0.21;0.1;0;Pareggio;
+20261024;5881204;Bundesliga;RB Leipzig;Elversberg;45;0-0;0.08;0.18;0;Pareggio;
