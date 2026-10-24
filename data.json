@@ -2077,7 +2077,7 @@
    ],
    "totale": -2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 6",
    "scansione": "24/10/2026 19:39"
   },
   "5887654@45": {
@@ -2110,7 +2110,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "24/10/2026 20:00"
   },
   "5943274@45": {
@@ -2143,7 +2143,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 0",
    "scansione": "24/10/2026 20:00"
   },
   "5846008@45": {
@@ -2211,7 +2211,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "24/10/2026 20:20"
+  },
+  "1000015490@45": {
+   "id": 1000015490,
+   "campionato": "First Division B",
+   "casa": "KSC Lokeren",
+   "ospite": "Gent U23",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.96,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.44,
+    0.35
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.44,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 20:55"
+  },
+  "5970179@45": {
+   "id": 5970179,
+   "campionato": "Saudi Pro League",
+   "casa": "Al Riyadh",
+   "ospite": "Al-Taawoun",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.64,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.96,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.04,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 20:55"
   }
  },
- "aggiornato": "24/10/2026 20:20"
+ "aggiornato": "24/10/2026 20:56"
 }
