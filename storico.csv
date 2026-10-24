@@ -371,3 +371,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;5846006;Bundesliga;Hartberg;Wolfsberger AC;45;0-0;0.3;0.25;0;Pareggio;
 20261024;5846010;Bundesliga;WSG Tirol;Grazer AK;45;0-1;0.32;1.56;1;2 Ospite;
 20261024;5970176;Saudi Pro League;Al Kholood;Al-Ettifaq;45;0-1;1.32;0.33;1;1 Casa;
+20261024;5804018;Ekstraklasa;Pogoń Szczecin;Radomiak Radom;45;2-2;0.57;1.13;-2;2 Ospite;
+20261024;5107629;Allsvenskan;Djurgården;Örgryte;45;1-0;0.26;0.0;-1;1 Casa;
+20261024;5107636;Allsvenskan;Kalmar FF;Brommapojkarna;45;0-1;0.42;0.59;0;Pareggio;

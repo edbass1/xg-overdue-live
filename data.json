@@ -1318,7 +1318,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "24/10/2026 17:08"
   },
   "5868511@45": {
@@ -1351,7 +1351,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 17:08"
   },
   "5838008@45": {
@@ -1417,7 +1417,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 3",
    "scansione": "24/10/2026 17:08"
   },
   "5847213@45": {
@@ -1450,7 +1450,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "24/10/2026 17:08"
   },
   "5781784@45": {
@@ -1617,7 +1617,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "24/10/2026 17:59"
+  },
+  "5804018@45": {
+   "id": 5804018,
+   "campionato": "Ekstraklasa",
+   "casa": "Pogoń Szczecin",
+   "ospite": "Radomiak Radom",
+   "minuto": 45,
+   "punteggio_live": "2-2",
+   "xg": [
+    0.57,
+    1.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.85,
+    1.69
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.15,
+    -0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 18:20"
+  },
+  "5107629@45": {
+   "id": 5107629,
+   "campionato": "Allsvenskan",
+   "casa": "Djurgården",
+   "ospite": "Örgryte",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.26,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    0.0
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.61,
+    0.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 18:20"
+  },
+  "5107636@45": {
+   "id": 5107636,
+   "campionato": "Allsvenskan",
+   "casa": "Kalmar FF",
+   "ospite": "Brommapojkarna",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.42,
+    0.59
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    0.89
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.63,
+    -0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 18:20"
   }
  },
- "aggiornato": "24/10/2026 18:00"
+ "aggiornato": "24/10/2026 18:20"
 }
