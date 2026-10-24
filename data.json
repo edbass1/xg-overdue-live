@@ -2671,7 +2671,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 2",
    "scansione": "24/10/2026 22:31"
   },
   "5887657@45": {
@@ -2704,7 +2704,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "24/10/2026 22:31"
   },
   "5103678@45": {
@@ -2737,7 +2737,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 22:31"
   },
   "5103680@45": {
@@ -2770,7 +2770,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "24/10/2026 22:31"
   },
   "5103682@45": {
@@ -2803,7 +2803,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 22:31"
   },
   "5190780@45": {
@@ -2836,7 +2836,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 2",
    "scansione": "24/10/2026 22:31"
   },
   "5190784@45": {
@@ -2869,7 +2869,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "24/10/2026 22:31"
   },
   "1000019595@45": {
@@ -2906,5 +2906,5 @@
    "scansione": "24/10/2026 22:58"
   }
  },
- "aggiornato": "24/10/2026 23:16"
+ "aggiornato": "24/10/2026 23:43"
 }
