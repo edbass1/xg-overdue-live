@@ -2011,7 +2011,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "24/10/2026 19:13"
   },
   "5981671@45": {
@@ -2044,7 +2044,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "24/10/2026 19:13"
   },
   "5781785@45": {
@@ -2145,7 +2145,73 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "24/10/2026 20:00"
+  },
+  "5846008@45": {
+   "id": 5846008,
+   "campionato": "Bundesliga",
+   "casa": "Rapid Wien",
+   "ospite": "Austria Lustenau",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    2.32,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.48,
+    0.42
+   ],
+   "punteggio": [
+    3,
+    0
+   ],
+   "xsxg": [
+    0.48,
+    0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 20:20"
+  },
+  "5967109@45": {
+   "id": 5967109,
+   "campionato": "Serie B",
+   "casa": "Arezzo",
+   "ospite": "Benevento",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.06,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    0.72
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 20:20"
   }
  },
- "aggiornato": "24/10/2026 20:00"
+ "aggiornato": "24/10/2026 20:20"
 }
