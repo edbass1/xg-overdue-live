@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "24/10/2026 12:42"
+  },
+  "5804017@45": {
+   "id": 5804017,
+   "campionato": "Ekstraklasa",
+   "casa": "Piast Gliwice",
+   "ospite": "Cracovia",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.39,
+    0.84
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    1.26
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.42,
+    1.26
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 13:07"
   }
  },
- "aggiornato": "24/10/2026 12:42"
+ "aggiornato": "24/10/2026 13:07"
 }
