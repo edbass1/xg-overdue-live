@@ -2176,7 +2176,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 1",
    "scansione": "24/10/2026 20:20"
   },
   "5967109@45": {
@@ -2209,7 +2209,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "24/10/2026 20:20"
   },
   "1000015490@45": {
@@ -2310,7 +2310,172 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 21:15"
+  },
+  "5802967@45": {
+   "id": 5802967,
+   "campionato": "Ligue 1",
+   "casa": "Lens",
+   "ospite": "Paris FC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.33,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.49,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.49,
+    -0.79
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:37"
+  },
+  "5749715@45": {
+   "id": 5749715,
+   "campionato": "Serie A",
+   "casa": "Lazio",
+   "ospite": "Parma",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.62,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    0.69
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.93,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:37"
+  },
+  "5811788@45": {
+   "id": 5811788,
+   "campionato": "Belgian Pro League",
+   "casa": "RAAL La Louvière",
+   "ospite": "Zulte Waregem",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.45,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.68,
+    0.52
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.32,
+    0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:37"
+  },
+  "5811790@45": {
+   "id": 5811790,
+   "campionato": "Belgian Pro League",
+   "casa": "Westerlo",
+   "ospite": "SK Beveren",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.69,
+    1.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.03,
+    1.69
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    -0.97,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "24/10/2026 21:37"
+  },
+  "5803298@45": {
+   "id": 5803298,
+   "campionato": "Ligue 2",
+   "casa": "Saint-Étienne",
+   "ospite": "Nantes",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.25,
+    0.34
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.38,
+    0.51
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    0.51
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 21:37"
   }
  },
- "aggiornato": "24/10/2026 21:15"
+ "aggiornato": "24/10/2026 21:37"
 }

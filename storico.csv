@@ -392,3 +392,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261024;1000015490;First Division B;KSC Lokeren;Gent U23;45;1-0;0.96;0.23;0;1 Casa;
 20261024;5970179;Saudi Pro League;Al Riyadh;Al-Taawoun;45;1-0;0.64;0.2;0;1 Casa;
 20261024;5804021;Ekstraklasa;Wisła Kraków;Raków Częstochowa;45;0-0;0.42;0.23;0;Pareggio;
+20261024;5802967;Ligue 1;Lens;Paris FC;45;0-1;0.33;0.14;-1;Pareggio;
+20261024;5749715;Serie A;Lazio;Parma;45;0-0;0.62;0.46;1;Pareggio;
+20261024;5811788;Belgian Pro League;RAAL La Louvière;Zulte Waregem;45;1-0;0.45;0.35;0;Pareggio;
+20261024;5811790;Belgian Pro League;Westerlo;SK Beveren;45;2-1;0.69;1.13;-1;2 Ospite;
+20261024;5803298;Ligue 2;Saint-Étienne;Nantes;45;0-0;0.25;0.34;0;Pareggio;
