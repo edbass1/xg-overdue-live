@@ -1120,7 +1120,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "24/10/2026 16:19"
   },
   "5881203@45": {
@@ -1153,7 +1153,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "24/10/2026 16:19"
   },
   "5881204@45": {
@@ -1186,7 +1186,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "4 - 0",
    "scansione": "24/10/2026 16:19"
   },
   "5793957@45": {
@@ -1452,7 +1452,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "24/10/2026 17:08"
+  },
+  "5781784@45": {
+   "id": 5781784,
+   "campionato": "Eredivisie",
+   "casa": "FC Utrecht",
+   "ospite": "PEC Zwolle",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.31,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.35
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.46,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "24/10/2026 17:32"
+  },
+  "5887655@45": {
+   "id": 5887655,
+   "campionato": "Liga Portugal",
+   "casa": "Estrela da Amadora",
+   "ospite": "Casa Pia AC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.08,
+    0.16
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.62,
+    0.24
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.62,
+    -0.76
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "24/10/2026 17:32"
   }
  },
- "aggiornato": "24/10/2026 17:08"
+ "aggiornato": "24/10/2026 17:33"
 }
