@@ -757,7 +757,7 @@
    ],
    "totale": 2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "25/10/2026 15:54"
   },
   "5795490@45": {
@@ -790,7 +790,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "25/10/2026 15:54"
   },
   "5795492@45": {
@@ -823,7 +823,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "25/10/2026 15:54"
   },
   "5795493@45": {
@@ -856,7 +856,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "25/10/2026 15:54"
   },
   "5802969@45": {
@@ -889,7 +889,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "25/10/2026 15:54"
   },
   "5749710@45": {
@@ -922,7 +922,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 4",
    "scansione": "25/10/2026 15:54"
   },
   "5749713@45": {
@@ -955,7 +955,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "25/10/2026 15:54"
   },
   "5793955@45": {
@@ -988,7 +988,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "25/10/2026 15:54"
   },
   "5967116@45": {
@@ -1021,7 +1021,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "25/10/2026 15:54"
   },
   "5981670@45": {
@@ -1054,7 +1054,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "25/10/2026 15:54"
   },
   "5981673@45": {
@@ -1087,7 +1087,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "25/10/2026 15:54"
   },
   "5981674@45": {
@@ -1120,7 +1120,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "25/10/2026 15:54"
   },
   "6362005@45": {
@@ -1153,9 +1153,108 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "25/10/2026 15:54"
+  },
+  "5868104@45": {
+   "id": 5868104,
+   "campionato": "LaLiga",
+   "casa": "Celta Vigo",
+   "ospite": "Real Betis",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.47,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    0.48
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.7,
+    0.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 17:08"
+  },
+  "5868503@45": {
+   "id": 5868503,
+   "campionato": "LaLiga2",
+   "casa": "Albacete",
+   "ospite": "Eldense",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.77,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.16,
+    0.21
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.84,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 17:08"
+  },
+  "5868506@45": {
+   "id": 5868506,
+   "campionato": "LaLiga2",
+   "casa": "Cádiz",
+   "ospite": "AD Ceuta FC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.1,
+    1.82
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.15,
+    2.73
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.15,
+    1.73
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 17:08"
   }
  },
- "aggiornato": "25/10/2026 16:43"
+ "aggiornato": "25/10/2026 17:08"
 }
