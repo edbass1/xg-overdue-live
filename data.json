@@ -31,7 +31,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "25/10/2026 12:58"
   },
   "1000017762@45": {
@@ -64,7 +64,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 4",
    "scansione": "25/10/2026 12:58"
   },
   "5749714@45": {
@@ -165,7 +165,106 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 13:21"
+  },
+  "5793954@45": {
+   "id": 5793954,
+   "campionato": "Premiership",
+   "casa": "Hibernian",
+   "ospite": "Celtic",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.57,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.85,
+    1.03
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.15,
+    -0.97
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 14:02"
+  },
+  "5981672@45": {
+   "id": 5981672,
+   "campionato": "WSL",
+   "casa": "Crystal Palace (W)",
+   "ospite": "Chelsea (W)",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.15,
+    1.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.72,
+    2.17
+   ],
+   "punteggio": [
+    1,
+    2
+   ],
+   "xsxg": [
+    0.72,
+    2.17
+   ],
+   "overdue": [
+    0,
+    2
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 14:02"
+  },
+  "1000017764@45": {
+   "id": 1000017764,
+   "campionato": "Thai League",
+   "casa": "Uthai Thani FC",
+   "ospite": "Sukhothai FC",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.58,
+    1.02
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    1.53
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.13,
+    0.53
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 14:02"
   }
  },
- "aggiornato": "25/10/2026 13:21"
+ "aggiornato": "25/10/2026 14:03"
 }

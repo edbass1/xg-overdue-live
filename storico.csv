@@ -415,3 +415,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5749714;Serie A;Inter;Fiorentina;45;0-0;0.59;0.1;1;1 Casa;
 20261025;5804019;Ekstraklasa;Śląsk Wrocław;Wieczysta Kraków;45;2-0;1.0;0.87;0;Pareggio;
 20261025;6362004;Indian Super League;Churchill Brothers;Punjab FC;45;2-2;1.0;1.24;-1;2 Ospite;
+20261025;5793954;Premiership;Hibernian;Celtic;45;1-2;0.57;0.69;-2;Pareggio;
+20261025;5981672;WSL;Crystal Palace (W);Chelsea (W);45;1-0;1.15;1.45;2;2 Ospite;
+20261025;1000017764;Thai League;Uthai Thani FC;Sukhothai FC;45;1-1;0.58;1.02;0;2 Ospite;
