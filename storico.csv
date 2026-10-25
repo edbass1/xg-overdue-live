@@ -462,3 +462,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5804015;Ekstraklasa;Legia Warszawa;Lech Poznań;45;0-0;0.49;0.25;1;1 Casa;
 20261025;5739533;Superligaen;AGF;Viborg;45;1-0;0.6;0.27;0;1 Casa;
 20261025;5749716;Serie A;Lecce;Juventus;45;0-2;0.24;0.81;-1;2 Ospite;
+20261025;5811789;Belgian Pro League;Union St.Gilloise;Cercle Brugge;45;0-1;0.83;0.86;1;Pareggio;
+20261025;5104934;Eliteserien;Molde;Fredrikstad;45;3-1;2.05;1.15;0;1 Casa;
+20261025;1000015493;First Division B;FC Liège;Patro Eisden;45;0-3;0.33;0.87;-2;2 Ospite;
