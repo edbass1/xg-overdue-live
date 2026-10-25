@@ -1978,7 +1978,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "25/10/2026 21:59"
   },
   "1000019596@45": {
@@ -2011,9 +2011,75 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "25/10/2026 21:59"
+  },
+  "5161681@45": {
+   "id": 5161681,
+   "campionato": "NWSL",
+   "casa": "Kansas City Current (W)",
+   "ospite": "Washington Spirit (W)",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.29,
+    1.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    1.58
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.57,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 23:05"
+  },
+  "1000014201@45": {
+   "id": 1000014201,
+   "campionato": "Primera A",
+   "casa": "Alianza FC",
+   "ospite": "Internacional de Bogotá",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.17,
+    0.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.75,
+    0.2
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.75,
+    0.2
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 23:05"
   }
  },
- "aggiornato": "25/10/2026 22:45"
+ "aggiornato": "25/10/2026 23:05"
 }

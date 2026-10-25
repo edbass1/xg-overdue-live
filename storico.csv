@@ -471,3 +471,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5749719;Serie A;Udinese;Milan;45;0-1;0.15;1.69;1;2 Ospite;
 20261025;5868105;LaLiga;Barcelona;Real Madrid;45;0-1;0.65;0.85;1;Pareggio;
 20261025;1000019596;Liga Profesional;Independiente;Boca Juniors;45;0-0;0.39;0.48;1;Pareggio;
+20261025;5161681;NWSL;Kansas City Current (W);Washington Spirit (W);45;2-1;0.29;1.05;-1;2 Ospite;
+20261025;1000014201;Primera A;Alianza FC;Internacional de Bogotá;45;1-0;1.17;0.13;0;1 Casa;
