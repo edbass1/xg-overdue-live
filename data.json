@@ -196,7 +196,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "25/10/2026 14:02"
   },
   "5981672@45": {
@@ -229,7 +229,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 3",
    "scansione": "25/10/2026 14:02"
   },
   "1000017764@45": {
@@ -262,7 +262,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "25/10/2026 14:02"
   },
   "5881700@45": {
@@ -396,7 +396,205 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "25/10/2026 14:32"
+  },
+  "5868102@45": {
+   "id": 5868102,
+   "campionato": "LaLiga",
+   "casa": "Athletic Club",
+   "ospite": "Getafe",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.54,
+    0.17
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    0.26
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.19,
+    0.26
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
+  },
+  "5868513@45": {
+   "id": 5868513,
+   "campionato": "LaLiga2",
+   "casa": "Sabadell",
+   "ospite": "Tenerife",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.44,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.66,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.66,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
+  },
+  "5804283@45": {
+   "id": 5804283,
+   "campionato": "Super League",
+   "casa": "Thun",
+   "ospite": "Lugano",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.55,
+    1.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.83,
+    1.72
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.17,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
+  },
+  "5904781@45": {
+   "id": 5904781,
+   "campionato": "Super Lig",
+   "casa": "Konyaspor",
+   "ospite": "Gençlerbirliği",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.87,
+    0.17
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.3,
+    0.26
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.3,
+    0.26
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
+  },
+  "5739532@45": {
+   "id": 5739532,
+   "campionato": "Superligaen",
+   "casa": "FC Midtjylland",
+   "ospite": "Lyngby",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.3,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.95,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.05,
+    -0.68
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
+  },
+  "5739534@45": {
+   "id": 5739534,
+   "campionato": "Superligaen",
+   "casa": "Silkeborg",
+   "ospite": "Nordsjælland",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.21,
+    0.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.32,
+    0.46
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.68,
+    0.46
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 15:00"
   }
  },
- "aggiornato": "25/10/2026 14:32"
+ "aggiornato": "25/10/2026 15:01"
 }

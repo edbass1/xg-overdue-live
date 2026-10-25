@@ -422,3 +422,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5881704;2. Bundesliga;Holstein Kiel;Dynamo Dresden;45;1-0;0.32;0.25;-1;Pareggio;
 20261025;5881707;2. Bundesliga;VfL Osnabrück;Greuther Fürth;45;2-0;1.53;0.26;0;1 Casa;
 20261025;5811784;Belgian Pro League;Genk;Standard Liège;45;1-0;1.38;0.46;1;1 Casa;
+20261025;5868102;LaLiga;Athletic Club;Getafe;45;2-0;0.54;0.17;-1;1 Casa;
+20261025;5868513;LaLiga2;Sabadell;Tenerife;45;0-0;0.44;0.14;0;1 Casa;
+20261025;5804283;Super League;Thun;Lugano;45;1-1;0.55;1.15;0;2 Ospite;
+20261025;5904781;Super Lig;Konyaspor;Gençlerbirliği;45;1-0;0.87;0.17;0;1 Casa;
+20261025;5739532;Superligaen;FC Midtjylland;Lyngby;45;2-1;1.3;0.21;-1;1 Casa;
+20261025;5739534;Superligaen;Silkeborg;Nordsjælland;45;1-0;0.21;0.31;-1;Pareggio;
