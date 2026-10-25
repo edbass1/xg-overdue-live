@@ -97,7 +97,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "25/10/2026 13:21"
   },
   "5804019@45": {
@@ -130,7 +130,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "25/10/2026 13:21"
   },
   "6362004@45": {
@@ -163,7 +163,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "25/10/2026 13:21"
   },
   "5793954@45": {
@@ -264,7 +264,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 14:02"
+  },
+  "5881700@45": {
+   "id": 5881700,
+   "campionato": "2. Bundesliga",
+   "casa": "Eintracht Braunschweig",
+   "ospite": "Hannover 96",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.02,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.53,
+    0.15
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.53,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 14:32"
+  },
+  "5881704@45": {
+   "id": 5881704,
+   "campionato": "2. Bundesliga",
+   "casa": "Holstein Kiel",
+   "ospite": "Dynamo Dresden",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.32,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.48,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.52,
+    0.38
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 14:32"
+  },
+  "5881707@45": {
+   "id": 5881707,
+   "campionato": "2. Bundesliga",
+   "casa": "VfL Osnabrück",
+   "ospite": "Greuther Fürth",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.53,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.29,
+    0.39
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 14:32"
+  },
+  "5811784@45": {
+   "id": 5811784,
+   "campionato": "Belgian Pro League",
+   "casa": "Genk",
+   "ospite": "Standard Liège",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.38,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.07,
+    0.69
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.07,
+    0.69
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 14:32"
   }
  },
- "aggiornato": "25/10/2026 14:03"
+ "aggiornato": "25/10/2026 14:32"
 }

@@ -418,3 +418,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5793954;Premiership;Hibernian;Celtic;45;1-2;0.57;0.69;-2;Pareggio;
 20261025;5981672;WSL;Crystal Palace (W);Chelsea (W);45;1-0;1.15;1.45;2;2 Ospite;
 20261025;1000017764;Thai League;Uthai Thani FC;Sukhothai FC;45;1-1;0.58;1.02;0;2 Ospite;
+20261025;5881700;2. Bundesliga;Eintracht Braunschweig;Hannover 96;45;1-0;1.02;0.1;0;1 Casa;
+20261025;5881704;2. Bundesliga;Holstein Kiel;Dynamo Dresden;45;1-0;0.32;0.25;-1;Pareggio;
+20261025;5881707;2. Bundesliga;VfL Osnabrück;Greuther Fürth;45;2-0;1.53;0.26;0;1 Casa;
+20261025;5811784;Belgian Pro League;Genk;Standard Liège;45;1-0;1.38;0.46;1;1 Casa;
