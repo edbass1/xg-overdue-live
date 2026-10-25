@@ -1780,7 +1780,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 1",
    "scansione": "25/10/2026 20:13"
   },
   "1000015493@45": {
@@ -1881,7 +1881,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 20:56"
+  },
+  "5161680@45": {
+   "id": 5161680,
+   "campionato": "NWSL",
+   "casa": "Orlando Pride (W)",
+   "ospite": "Gotham FC (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.55,
+    0.74
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.33,
+    1.11
+   ],
+   "punteggio": [
+    2,
+    1
+   ],
+   "xsxg": [
+    2.33,
+    0.11
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 21:09"
   }
  },
- "aggiornato": "25/10/2026 20:57"
+ "aggiornato": "25/10/2026 21:09"
 }
