@@ -1254,7 +1254,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 17:08"
+  },
+  "5887656@45": {
+   "id": 5887656,
+   "campionato": "Liga Portugal",
+   "casa": "Estoril",
+   "ospite": "Moreirense",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    0.54,
+    0.56
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    0.84
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.81,
+    -2.16
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 17:34"
+  },
+  "5847214@45": {
+   "id": 5847214,
+   "campionato": "Premier League",
+   "casa": "Zenit St. Petersburg",
+   "ospite": "Dynamo Makhachkala",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.47,
+    0.9
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    1.35
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.7,
+    1.35
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 17:34"
   }
  },
- "aggiornato": "25/10/2026 17:08"
+ "aggiornato": "25/10/2026 17:34"
 }
