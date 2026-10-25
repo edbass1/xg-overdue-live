@@ -1815,7 +1815,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 20:13"
+  },
+  "5781782@45": {
+   "id": 5781782,
+   "campionato": "Eredivisie",
+   "casa": "AZ Alkmaar",
+   "ospite": "FC Twente",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.07,
+    1.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    1.56
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.11,
+    1.56
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 20:56"
+  },
+  "1000014200@45": {
+   "id": 1000014200,
+   "campionato": "Primera A",
+   "casa": "Fortaleza FC",
+   "ospite": "Deportivo Cali",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.54,
+    0.79
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.19
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.19,
+    0.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 20:56"
   }
  },
- "aggiornato": "25/10/2026 20:37"
+ "aggiornato": "25/10/2026 20:57"
 }
