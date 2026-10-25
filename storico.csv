@@ -428,3 +428,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5904781;Super Lig;Konyaspor;Gençlerbirliği;45;1-0;0.87;0.17;0;1 Casa;
 20261025;5739532;Superligaen;FC Midtjylland;Lyngby;45;2-1;1.3;0.21;-1;1 Casa;
 20261025;5739534;Superligaen;Silkeborg;Nordsjælland;45;1-0;0.21;0.31;-1;Pareggio;
+20261025;5846009;Bundesliga;Sturm Graz;Ried;45;1-1;1.24;0.84;1;1 Casa;
+20261025;5104930;Eliteserien;Viking;Tromsø;45;3-0;0.54;0.81;-1;2 Ospite;
+20261025;5781777;Eredivisie;NEC Nijmegen;FC Groningen;45;0-2;1.07;0.96;1;Pareggio;
+20261025;5781783;Eredivisie;PSV Eindhoven;Feyenoord;45;1-0;1.01;0.6;1;1 Casa;

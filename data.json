@@ -295,7 +295,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "25/10/2026 14:32"
   },
   "5881704@45": {
@@ -328,7 +328,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "25/10/2026 14:32"
   },
   "5881707@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "25/10/2026 14:32"
   },
   "5811784@45": {
@@ -594,7 +594,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "25/10/2026 15:00"
+  },
+  "5846009@45": {
+   "id": 5846009,
+   "campionato": "Bundesliga",
+   "casa": "Sturm Graz",
+   "ospite": "Ried",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.24,
+    0.84
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    1.26
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.86,
+    0.26
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:28"
+  },
+  "5104930@45": {
+   "id": 5104930,
+   "campionato": "Eliteserien",
+   "casa": "Viking",
+   "ospite": "Tromsø",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    0.54,
+    0.81
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.22
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -2.19,
+    1.22
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:28"
+  },
+  "5781777@45": {
+   "id": 5781777,
+   "campionato": "Eredivisie",
+   "casa": "NEC Nijmegen",
+   "ospite": "FC Groningen",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    1.07,
+    0.96
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.6,
+    1.44
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.6,
+    -0.56
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 15:28"
+  },
+  "5781783@45": {
+   "id": 5781783,
+   "campionato": "Eredivisie",
+   "casa": "PSV Eindhoven",
+   "ospite": "Feyenoord",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.01,
+    0.6
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.52,
+    0.9
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.52,
+    0.9
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:28"
   }
  },
- "aggiornato": "25/10/2026 15:01"
+ "aggiornato": "25/10/2026 15:28"
 }
