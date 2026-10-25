@@ -394,7 +394,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "25/10/2026 14:32"
   },
   "5868102@45": {
@@ -526,7 +526,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "25/10/2026 15:00"
   },
   "5739532@45": {
@@ -726,7 +726,436 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "25/10/2026 15:28"
+  },
+  "5795489@45": {
+   "id": 5795489,
+   "campionato": "Premier League",
+   "casa": "Crystal Palace",
+   "ospite": "Newcastle United",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.22,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.83,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.83,
+    0.32
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5795490@45": {
+   "id": 5795490,
+   "campionato": "Premier League",
+   "casa": "Hull City",
+   "ospite": "Brentford",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.95,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.42,
+    0.65
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.42,
+    0.65
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5795492@45": {
+   "id": 5795492,
+   "campionato": "Premier League",
+   "casa": "Liverpool",
+   "ospite": "Brighton & Hove Albion",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.6,
+    0.81
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    1.22
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.1,
+    1.22
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5795493@45": {
+   "id": 5795493,
+   "campionato": "Premier League",
+   "casa": "Manchester United",
+   "ospite": "AFC Bournemouth",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.23,
+    1.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.35,
+    2.17
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.35,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5802969@45": {
+   "id": 5802969,
+   "campionato": "Ligue 1",
+   "casa": "Monaco",
+   "ospite": "Lille",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.06,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    0.87
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    -0.13
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5749710@45": {
+   "id": 5749710,
+   "campionato": "Serie A",
+   "casa": "Atalanta",
+   "ospite": "Frosinone",
+   "minuto": 45,
+   "punteggio_live": "3-2",
+   "xg": [
+    3.0,
+    1.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    4.5,
+    1.67
+   ],
+   "punteggio": [
+    4,
+    1
+   ],
+   "xsxg": [
+    1.5,
+    -0.33
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5749713@45": {
+   "id": 5749713,
+   "campionato": "Serie A",
+   "casa": "Genoa",
+   "ospite": "Venezia",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.28,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.58,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5793955@45": {
+   "id": 5793955,
+   "campionato": "Premiership",
+   "casa": "Motherwell",
+   "ospite": "Heart of Midlothian",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.67,
+    0.88
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.01,
+    1.32
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.01,
+    0.32
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5967116@45": {
+   "id": 5967116,
+   "campionato": "Serie B",
+   "casa": "Palermo",
+   "ospite": "Carrarese",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.23,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.84,
+    0.35
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.84,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5981670@45": {
+   "id": 5981670,
+   "campionato": "WSL",
+   "casa": "Birmingham City (W)",
+   "ospite": "Charlton (W)",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.46,
+    0.22
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.69,
+    0.33
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.69,
+    0.33
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5981673@45": {
+   "id": 5981673,
+   "campionato": "WSL",
+   "casa": "Everton (W)",
+   "ospite": "Aston Villa (W)",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.22,
+    1.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    1.59
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.33,
+    -0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "5981674@45": {
+   "id": 5981674,
+   "campionato": "WSL",
+   "casa": "Liverpool (W)",
+   "ospite": "London City Lionesses (W)",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    1.3,
+    2.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.95,
+    3.13
+   ],
+   "punteggio": [
+    1,
+    3
+   ],
+   "xsxg": [
+    0.95,
+    1.13
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
+  },
+  "6362005@45": {
+   "id": 6362005,
+   "campionato": "Indian Super League",
+   "casa": "Kerala Blasters FC",
+   "ospite": "Mumbai City FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.4,
+    0.42
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.6,
+    0.63
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.6,
+    0.63
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 15:54"
   }
  },
- "aggiornato": "25/10/2026 15:28"
+ "aggiornato": "25/10/2026 15:55"
 }

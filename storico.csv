@@ -432,3 +432,16 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5104930;Eliteserien;Viking;Tromsø;45;3-0;0.54;0.81;-1;2 Ospite;
 20261025;5781777;Eredivisie;NEC Nijmegen;FC Groningen;45;0-2;1.07;0.96;1;Pareggio;
 20261025;5781783;Eredivisie;PSV Eindhoven;Feyenoord;45;1-0;1.01;0.6;1;1 Casa;
+20261025;5795489;Premier League;Crystal Palace;Newcastle United;45;0-0;1.22;0.21;2;1 Casa;
+20261025;5795490;Premier League;Hull City;Brentford;45;1-0;0.95;0.43;1;1 Casa;
+20261025;5795492;Premier League;Liverpool;Brighton & Hove Albion;45;2-0;0.6;0.81;0;2 Ospite;
+20261025;5795493;Premier League;Manchester United;AFC Bournemouth;45;0-2;0.23;1.45;0;2 Ospite;
+20261025;5802969;Ligue 1;Monaco;Lille;45;0-1;0.06;0.58;-1;2 Ospite;
+20261025;5749710;Serie A;Atalanta;Frosinone;45;3-2;3.0;1.11;1;1 Casa;
+20261025;5749713;Serie A;Genoa;Venezia;45;1-0;0.28;0.14;-1;Pareggio;
+20261025;5793955;Premiership;Motherwell;Heart of Midlothian;45;0-1;0.67;0.88;1;2 Ospite;
+20261025;5967116;Serie B;Palermo;Carrarese;45;1-0;1.23;0.23;1;1 Casa;
+20261025;5981670;WSL;Birmingham City (W);Charlton (W);45;0-0;0.46;0.22;1;1 Casa;
+20261025;5981673;WSL;Everton (W);Aston Villa (W);45;0-2;0.22;1.06;-1;2 Ospite;
+20261025;5981674;WSL;Liverpool (W);London City Lionesses (W);45;1-2;1.3;2.09;2;2 Ospite;
+20261025;6362005;Indian Super League;Kerala Blasters FC;Mumbai City FC;45;0-0;0.4;0.42;1;Pareggio;
