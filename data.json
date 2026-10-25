@@ -1320,7 +1320,238 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 17:34"
+  },
+  "5846007@45": {
+   "id": 5846007,
+   "campionato": "Bundesliga",
+   "casa": "LASK",
+   "ospite": "Salzburg",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.48,
+    0.7
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.72,
+    1.05
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.28,
+    0.05
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5104933@45": {
+   "id": 5104933,
+   "campionato": "Eliteserien",
+   "casa": "Kristiansund",
+   "ospite": "KFUM",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.76,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.14,
+    0.3
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.86,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5104931@45": {
+   "id": 5104931,
+   "campionato": "Eliteserien",
+   "casa": "Lillestrøm",
+   "ospite": "Brann",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.92,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.38,
+    0.43
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5104935@45": {
+   "id": 5104935,
+   "campionato": "Eliteserien",
+   "casa": "Sarpsborg 08",
+   "ospite": "Aalesund",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.26,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.89,
+    0.18
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.89,
+    -0.82
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5104936@45": {
+   "id": 5104936,
+   "campionato": "Eliteserien",
+   "casa": "Start",
+   "ospite": "Sandefjord",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.43,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.65,
+    0.68
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.65,
+    0.68
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5943280@45": {
+   "id": 5943280,
+   "campionato": "Super League",
+   "casa": "NFC Volos",
+   "ospite": "Panathinaikos",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.06,
+    0.75
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    1.12
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.09,
+    1.12
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
+  },
+  "5904780@45": {
+   "id": 5904780,
+   "campionato": "Super Lig",
+   "casa": "Göztepe",
+   "ospite": "Çorum FK",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.41,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.11,
+    0.18
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 18:01"
   }
  },
- "aggiornato": "25/10/2026 17:34"
+ "aggiornato": "25/10/2026 18:01"
 }

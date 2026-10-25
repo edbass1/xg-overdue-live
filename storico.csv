@@ -450,3 +450,10 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261025;5868506;LaLiga2;Cádiz;AD Ceuta FC;45;0-1;0.1;1.82;1;2 Ospite;
 20261025;5887656;Liga Portugal;Estoril;Moreirense;45;0-3;0.54;0.56;-2;Pareggio;
 20261025;5847214;Premier League;Zenit St. Petersburg;Dynamo Makhachkala;45;0-0;0.47;0.9;2;2 Ospite;
+20261025;5846007;Bundesliga;LASK;Salzburg;45;1-1;0.48;0.7;-1;2 Ospite;
+20261025;5104933;Eliteserien;Kristiansund;KFUM;45;2-0;0.76;0.2;-1;1 Casa;
+20261025;5104931;Eliteserien;Lillestrøm;Brann;45;1-0;0.92;0.29;0;1 Casa;
+20261025;5104935;Eliteserien;Sarpsborg 08;Aalesund;45;0-1;1.26;0.12;1;1 Casa;
+20261025;5104936;Eliteserien;Start;Sandefjord;45;0-0;0.43;0.45;1;Pareggio;
+20261025;5943280;Super League;NFC Volos;Panathinaikos;45;0-0;0.06;0.75;1;2 Ospite;
+20261025;5904780;Super Lig;Göztepe;Çorum FK;45;2-0;1.41;0.12;0;1 Casa;
