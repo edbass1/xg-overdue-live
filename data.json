@@ -1318,7 +1318,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "25/10/2026 17:34"
   },
   "5846007@45": {
@@ -1650,7 +1650,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "25/10/2026 18:28"
+  },
+  "5739533@45": {
+   "id": 5739533,
+   "campionato": "Superligaen",
+   "casa": "AGF",
+   "ospite": "Viborg",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.6,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.1,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "25/10/2026 18:51"
   }
  },
- "aggiornato": "25/10/2026 18:28"
+ "aggiornato": "25/10/2026 18:51"
 }
