@@ -1,5 +1,72 @@
 {
  "date": "20261025",
- "matches": {},
- "aggiornato": "25/10/2026 12:32"
+ "matches": {
+  "1000017761@45": {
+   "id": 1000017761,
+   "campionato": "Thai League",
+   "casa": "Prachuap FC",
+   "ospite": "Bangkok United",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.01,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.01,
+    0.18
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.01,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 12:58"
+  },
+  "1000017762@45": {
+   "id": 1000017762,
+   "campionato": "Thai League",
+   "casa": "Rasisalai United",
+   "ospite": "Ayutthaya United FC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.39,
+    1.65
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    2.47
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.58,
+    1.47
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 12:58"
+  }
+ },
+ "aggiornato": "25/10/2026 12:59"
 }
