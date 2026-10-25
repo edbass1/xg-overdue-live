@@ -1846,7 +1846,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "25/10/2026 20:56"
   },
   "1000014200@45": {
@@ -1879,7 +1879,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "25/10/2026 20:56"
   },
   "5161680@45": {
@@ -1947,7 +1947,73 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "25/10/2026 21:32"
+  },
+  "5868105@45": {
+   "id": 5868105,
+   "campionato": "LaLiga",
+   "casa": "Barcelona",
+   "ospite": "Real Madrid",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.65,
+    0.85
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.98,
+    1.27
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.98,
+    0.27
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 21:59"
+  },
+  "1000019596@45": {
+   "id": 1000019596,
+   "campionato": "Liga Profesional",
+   "casa": "Independiente",
+   "ospite": "Boca Juniors",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.39,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    0.72
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.58,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "25/10/2026 21:59"
   }
  },
- "aggiornato": "25/10/2026 21:32"
+ "aggiornato": "25/10/2026 21:59"
 }
