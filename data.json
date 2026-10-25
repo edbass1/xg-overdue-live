@@ -1747,7 +1747,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "5 - 2",
    "scansione": "25/10/2026 20:13"
   },
   "5104934@45": {
@@ -1813,7 +1813,7 @@
    ],
    "totale": -2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "25/10/2026 20:13"
   },
   "5781782@45": {
@@ -1914,7 +1914,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "25/10/2026 21:09"
+  },
+  "5749719@45": {
+   "id": 5749719,
+   "campionato": "Serie A",
+   "casa": "Udinese",
+   "ospite": "Milan",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.15,
+    1.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.22,
+    2.54
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.22,
+    1.54
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "25/10/2026 21:32"
   }
  },
- "aggiornato": "25/10/2026 21:09"
+ "aggiornato": "25/10/2026 21:32"
 }
