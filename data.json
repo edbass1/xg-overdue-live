@@ -97,9 +97,75 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "26/10/2026 20:44"
+  },
+  "5803290@45": {
+   "id": 5803290,
+   "campionato": "Ligue 2",
+   "casa": "Boulogne",
+   "ospite": "Reims",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.88,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.32,
+    0.12
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.32,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "26/10/2026 21:46"
+  },
+  "5803294@45": {
+   "id": 5803294,
+   "campionato": "Ligue 2",
+   "casa": "Montpellier",
+   "ospite": "Red Star",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.02,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.03,
+    0.14
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.03,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "26/10/2026 21:46"
   }
  },
- "aggiornato": "26/10/2026 21:12"
+ "aggiornato": "26/10/2026 21:46"
 }
