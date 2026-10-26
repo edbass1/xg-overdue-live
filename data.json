@@ -66,7 +66,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "26/10/2026 01:01"
+  },
+  "5887660@45": {
+   "id": 5887660,
+   "campionato": "Liga Portugal",
+   "casa": "Santa Clara",
+   "ospite": "Benfica",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.24,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    0.08
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.86,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "26/10/2026 20:44"
   }
  },
- "aggiornato": "26/10/2026 20:08"
+ "aggiornato": "26/10/2026 20:44"
 }
