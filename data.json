@@ -1,5 +1,72 @@
 {
  "date": "20261026",
- "matches": {},
- "aggiornato": "26/10/2026 00:45"
+ "matches": {
+  "1000014621@45": {
+   "id": 1000014621,
+   "campionato": "Liga MX",
+   "casa": "Atlas",
+   "ospite": "Puebla",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.78,
+    0.59
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.17,
+    0.89
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.17,
+    -0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "26/10/2026 01:01"
+  },
+  "1000014197@45": {
+   "id": 1000014197,
+   "campionato": "Primera A",
+   "casa": "Atlético Nacional",
+   "ospite": "Independiente Medellín",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.08,
+    1.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.12,
+    1.72
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.12,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "26/10/2026 01:01"
+  }
+ },
+ "aggiornato": "26/10/2026 01:01"
 }
