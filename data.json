@@ -1,5 +1,39 @@
 {
  "date": "20261027",
- "matches": {},
- "aggiornato": "27/10/2026 13:57"
+ "matches": {
+  "5970144@45": {
+   "id": 5970144,
+   "campionato": "Saudi Pro League",
+   "casa": "Abha",
+   "ospite": "Al-Faisaly",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.61,
+    0.8
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.92,
+    1.2
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.92,
+    1.2
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "27/10/2026 14:41"
+  }
+ },
+ "aggiornato": "27/10/2026 14:41"
 }
