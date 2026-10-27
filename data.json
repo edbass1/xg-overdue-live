@@ -33,7 +33,106 @@
    "esito": "Pareggio",
    "finale": "0 - 1",
    "scansione": "27/10/2026 14:41"
+  },
+  "6162739@45": {
+   "id": 6162739,
+   "campionato": "DFB Pokal",
+   "casa": "Bochum",
+   "ospite": "Mainz 05",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.04,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.06,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.06,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "27/10/2026 19:05"
+  },
+  "6162745@45": {
+   "id": 6162745,
+   "campionato": "DFB Pokal",
+   "casa": "Hamburger SV",
+   "ospite": "Eintracht Frankfurt",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.07,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.6,
+    0.43
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.6,
+    0.43
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "27/10/2026 19:05"
+  },
+  "6162744@45": {
+   "id": 6162744,
+   "campionato": "DFB Pokal",
+   "casa": "Sonnenhof Großaspach",
+   "ospite": "Augsburg",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.41,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.39,
+    -1.25
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "27/10/2026 19:05"
   }
  },
- "aggiornato": "27/10/2026 18:28"
+ "aggiornato": "27/10/2026 19:05"
 }
