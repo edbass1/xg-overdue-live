@@ -165,7 +165,205 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "27/10/2026 20:27"
+  },
+  "5967119@45": {
+   "id": 5967119,
+   "campionato": "Serie B",
+   "casa": "Ascoli",
+   "ospite": "Sampdoria",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.36,
+    0.18
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.27
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    0.27
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
+  },
+  "5967127@45": {
+   "id": 5967127,
+   "campionato": "Serie B",
+   "casa": "Padova",
+   "ospite": "Südtirol",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.21,
+    0.64
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.32,
+    0.96
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.68,
+    0.96
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
+  },
+  "5967122@45": {
+   "id": 5967122,
+   "campionato": "Serie B",
+   "casa": "Cesena",
+   "ospite": "Empoli",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.73,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.09,
+    0.22
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
+  },
+  "5967125@45": {
+   "id": 5967125,
+   "campionato": "Serie B",
+   "casa": "LR Vicenza",
+   "ospite": "Modena",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.26,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    0.65
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.61,
+    -0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
+  },
+  "5967126@45": {
+   "id": 5967126,
+   "campionato": "Serie B",
+   "casa": "Mantova",
+   "ospite": "Cremonese",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.53,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    0.87
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.8,
+    -0.13
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
+  },
+  "5967123@45": {
+   "id": 5967123,
+   "campionato": "Serie B",
+   "casa": "Virtus Entella",
+   "ospite": "Avellino",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.23,
+    0.53
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.35,
+    0.8
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.65,
+    0.8
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "27/10/2026 21:00"
   }
  },
- "aggiornato": "27/10/2026 20:27"
+ "aggiornato": "27/10/2026 21:00"
 }
