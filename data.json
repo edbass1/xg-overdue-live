@@ -1,5 +1,39 @@
 {
  "date": "20261028",
- "matches": {},
- "aggiornato": "28/10/2026 13:29"
+ "matches": {
+  "6298361@45": {
+   "id": 6298361,
+   "campionato": "DBU Pokalen",
+   "casa": "Brabrand",
+   "ospite": "AC Horsens",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.0,
+    0.85
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.0,
+    1.27
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.0,
+    1.27
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "28/10/2026 14:29"
+  }
+ },
+ "aggiornato": "28/10/2026 14:29"
 }
