@@ -262,7 +262,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "28/10/2026 21:55"
   },
   "5985963@45": {
@@ -297,7 +297,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "28/10/2026 22:25"
+  },
+  "6162747@65": {
+   "id": 6162747,
+   "campionato": "DFB Pokal",
+   "casa": "Holstein Kiel",
+   "ospite": "Hoffenheim",
+   "minuto": 65,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.32,
+    0.44
+   ],
+   "fattore": 1.278,
+   "proj": [
+    0.41,
+    0.56
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.59,
+    -0.44
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "28/10/2026 23:02"
   }
  },
- "aggiornato": "28/10/2026 22:25"
+ "aggiornato": "28/10/2026 23:02"
 }
