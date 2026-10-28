@@ -264,7 +264,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "28/10/2026 21:55"
+  },
+  "5985963@45": {
+   "id": 5985963,
+   "campionato": "League Cup",
+   "casa": "FC Porto",
+   "ospite": "Académico Viseu",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.0,
+    0.18
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    0.27
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.5,
+    0.27
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "28/10/2026 22:25"
   }
  },
- "aggiornato": "28/10/2026 21:55"
+ "aggiornato": "28/10/2026 22:25"
 }
