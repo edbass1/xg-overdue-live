@@ -165,7 +165,106 @@
    "esito": "Pareggio",
    "finale": "0 - 3",
    "scansione": "28/10/2026 19:51"
+  },
+  "6275371@45": {
+   "id": 6275371,
+   "campionato": "EFL Cup",
+   "casa": "Liverpool",
+   "ospite": "Chelsea",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.04,
+    0.83
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.56,
+    1.24
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.56,
+    0.24
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "28/10/2026 21:55"
+  },
+  "6162747@45": {
+   "id": 6162747,
+   "campionato": "DFB Pokal",
+   "casa": "Holstein Kiel",
+   "ospite": "Hoffenheim",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.28,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.58,
+    -0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "28/10/2026 21:55"
+  },
+  "5793961@45": {
+   "id": 5793961,
+   "campionato": "Premiership",
+   "casa": "Heart of Midlothian",
+   "ospite": "Rangers",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.47,
+    0.78
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    1.17
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.7,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "28/10/2026 21:55"
   }
  },
- "aggiornato": "28/10/2026 21:16"
+ "aggiornato": "28/10/2026 21:55"
 }
