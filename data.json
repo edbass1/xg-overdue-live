@@ -33,7 +33,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "29/10/2026 19:25"
+  },
+  "6298365@45": {
+   "id": 6298365,
+   "campionato": "DBU Pokalen",
+   "casa": "FC Midtjylland",
+   "ospite": "OB",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.52,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.69
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.22,
+    -0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "29/10/2026 20:19"
   }
  },
- "aggiornato": "29/10/2026 19:25"
+ "aggiornato": "29/10/2026 20:20"
 }
