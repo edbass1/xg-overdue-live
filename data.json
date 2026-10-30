@@ -196,7 +196,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "30/10/2026 19:33"
   },
   "5955109@45": {
@@ -229,7 +229,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 2",
    "scansione": "30/10/2026 19:33"
   },
   "5846013@45": {
@@ -264,7 +264,238 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "30/10/2026 20:23"
+  },
+  "5803300@45": {
+   "id": 5803300,
+   "campionato": "Ligue 2",
+   "casa": "Grenoble",
+   "ospite": "Dijon",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.38,
+    0.72
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    1.08
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.57,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "5803302@45": {
+   "id": 5803302,
+   "campionato": "Ligue 2",
+   "casa": "Laval",
+   "ospite": "Boulogne",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.75,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.12,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.12,
+    0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "5803303@45": {
+   "id": 5803303,
+   "campionato": "Ligue 2",
+   "casa": "Metz",
+   "ospite": "Pau",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.38,
+    1.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    1.67
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.57,
+    0.67
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "5803304@45": {
+   "id": 5803304,
+   "campionato": "Ligue 2",
+   "casa": "Nantes",
+   "ospite": "Clermont Foot",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.3,
+    0.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    0.2
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.55,
+    0.2
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "5803307@45": {
+   "id": 5803307,
+   "campionato": "Ligue 2",
+   "casa": "Rodez",
+   "ospite": "Dunkerque",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.2,
+    0.24
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.8,
+    0.36
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.8,
+    0.36
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "1000015498@45": {
+   "id": 1000015498,
+   "campionato": "First Division B",
+   "casa": "RFC Seraing",
+   "ospite": "FC Liège",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.53,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    0.0
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.2,
+    0.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
+  },
+  "1000015500@45": {
+   "id": 1000015500,
+   "campionato": "First Division B",
+   "casa": "Gent U23",
+   "ospite": "K. Lierse SK",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.7,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.05,
+    0.17
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.05,
+    0.17
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 21:02"
   }
  },
- "aggiornato": "30/10/2026 20:23"
+ "aggiornato": "30/10/2026 21:02"
 }
