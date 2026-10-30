@@ -97,7 +97,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "30/10/2026 18:58"
   },
   "5904790@45": {
@@ -130,7 +130,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 4",
    "scansione": "30/10/2026 18:58"
   },
   "5881708@45": {
@@ -163,7 +163,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "30/10/2026 19:33"
   },
   "5881709@45": {
@@ -231,7 +231,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "30/10/2026 19:33"
+  },
+  "5846013@45": {
+   "id": 5846013,
+   "campionato": "Bundesliga",
+   "casa": "Grazer AK",
+   "ospite": "Hartberg",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.55,
+    2.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.83,
+    3.22
+   ],
+   "punteggio": [
+    0,
+    3
+   ],
+   "xsxg": [
+    0.83,
+    1.22
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 20:23"
   }
  },
- "aggiornato": "30/10/2026 19:33"
+ "aggiornato": "30/10/2026 20:23"
 }
