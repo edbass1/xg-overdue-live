@@ -66,7 +66,73 @@
    "esito": "2 Ospite",
    "finale": "1 - 1",
    "scansione": "30/10/2026 16:58"
+  },
+  "5804022@45": {
+   "id": 5804022,
+   "campionato": "Ekstraklasa",
+   "casa": "Cracovia",
+   "ospite": "Motor Lublin",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    1.01,
+    1.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.52,
+    2.11
+   ],
+   "punteggio": [
+    1,
+    2
+   ],
+   "xsxg": [
+    0.52,
+    0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 18:58"
+  },
+  "5904790@45": {
+   "id": 5904790,
+   "campionato": "Super Lig",
+   "casa": "Konyaspor",
+   "ospite": "Galatasaray",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    1.01,
+    0.85
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.52,
+    1.27
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.52,
+    -0.73
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "30/10/2026 18:58"
   }
  },
- "aggiornato": "30/10/2026 18:21"
+ "aggiornato": "30/10/2026 18:59"
 }
