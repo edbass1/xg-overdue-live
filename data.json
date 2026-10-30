@@ -726,7 +726,73 @@
    "esito": "2 Ospite",
    "finale": "0 - 2",
    "scansione": "30/10/2026 22:14"
+  },
+  "1000019614@45": {
+   "id": 1000019614,
+   "campionato": "Liga Profesional",
+   "casa": "Estudiantes de Río Cuarto",
+   "ospite": "Gimnasia LP",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.36,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.85
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    -1.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 23:53"
+  },
+  "1000019616@45": {
+   "id": 1000019616,
+   "campionato": "Liga Profesional",
+   "casa": "Huracán",
+   "ospite": "Tigre",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.35,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.52,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.52,
+    0.38
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "30/10/2026 23:53"
   }
  },
- "aggiornato": "30/10/2026 23:18"
+ "aggiornato": "30/10/2026 23:53"
 }
