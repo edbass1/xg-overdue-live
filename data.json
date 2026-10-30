@@ -526,7 +526,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "30/10/2026 21:38"
   },
   "5100988@45": {
@@ -559,7 +559,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "30/10/2026 21:38"
   },
   "5100989@45": {
@@ -592,7 +592,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "30/10/2026 21:38"
   },
   "5100990@45": {
@@ -625,7 +625,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "30/10/2026 21:38"
   },
   "5100991@45": {
@@ -658,7 +658,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "30/10/2026 21:38"
   },
   "5838020@45": {
@@ -691,7 +691,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "4 - 1",
    "scansione": "30/10/2026 21:38"
   },
   "5887666@45": {
@@ -728,5 +728,5 @@
    "scansione": "30/10/2026 22:14"
   }
  },
- "aggiornato": "30/10/2026 22:14"
+ "aggiornato": "30/10/2026 22:47"
 }
