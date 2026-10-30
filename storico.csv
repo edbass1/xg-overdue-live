@@ -508,3 +508,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261030;5996756;Premier League;Asyut Petroleum;El Gouna FC;45;0-1;0.06;0.94;0;2 Ospite;
 20261030;5804022;Ekstraklasa;Cracovia;Motor Lublin;45;1-2;1.01;1.41;0;2 Ospite;
 20261030;5904790;Super Lig;Konyaspor;Galatasaray;45;0-2;1.01;0.85;0;Pareggio;
+20261030;5881708;2. Bundesliga;Arminia Bielefeld;Eintracht Braunschweig;45;2-0;0.74;0.09;-1;1 Casa;
+20261030;5881709;2. Bundesliga;Energie Cottbus;Bochum;45;1-0;1.06;0.3;1;1 Casa;
+20261030;5955109;Premier Soccer League;Marumo Gallants;Siwelele;45;2-1;1.25;0.23;-1;1 Casa;

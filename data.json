@@ -132,7 +132,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "30/10/2026 18:58"
+  },
+  "5881708@45": {
+   "id": 5881708,
+   "campionato": "2. Bundesliga",
+   "casa": "Arminia Bielefeld",
+   "ospite": "Eintracht Braunschweig",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.74,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.11,
+    0.14
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.89,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 19:33"
+  },
+  "5881709@45": {
+   "id": 5881709,
+   "campionato": "2. Bundesliga",
+   "casa": "Energie Cottbus",
+   "ospite": "Bochum",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.06,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.59,
+    0.45
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.59,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 19:33"
+  },
+  "5955109@45": {
+   "id": 5955109,
+   "campionato": "Premier Soccer League",
+   "casa": "Marumo Gallants",
+   "ospite": "Siwelele",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.25,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.88,
+    0.35
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.12,
+    -0.65
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "30/10/2026 19:33"
   }
  },
- "aggiornato": "30/10/2026 18:59"
+ "aggiornato": "30/10/2026 19:33"
 }
