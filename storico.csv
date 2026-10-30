@@ -519,3 +519,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261030;5803307;Ligue 2;Rodez;Dunkerque;45;1-0;1.2;0.24;1;1 Casa;
 20261030;1000015498;First Division B;RFC Seraing;FC Liège;45;1-0;0.53;0.0;-1;1 Casa;
 20261030;1000015500;First Division B;Gent U23;K. Lierse SK;45;0-0;0.7;0.11;1;1 Casa;
+20261030;5100987;Premier Division;Drogheda United;Galway United FC;45;1-0;0.52;0.36;0;Pareggio;
+20261030;5100988;Premier Division;Dundalk;Shamrock Rovers;45;0-1;0.59;0.33;0;1 Casa;
+20261030;5100989;Premier Division;Shelbourne;Waterford FC;45;1-1;0.44;0.6;-1;Pareggio;
+20261030;5100990;Premier Division;Sligo Rovers;Derry City;45;2-0;1.25;0.17;0;1 Casa;
+20261030;5100991;Premier Division;St. Patrick's Athletic;Bohemian FC;45;1-2;1.09;1.65;1;2 Ospite;
+20261030;5838020;League Two;Newport County;Chesterfield;45;4-0;0.67;0.87;-2;Pareggio;
