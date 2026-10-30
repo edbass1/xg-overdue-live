@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": "1 - 1",
    "scansione": "30/10/2026 14:26"
+  },
+  "5996756@45": {
+   "id": 5996756,
+   "campionato": "Premier League",
+   "casa": "Asyut Petroleum",
+   "ospite": "El Gouna FC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.06,
+    0.94
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    1.41
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.09,
+    0.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 16:58"
   }
  },
- "aggiornato": "30/10/2026 16:14"
+ "aggiornato": "30/10/2026 16:58"
 }
