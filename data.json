@@ -1,5 +1,39 @@
 {
  "date": "20261030",
- "matches": {},
- "aggiornato": "30/10/2026 13:26"
+ "matches": {
+  "5970182@45": {
+   "id": 5970182,
+   "campionato": "Saudi Pro League",
+   "casa": "Abha",
+   "ospite": "Al Ittihad",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.0,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.0,
+    0.85
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.0,
+    0.85
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "30/10/2026 14:26"
+  }
+ },
+ "aggiornato": "30/10/2026 14:26"
 }
