@@ -2110,7 +2110,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "31/10/2026 17:58"
   },
   "5904791@45": {
@@ -2143,7 +2143,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "31/10/2026 17:58"
   },
   "5955110@45": {
@@ -2209,7 +2209,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "31/10/2026 17:58"
   },
   "5955113@45": {
@@ -2242,7 +2242,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "31/10/2026 17:58"
   },
   "5804025@45": {
@@ -2607,7 +2607,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "31/10/2026 18:53"
+  },
+  "5795504@45": {
+   "id": 5795504,
+   "campionato": "Premier League",
+   "casa": "Tottenham Hotspur",
+   "ospite": "Crystal Palace",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.74,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.11,
+    0.06
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.11,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 19:21"
+  },
+  "5811797@45": {
+   "id": 5811797,
+   "campionato": "Belgian Pro League",
+   "casa": "Standard Liège",
+   "ospite": "Kortrijk",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.54,
+    1.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.62
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.81,
+    0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 19:21"
   }
  },
- "aggiornato": "31/10/2026 18:54"
+ "aggiornato": "31/10/2026 19:21"
 }
