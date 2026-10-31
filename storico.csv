@@ -591,3 +591,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5868119;LaLiga;Rayo Vallecano;Celta Vigo;45;1-0;0.22;0.59;0;2 Ospite;
 20261031;5781787;Eredivisie;Feyenoord;Fortuna Sittard;45;0-0;1.41;0.16;2;1 Casa;
 20261031;5887669;Liga Portugal;Moreirense;Estrela da Amadora;45;0-0;0.11;0.16;0;Pareggio;
+20261031;5846011;Bundesliga;Altach;Ried;45;0-0;0.35;0.27;0;Pareggio;
+20261031;5904791;Super Lig;Fenerbahçe;Göztepe;45;1-0;0.48;0.14;-1;1 Casa;
+20261031;5955110;Premier Soccer League;Stellenbosch FC;Chippa United;45;0-1;0.34;0.74;0;2 Ospite;
+20261031;5955112;Premier Soccer League;Polokwane City;TS Galaxy;45;0-0;0.78;0.13;1;1 Casa;
+20261031;5955113;Premier Soccer League;AmaZulu FC;Lamontville Golden Arrows;45;0-0;0.29;0.56;1;2 Ospite;
