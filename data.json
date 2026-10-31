@@ -1,5 +1,39 @@
 {
  "date": "20261031",
- "matches": {},
- "aggiornato": "31/10/2026 11:56"
+ "matches": {
+  "5904793@45": {
+   "id": 5904793,
+   "campionato": "Super Lig",
+   "casa": "Erzurumspor FK",
+   "ospite": "Çorum FK",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.22,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    -0.78
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 12:20"
+  }
+ },
+ "aggiornato": "31/10/2026 12:21"
 }
