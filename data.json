@@ -295,7 +295,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "31/10/2026 15:23"
   },
   "5955116@45": {
@@ -328,7 +328,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "31/10/2026 15:23"
   },
   "5970196@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "31/10/2026 15:23"
   },
   "5749732@45": {
@@ -427,7 +427,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "31/10/2026 15:56"
   },
   "5967134@45": {
@@ -460,7 +460,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "31/10/2026 15:56"
   },
   "5967137@45": {
@@ -493,7 +493,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "31/10/2026 15:56"
   },
   "6362010@45": {
@@ -726,7 +726,1261 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "31/10/2026 16:22"
+  },
+  "5795495@45": {
+   "id": 5795495,
+   "campionato": "Premier League",
+   "casa": "AFC Bournemouth",
+   "ospite": "Leeds United",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.63,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.95,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.05,
+    0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5795497@45": {
+   "id": 5795497,
+   "campionato": "Premier League",
+   "casa": "Brentford",
+   "ospite": "Nottingham Forest",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.15,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.22,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.78,
+    0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5795499@45": {
+   "id": 5795499,
+   "campionato": "Premier League",
+   "casa": "Coventry City",
+   "ospite": "Sunderland",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.39,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.58,
+    0.43
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.42,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5795500@45": {
+   "id": 5795500,
+   "campionato": "Premier League",
+   "casa": "Hull City",
+   "ospite": "Ipswich Town",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.17,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.26,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.26,
+    -0.25
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5795502@45": {
+   "id": 5795502,
+   "campionato": "Premier League",
+   "casa": "Manchester City",
+   "ospite": "Brighton & Hove Albion",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.55,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.83,
+    0.87
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.83,
+    -0.13
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5811795@45": {
+   "id": 5811795,
+   "campionato": "Belgian Pro League",
+   "casa": "KV Mechelen",
+   "ospite": "Genk",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.21,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.32,
+    0.65
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.68,
+    0.65
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5105034@45": {
+   "id": 5105034,
+   "campionato": "Eliteserien",
+   "casa": "Fredrikstad",
+   "ospite": "Rosenborg",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.58,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.87,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5793967@45": {
+   "id": 5793967,
+   "campionato": "Premiership",
+   "casa": "Kilmarnock",
+   "ospite": "St. Johnstone",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.12,
+    0.44
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.68,
+    0.66
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.32,
+    -0.34
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5793968@45": {
+   "id": 5793968,
+   "campionato": "Premiership",
+   "casa": "Motherwell",
+   "ospite": "St. Mirren",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.27,
+    0.09
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.91,
+    0.14
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.91,
+    0.14
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836898@45": {
+   "id": 5836898,
+   "campionato": "Championship",
+   "casa": "Bolton Wanderers",
+   "ospite": "Bristol City",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.37,
+    1.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.55,
+    1.91
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.45,
+    0.91
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836899@45": {
+   "id": 5836899,
+   "campionato": "Championship",
+   "casa": "Burnley",
+   "ospite": "Portsmouth",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.29,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.94,
+    0.22
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.94,
+    0.22
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836901@45": {
+   "id": 5836901,
+   "campionato": "Championship",
+   "casa": "Middlesbrough",
+   "ospite": "Charlton Athletic",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.99,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.48,
+    0.22
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.52,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836902@45": {
+   "id": 5836902,
+   "campionato": "Championship",
+   "casa": "Millwall",
+   "ospite": "Derby County",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    2.15,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.22,
+    0.65
+   ],
+   "punteggio": [
+    3,
+    0
+   ],
+   "xsxg": [
+    0.22,
+    0.65
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836905@45": {
+   "id": 5836905,
+   "campionato": "Championship",
+   "casa": "Southampton",
+   "ospite": "Queens Park Rangers",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.78,
+    0.65
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.17,
+    0.98
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.17,
+    0.98
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836907@45": {
+   "id": 5836907,
+   "campionato": "Championship",
+   "casa": "Swansea City",
+   "ospite": "Blackburn Rovers",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.94,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.91,
+    0.08
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -0.09,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836908@45": {
+   "id": 5836908,
+   "campionato": "Championship",
+   "casa": "West Ham United",
+   "ospite": "West Bromwich Albion",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.58,
+    1.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.87,
+    2.08
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    -0.13,
+    1.08
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5836909@45": {
+   "id": 5836909,
+   "campionato": "Championship",
+   "casa": "Wolverhampton Wanderers",
+   "ospite": "Cardiff City",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.97,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.46,
+    0.43
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.54,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "1000015495@45": {
+   "id": 1000015495,
+   "campionato": "First Division B",
+   "casa": "Patro Eisden",
+   "ospite": "KSC Lokeren",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.07,
+    0.37
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    0.55
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.89,
+    0.55
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "1000015499@45": {
+   "id": 1000015499,
+   "campionato": "First Division B",
+   "casa": "Beerschot",
+   "ospite": "Francs Borains",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.72,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.58,
+    0.12
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.58,
+    0.12
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837243@45": {
+   "id": 5837243,
+   "campionato": "League One",
+   "casa": "Barnsley",
+   "ospite": "Oxford United",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.48,
+    1.4
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.72,
+    2.1
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    -0.28,
+    2.1
+   ],
+   "overdue": [
+    0,
+    2
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837245@45": {
+   "id": 5837245,
+   "campionato": "League One",
+   "casa": "Leicester City",
+   "ospite": "Stevenage",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.27,
+    1.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.91,
+    1.59
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.91,
+    0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837248@45": {
+   "id": 5837248,
+   "campionato": "League One",
+   "casa": "Mansfield Town",
+   "ospite": "Notts County",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.88,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.32,
+    0.42
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.32,
+    -0.58
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837247@45": {
+   "id": 5837247,
+   "campionato": "League One",
+   "casa": "Milton Keynes Dons",
+   "ospite": "Doncaster Rovers",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.2,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.8,
+    0.08
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.2,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837249@45": {
+   "id": 5837249,
+   "campionato": "League One",
+   "casa": "Peterborough United",
+   "ospite": "Luton Town",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.36,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.87
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    -0.13
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837252@45": {
+   "id": 5837252,
+   "campionato": "League One",
+   "casa": "Stockport County",
+   "ospite": "AFC Wimbledon",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.94,
+    0.16
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.41,
+    0.24
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.41,
+    0.24
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837253@45": {
+   "id": 5837253,
+   "campionato": "League One",
+   "casa": "Wigan Athletic",
+   "ospite": "Bromley",
+   "minuto": 45,
+   "punteggio_live": "2-2",
+   "xg": [
+    1.59,
+    1.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.39,
+    1.98
+   ],
+   "punteggio": [
+    2,
+    1
+   ],
+   "xsxg": [
+    0.39,
+    -0.02
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5837254@45": {
+   "id": 5837254,
+   "campionato": "League One",
+   "casa": "Wycombe Wanderers",
+   "ospite": "Burton Albion",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.41,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    0.68
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.39,
+    0.68
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838015@45": {
+   "id": 5838015,
+   "campionato": "League Two",
+   "casa": "Accrington Stanley",
+   "ospite": "Northampton Town",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.65,
+    0.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.98,
+    0.09
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.02,
+    0.09
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838016@45": {
+   "id": 5838016,
+   "campionato": "League Two",
+   "casa": "Colchester United",
+   "ospite": "Walsall",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.71,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.56,
+    0.68
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.56,
+    -0.32
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838017@45": {
+   "id": 5838017,
+   "campionato": "League Two",
+   "casa": "Crewe Alexandra",
+   "ospite": "Barnet",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.33,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.49,
+    0.35
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.49,
+    -0.65
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838018@45": {
+   "id": 5838018,
+   "campionato": "League Two",
+   "casa": "Fleetwood Town",
+   "ospite": "Bristol Rovers",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.83,
+    0.1
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.24,
+    0.15
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.24,
+    0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838021@45": {
+   "id": 5838021,
+   "campionato": "League Two",
+   "casa": "Oldham Athletic",
+   "ospite": "Crawley Town",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.42,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    1.03
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.63,
+    1.03
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838023@45": {
+   "id": 5838023,
+   "campionato": "League Two",
+   "casa": "Salford City",
+   "ospite": "Exeter City",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.22,
+    0.61
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.92
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    -0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838024@45": {
+   "id": 5838024,
+   "campionato": "League Two",
+   "casa": "Shrewsbury Town",
+   "ospite": "Gillingham",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.67,
+    0.89
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.01,
+    1.33
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.01,
+    0.33
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838025@45": {
+   "id": 5838025,
+   "campionato": "League Two",
+   "casa": "Swindon Town",
+   "ospite": "Rotherham United",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.64,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.96,
+    0.0
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.04,
+    0.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5838026@45": {
+   "id": 5838026,
+   "campionato": "League Two",
+   "casa": "Tranmere Rovers",
+   "ospite": "Cheltenham Town",
+   "minuto": 45,
+   "punteggio_live": "3-1",
+   "xg": [
+    0.46,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.69,
+    0.49
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -2.31,
+    -0.51
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -3,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5996759@45": {
+   "id": 5996759,
+   "campionato": "Premier League",
+   "casa": "Abo Qir Semad",
+   "ospite": "Ghazl Al Mahalla",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.22,
+    0.62
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.93
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    -0.07
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
+  },
+  "5970187@45": {
+   "id": 5970187,
+   "campionato": "Saudi Pro League",
+   "casa": "Al-Fayha",
+   "ospite": "Al-Faisaly",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.43,
+    0.88
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.65,
+    1.32
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.35,
+    0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 16:56"
   }
  },
- "aggiornato": "31/10/2026 16:22"
+ "aggiornato": "31/10/2026 17:01"
 }
