@@ -3102,7 +3102,40 @@
    "esito": "Pareggio",
    "finale": "1 - 2",
    "scansione": "31/10/2026 21:45"
+  },
+  "5898770@45": {
+   "id": 5898770,
+   "campionato": "Liga de Expansión MX",
+   "casa": "Cruz Azul Hidalgo",
+   "ospite": "Tlaxcala FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.06,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    0.29
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 23:45"
   }
  },
- "aggiornato": "31/10/2026 23:15"
+ "aggiornato": "31/10/2026 23:45"
 }
