@@ -618,3 +618,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5071476;Major League Soccer;Sporting Kansas City;FC Dallas;45;1-1;0.59;0.28;-1;1 Casa;
 20261031;5071479;Major League Soccer;St. Louis City;San Diego FC;45;0-1;0.36;0.33;0;Pareggio;
 20261031;5804023;Ekstraklasa;GKS Katowice;Widzew Łódź;45;1-0;1.64;0.34;1;1 Casa;
+20261031;5802981;Ligue 1;Troyes;Le Mans;45;1-0;0.16;0.07;-1;Pareggio;
+20261031;5749730;Serie A;Milan;Inter;45;3-1;0.59;1.06;-2;2 Ospite;
+20261031;5811791;Belgian Pro League;Anderlecht;Westerlo;45;3-0;1.17;0.37;-1;1 Casa;
+20261031;5811792;Belgian Pro League;SK Beveren;Union St.Gilloise;45;0-1;0.31;0.46;0;Pareggio;

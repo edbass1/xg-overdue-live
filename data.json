@@ -2970,7 +2970,139 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "31/10/2026 21:14"
+  },
+  "5802981@45": {
+   "id": 5802981,
+   "campionato": "Ligue 1",
+   "casa": "Troyes",
+   "ospite": "Le Mans",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.16,
+    0.07
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    0.11
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.76,
+    0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 21:45"
+  },
+  "5749730@45": {
+   "id": 5749730,
+   "campionato": "Serie A",
+   "casa": "Milan",
+   "ospite": "Inter",
+   "minuto": 45,
+   "punteggio_live": "3-1",
+   "xg": [
+    0.59,
+    1.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    1.59
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -2.11,
+    0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 21:45"
+  },
+  "5811791@45": {
+   "id": 5811791,
+   "campionato": "Belgian Pro League",
+   "casa": "Anderlecht",
+   "ospite": "Westerlo",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.17,
+    0.37
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.75,
+    0.55
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -1.25,
+    0.55
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 21:45"
+  },
+  "5811792@45": {
+   "id": 5811792,
+   "campionato": "Belgian Pro League",
+   "casa": "SK Beveren",
+   "ospite": "Union St.Gilloise",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.31,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    0.69
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.46,
+    -0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 21:45"
   }
  },
- "aggiornato": "31/10/2026 21:14"
+ "aggiornato": "31/10/2026 21:45"
 }
