@@ -588,3 +588,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5838026;League Two;Tranmere Rovers;Cheltenham Town;45;3-1;0.46;0.33;-3;Pareggio;
 20261031;5996759;Premier League;Abo Qir Semad;Ghazl Al Mahalla;45;0-1;0.22;0.62;0;2 Ospite;
 20261031;5970187;Saudi Pro League;Al-Fayha;Al-Faisaly;45;1-1;0.43;0.88;-1;2 Ospite;
+20261031;5868119;LaLiga;Rayo Vallecano;Celta Vigo;45;1-0;0.22;0.59;0;2 Ospite;
+20261031;5781787;Eredivisie;Feyenoord;Fortuna Sittard;45;0-0;1.41;0.16;2;1 Casa;
+20261031;5887669;Liga Portugal;Moreirense;Estrela da Amadora;45;0-0;0.11;0.16;0;Pareggio;
