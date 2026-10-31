@@ -2275,7 +2275,7 @@
    ],
    "totale": 2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "31/10/2026 18:22"
   },
   "5749739@45": {
@@ -2308,7 +2308,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 5",
    "scansione": "31/10/2026 18:53"
   },
   "5105039@45": {
@@ -2341,7 +2341,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 4",
    "scansione": "31/10/2026 18:53"
   },
   "5847221@45": {
@@ -2374,7 +2374,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "31/10/2026 18:53"
   },
   "5908454@45": {
@@ -2407,7 +2407,7 @@
    ],
    "totale": 2,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "31/10/2026 18:53"
   },
   "5901189@45": {
@@ -2440,7 +2440,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 5",
    "scansione": "31/10/2026 18:53"
   },
   "5901191@45": {
@@ -2473,7 +2473,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "31/10/2026 18:53"
   },
   "5901192@45": {
@@ -2506,7 +2506,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "31/10/2026 18:53"
   },
   "5943283@45": {
@@ -2539,7 +2539,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "31/10/2026 18:53"
   },
   "5804286@45": {
@@ -2572,7 +2572,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "31/10/2026 18:53"
   },
   "5804290@45": {
@@ -2605,7 +2605,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "31/10/2026 18:53"
   },
   "5795504@45": {
@@ -2673,7 +2673,205 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "31/10/2026 19:21"
+  },
+  "5071472@45": {
+   "id": 5071472,
+   "campionato": "Major League Soccer",
+   "casa": "Columbus Crew",
+   "ospite": "DC United",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.63,
+    0.96
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.95,
+    1.44
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.05,
+    1.44
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
+  },
+  "5071471@45": {
+   "id": 5071471,
+   "campionato": "Major League Soccer",
+   "casa": "FC Cincinnati",
+   "ospite": "Philadelphia Union",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.09,
+    0.78
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.14,
+    1.17
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.14,
+    1.17
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
+  },
+  "5071474@45": {
+   "id": 5071474,
+   "campionato": "Major League Soccer",
+   "casa": "New York City FC",
+   "ospite": "CF Montréal",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.29,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    0.49
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.57,
+    0.49
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
+  },
+  "5996761@45": {
+   "id": 5996761,
+   "campionato": "Premier League",
+   "casa": "Petrojet-Suez",
+   "ospite": "Smouha SC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.13,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.2,
+    0.75
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
+  },
+  "5955114@45": {
+   "id": 5955114,
+   "campionato": "Premier Soccer League",
+   "casa": "Kruger United",
+   "ospite": "Richards Bay",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.05,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.58,
+    0.42
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.42,
+    -0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
+  },
+  "5955115@45": {
+   "id": 5955115,
+   "campionato": "Premier Soccer League",
+   "casa": "Mamelodi Sundowns FC",
+   "ospite": "Durban City",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.69,
+    0.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.03,
+    0.18
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.03,
+    0.18
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 20:10"
   }
  },
- "aggiornato": "31/10/2026 19:21"
+ "aggiornato": "31/10/2026 20:10"
 }
