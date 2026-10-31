@@ -544,3 +544,9 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5967134;Serie B;Modena;Mantova;45;0-0;1.03;0.11;1;1 Casa;
 20261031;5967137;Serie B;Südtirol;Cesena;45;1-0;0.73;1.7;2;2 Ospite;
 20261031;6362010;Indian Super League;Mohun Bagan SG;Punjab FC;45;2-1;0.32;0.16;-3;Pareggio;
+20261031;5881206;Bundesliga;Augsburg;Freiburg;45;1-0;0.6;0.75;1;Pareggio;
+20261031;5881207;Bundesliga;Bayer Leverkusen;VfB Stuttgart;45;1-2;1.01;2.0;1;2 Ospite;
+20261031;5881209;Bundesliga;Borussia Mönchengladbach;Paderborn;45;0-0;0.68;0.53;1;Pareggio;
+20261031;5881212;Bundesliga;Schalke 04;RB Leipzig;45;0-1;0.43;1.59;2;2 Ospite;
+20261031;5881214;Bundesliga;Werder Bremen;Hoffenheim;45;0-0;0.41;0.38;1;Pareggio;
+20261031;5847217;Premier League;Dinamo Moscow;FK Akhmat;45;1-0;0.46;0.03;-1;1 Casa;
