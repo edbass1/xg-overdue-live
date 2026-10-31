@@ -539,3 +539,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5955111;Premier Soccer League;Orlando Pirates;Kaizer Chiefs;45;1-1;0.31;1.25;0;2 Ospite;
 20261031;5955116;Premier Soccer League;Milford FC;Sekhukhune United;45;1-0;0.18;0.37;-1;Pareggio;
 20261031;5970196;Saudi Pro League;Al-Taawoun;Al-Ettifaq;45;1-0;0.79;0.84;1;Pareggio;
+20261031;5749732;Serie A;Bologna;Monza;45;1-1;0.79;0.83;0;Pareggio;
+20261031;5967132;Serie B;Cremonese;Benevento;45;1-0;0.99;0.48;1;1 Casa;
+20261031;5967134;Serie B;Modena;Mantova;45;0-0;1.03;0.11;1;1 Casa;
+20261031;5967137;Serie B;Südtirol;Cesena;45;1-0;0.73;1.7;2;2 Ospite;
+20261031;6362010;Indian Super League;Mohun Bagan SG;Punjab FC;45;2-1;0.32;0.16;-3;Pareggio;
