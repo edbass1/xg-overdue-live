@@ -615,3 +615,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5996761;Premier League;Petrojet-Suez;Smouha SC;45;0-0;0.13;0.5;0;2 Ospite;
 20261031;5955114;Premier Soccer League;Kruger United;Richards Bay;45;2-1;1.05;0.28;-1;1 Casa;
 20261031;5955115;Premier Soccer League;Mamelodi Sundowns FC;Durban City;45;1-0;0.69;0.12;0;1 Casa;
+20261031;5071476;Major League Soccer;Sporting Kansas City;FC Dallas;45;1-1;0.59;0.28;-1;1 Casa;
+20261031;5071479;Major League Soccer;St. Louis City;San Diego FC;45;0-1;0.36;0.33;0;Pareggio;
+20261031;5804023;Ekstraklasa;GKS Katowice;Widzew Łódź;45;1-0;1.64;0.34;1;1 Casa;
