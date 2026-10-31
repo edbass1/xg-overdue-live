@@ -955,7 +955,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "31/10/2026 16:56"
   },
   "5793967@45": {
@@ -1054,7 +1054,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "31/10/2026 16:56"
   },
   "5836899@45": {
@@ -1879,7 +1879,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "31/10/2026 16:56"
   },
   "5838026@45": {
@@ -1945,7 +1945,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "31/10/2026 16:56"
   },
   "5970187@45": {
@@ -2011,7 +2011,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "31/10/2026 17:22"
   },
   "5781787@45": {
@@ -2244,7 +2244,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "31/10/2026 17:58"
+  },
+  "5804025@45": {
+   "id": 5804025,
+   "campionato": "Ekstraklasa",
+   "casa": "Lech Poznań",
+   "ospite": "Wisła Kraków",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.34,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.01,
+    0.42
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.01,
+    0.42
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "31/10/2026 18:22"
   }
  },
- "aggiornato": "31/10/2026 17:59"
+ "aggiornato": "31/10/2026 18:22"
 }
