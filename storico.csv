@@ -536,3 +536,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261031;5868522;LaLiga2;Real Sociedad B;Girona;45;0-0;1.09;0.11;1;1 Casa;
 20261031;5803299;Ligue 2;Annecy FC;Montpellier;45;0-2;1.84;1.39;2;1 Casa;
 20261031;5904792;Super Lig;Kocaelispor;Rizespor;45;0-0;0.24;0.39;0;Pareggio;
+20261031;5955111;Premier Soccer League;Orlando Pirates;Kaizer Chiefs;45;1-1;0.31;1.25;0;2 Ospite;
+20261031;5955116;Premier Soccer League;Milford FC;Sekhukhune United;45;1-0;0.18;0.37;-1;Pareggio;
+20261031;5970196;Saudi Pro League;Al-Taawoun;Al-Ettifaq;45;1-0;0.79;0.84;1;Pareggio;
