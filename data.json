@@ -1450,7 +1450,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 5",
    "scansione": "01/11/2026 17:25"
   },
   "5804288@45": {
@@ -1483,7 +1483,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "01/11/2026 17:25"
   },
   "5107647@45": {
@@ -1549,7 +1549,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "01/11/2026 17:25"
   },
   "5107652@45": {
@@ -1615,7 +1615,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "01/11/2026 17:58"
   },
   "5105033@45": {
@@ -1747,7 +1747,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "01/11/2026 17:58"
   },
   "5904786@45": {
@@ -1848,7 +1848,106 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "01/11/2026 18:24"
+  },
+  "5749737@45": {
+   "id": 5749737,
+   "campionato": "Serie A",
+   "casa": "Lecce",
+   "ospite": "Genoa",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.68,
+    0.88
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.02,
+    1.32
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.02,
+    -0.68
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 18:54"
+  },
+  "5943287@45": {
+   "id": 5943287,
+   "campionato": "Super League",
+   "casa": "PAOK Thessaloniki",
+   "ospite": "Asteras Tripolis",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.32,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.48,
+    0.85
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.52,
+    -0.15
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 18:54"
+  },
+  "5739539@45": {
+   "id": 5739539,
+   "campionato": "Superligaen",
+   "casa": "Brøndby IF",
+   "ospite": "AGF",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.15,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.72,
+    0.54
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.72,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 18:54"
   }
  },
- "aggiornato": "01/11/2026 18:24"
+ "aggiornato": "01/11/2026 18:54"
 }

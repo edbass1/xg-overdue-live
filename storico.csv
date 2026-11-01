@@ -679,3 +679,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;5904786;Super Lig;Kasımpaşa;Beşiktaş;45;0-1;0.52;0.54;0;Pareggio;
 20261101;5795501;Premier League;Liverpool;Arsenal;45;0-1;0.59;0.77;1;Pareggio;
 20261101;5881210;Bundesliga;Eintracht Frankfurt;Hamburger SV;45;1-1;0.34;0.66;-1;2 Ospite;
+20261101;5749737;Serie A;Lecce;Genoa;45;1-2;0.68;0.88;-1;2 Ospite;
+20261101;5943287;Super League;PAOK Thessaloniki;Asteras Tripolis;45;1-1;0.32;0.57;-1;2 Ospite;
+20261101;5739539;Superligaen;Brøndby IF;AGF;45;1-0;1.15;0.36;1;1 Casa;
