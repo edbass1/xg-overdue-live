@@ -631,3 +631,13 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;5881711;2. Bundesliga;Greuther Fürth;Holstein Kiel;45;0-0;0.11;0.22;0;Pareggio;
 20261101;5881712;2. Bundesliga;Hannover 96;Dynamo Dresden;45;0-1;0.56;0.94;1;2 Ospite;
 20261101;5847216;Premier League;Dynamo Makhachkala;FC Rostov;45;0-2;0.27;0.33;-2;Pareggio;
+20261101;5868116;LaLiga;Getafe;Sevilla;45;0-1;0.05;0.41;-1;2 Ospite;
+20261101;5868519;LaLiga2;Eldense;Granada;45;0-0;0.27;0.59;1;2 Ospite;
+20261101;5793965;Premiership;Falkirk;Celtic;45;2-0;0.87;1.0;0;Pareggio;
+20261101;5804291;Super League;Young Boys;FC Zürich;45;3-2;1.59;1.58;-1;Pareggio;
+20261101;5904787;Super Lig;Başakşehir;Samsunspor;45;3-1;1.16;0.9;-1;1 Casa;
+20261101;5904785;Super Lig;Trabzonspor;Gaziantep FK;45;1-0;0.43;0.25;0;Pareggio;
+20261101;5739536;Superligaen;OB;Silkeborg;45;1-1;0.85;0.32;-1;1 Casa;
+20261101;5739540;Superligaen;Viborg;AC Horsens;45;0-0;1.18;0.12;1;1 Casa;
+20261101;5107645;Allsvenskan;Djurgården;Degerfors;45;2-0;1.8;0.01;0;1 Casa;
+20261101;5107649;Allsvenskan;Malmö FF;Hammarby;45;1-0;0.15;0.69;0;2 Ospite;
