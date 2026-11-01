@@ -328,7 +328,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "01/11/2026 14:57"
   },
   "5793965@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "01/11/2026 14:57"
   },
   "5804291@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 5",
    "scansione": "01/11/2026 14:57"
   },
   "5904787@45": {
@@ -427,7 +427,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 2",
    "scansione": "01/11/2026 14:57"
   },
   "5904785@45": {
@@ -460,7 +460,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "01/11/2026 14:57"
   },
   "5739536@45": {
@@ -493,7 +493,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 1",
    "scansione": "01/11/2026 14:57"
   },
   "5739540@45": {
@@ -526,7 +526,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "01/11/2026 14:57"
   },
   "5107645@45": {
@@ -559,7 +559,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "01/11/2026 14:57"
   },
   "5107649@45": {
@@ -592,7 +592,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "01/11/2026 14:57"
   },
   "5846015@45": {
@@ -792,7 +792,370 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "01/11/2026 15:26"
+  },
+  "5802980@45": {
+   "id": 5802980,
+   "campionato": "Ligue 1",
+   "casa": "Strasbourg",
+   "ospite": "Auxerre",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.13,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.69,
+    0.29
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.69,
+    0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5749734@45": {
+   "id": 5749734,
+   "campionato": "Serie A",
+   "casa": "Frosinone",
+   "ospite": "Torino",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.72,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.08,
+    0.68
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.08,
+    0.68
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5749736@45": {
+   "id": 5749736,
+   "campionato": "Serie A",
+   "casa": "Lazio",
+   "ospite": "Cagliari",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.31,
+    0.7
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.46,
+    1.05
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.54,
+    0.05
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5967130@45": {
+   "id": 5967130,
+   "campionato": "Serie B",
+   "casa": "Avellino",
+   "ospite": "Pisa",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.2,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.8,
+    0.12
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.8,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5967133@45": {
+   "id": 5967133,
+   "campionato": "Serie B",
+   "casa": "Empoli",
+   "ospite": "Juve Stabia",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.82,
+    0.76
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.23,
+    1.14
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    -0.77,
+    0.14
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5967129@45": {
+   "id": 5967129,
+   "campionato": "Serie B",
+   "casa": "Arezzo",
+   "ospite": "Ascoli",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.91,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.36,
+    0.65
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.36,
+    0.65
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5981678@45": {
+   "id": 5981678,
+   "campionato": "WSL",
+   "casa": "Birmingham City (W)",
+   "ospite": "Tottenham Hotspur (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.43,
+    1.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.65,
+    2.17
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.65,
+    1.17
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5981679@45": {
+   "id": 5981679,
+   "campionato": "WSL",
+   "casa": "Brighton (W)",
+   "ospite": "Crystal Palace (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.61,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.92,
+    0.06
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.92,
+    -0.94
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5981682@45": {
+   "id": 5981682,
+   "campionato": "WSL",
+   "casa": "West Ham United (W)",
+   "ospite": "Liverpool (W)",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.3,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.95,
+    0.21
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -1.05,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "6362012@45": {
+   "id": 6362012,
+   "campionato": "Indian Super League",
+   "casa": "Inter Kashi",
+   "ospite": "FC Goa",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.13,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    0.61
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.2,
+    -0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
+  },
+  "5837251@45": {
+   "id": 5837251,
+   "campionato": "League One",
+   "casa": "Sheffield Wednesday",
+   "ospite": "Blackpool",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.54,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    0.52
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.19,
+    0.52
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 15:59"
   }
  },
- "aggiornato": "01/11/2026 15:27"
+ "aggiornato": "01/11/2026 16:00"
 }

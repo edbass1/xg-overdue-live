@@ -647,3 +647,14 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;5781794;Eredivisie;Excelsior;FC Twente;45;0-5;0.0;1.63;-3;2 Ospite;
 20261101;5781790;Eredivisie;Telstar;FC Utrecht;45;3-1;1.73;0.21;-2;1 Casa;
 20261101;5901190;Premiere Ligue;Paris FC (W);Paris Saint Germain (W);45;1-1;0.28;0.15;-2;Pareggio;
+20261101;5802980;Ligue 1;Strasbourg;Auxerre;45;1-0;1.13;0.19;0;1 Casa;
+20261101;5749734;Serie A;Frosinone;Torino;45;0-0;0.72;0.45;1;1 Casa;
+20261101;5749736;Serie A;Lazio;Cagliari;45;1-1;0.31;0.7;-1;2 Ospite;
+20261101;5967130;Serie B;Avellino;Pisa;45;1-0;1.2;0.08;0;1 Casa;
+20261101;5967133;Serie B;Empoli;Juve Stabia;45;2-1;0.82;0.76;-1;Pareggio;
+20261101;5967129;Serie B;Arezzo;Ascoli;45;0-0;0.91;0.43;2;1 Casa;
+20261101;5981678;WSL;Birmingham City (W);Tottenham Hotspur (W);45;0-1;0.43;1.45;1;2 Ospite;
+20261101;5981679;WSL;Brighton (W);Crystal Palace (W);45;0-1;0.61;0.04;-1;1 Casa;
+20261101;5981682;WSL;West Ham United (W);Liverpool (W);45;3-0;1.3;0.14;-1;1 Casa;
+20261101;6362012;Indian Super League;Inter Kashi;FC Goa;45;0-1;0.13;0.41;-1;2 Ospite;
+20261101;5837251;League One;Sheffield Wednesday;Blackpool;45;1-0;0.54;0.35;0;Pareggio;
