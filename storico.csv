@@ -628,3 +628,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;1000017769;Thai League;Sukhothai FC;Ayutthaya United FC;45;0-0;0.18;0.31;0;Pareggio;
 20261101;5749733;Serie A;Como;Venezia;45;1-0;1.33;0.02;1;1 Casa;
 20261101;6362011;Indian Super League;Mumbai City FC;SC Delhi;45;2-0;1.66;0.33;0;1 Casa;
+20261101;5881711;2. Bundesliga;Greuther Fürth;Holstein Kiel;45;0-0;0.11;0.22;0;Pareggio;
+20261101;5881712;2. Bundesliga;Hannover 96;Dynamo Dresden;45;0-1;0.56;0.94;1;2 Ospite;
+20261101;5847216;Premier League;Dynamo Makhachkala;FC Rostov;45;0-2;0.27;0.33;-2;Pareggio;
