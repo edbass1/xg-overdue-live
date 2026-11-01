@@ -1252,7 +1252,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 6",
    "scansione": "01/11/2026 16:27"
   },
   "5811798@45": {
@@ -1285,7 +1285,7 @@
    ],
    "totale": 5,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "01/11/2026 16:57"
   },
   "5943284@45": {
@@ -1318,7 +1318,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "01/11/2026 16:57"
   },
   "5739541@45": {
@@ -1584,7 +1584,205 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "01/11/2026 17:25"
+  },
+  "5846012@45": {
+   "id": 5846012,
+   "campionato": "Bundesliga",
+   "casa": "Austria Wien",
+   "ospite": "Rapid Wien",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.81,
+    0.4
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.22,
+    0.6
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.22,
+    0.6
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
+  },
+  "5105033@45": {
+   "id": 5105033,
+   "campionato": "Eliteserien",
+   "casa": "KFUM",
+   "ospite": "Hamarkameratene",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.37,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.55,
+    0.49
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.45,
+    0.49
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
+  },
+  "5105037@45": {
+   "id": 5105037,
+   "campionato": "Eliteserien",
+   "casa": "Sarpsborg 08",
+   "ospite": "Kristiansund",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    1.17,
+    0.67
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.75,
+    1.01
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.75,
+    -1.99
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
+  },
+  "5105040@45": {
+   "id": 5105040,
+   "campionato": "Eliteserien",
+   "casa": "Start",
+   "ospite": "Lillestrøm",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.6,
+    1.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    2.04
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.9,
+    1.04
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
+  },
+  "5943286@45": {
+   "id": 5943286,
+   "campionato": "Super League",
+   "casa": "Panetolikos",
+   "ospite": "OFI Crete",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.44,
+    0.16
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.66,
+    0.24
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.66,
+    0.24
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
+  },
+  "5904786@45": {
+   "id": 5904786,
+   "campionato": "Super Lig",
+   "casa": "Kasımpaşa",
+   "ospite": "Beşiktaş",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.52,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.78,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    -0.19
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:58"
   }
  },
- "aggiornato": "01/11/2026 17:26"
+ "aggiornato": "01/11/2026 17:59"
 }
