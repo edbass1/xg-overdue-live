@@ -1516,7 +1516,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "01/11/2026 17:25"
   },
   "5107650@45": {
@@ -1648,7 +1648,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "01/11/2026 17:58"
   },
   "5105037@45": {
@@ -1681,7 +1681,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 4",
    "scansione": "01/11/2026 17:58"
   },
   "5105040@45": {
@@ -1714,7 +1714,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "01/11/2026 17:58"
   },
   "5943286@45": {
@@ -1780,7 +1780,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "01/11/2026 17:58"
   },
   "5795501@45": {
@@ -1947,7 +1947,139 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "01/11/2026 18:54"
+  },
+  "5868114@45": {
+   "id": 5868114,
+   "campionato": "LaLiga",
+   "casa": "Elche",
+   "ospite": "Valencia",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.36,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.12
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 19:21"
+  },
+  "5811796@45": {
+   "id": 5811796,
+   "campionato": "Belgian Pro League",
+   "casa": "Lommel",
+   "ospite": "Gent",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.42,
+    0.7
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.63,
+    1.05
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.63,
+    1.05
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 19:21"
+  },
+  "5868515@45": {
+   "id": 5868515,
+   "campionato": "LaLiga2",
+   "casa": "Burgos CF",
+   "ospite": "Castellón",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.16,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    0.29
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.76,
+    -0.71
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 19:21"
+  },
+  "5943285@45": {
+   "id": 5943285,
+   "campionato": "Super League",
+   "casa": "Panathinaikos",
+   "ospite": "AEK Athens",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.38,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.43,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 19:21"
   }
  },
- "aggiornato": "01/11/2026 18:54"
+ "aggiornato": "01/11/2026 19:21"
 }
