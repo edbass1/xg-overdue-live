@@ -295,7 +295,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "01/11/2026 14:57"
   },
   "5868519@45": {
@@ -625,7 +625,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 1",
    "scansione": "01/11/2026 15:26"
   },
   "5846016@45": {
@@ -658,7 +658,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "01/11/2026 15:26"
   },
   "5105036@45": {
@@ -724,7 +724,7 @@
    ],
    "totale": -3,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 9",
    "scansione": "01/11/2026 15:26"
   },
   "5781790@45": {
@@ -757,7 +757,7 @@
    ],
    "totale": -2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 2",
    "scansione": "01/11/2026 15:26"
   },
   "5901190@45": {
@@ -1155,7 +1155,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "01/11/2026 15:59"
+  },
+  "5881213@45": {
+   "id": 5881213,
+   "campionato": "Bundesliga",
+   "casa": "Union Berlin",
+   "ospite": "1. FC Köln",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.87,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.3,
+    0.12
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.3,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 16:27"
+  },
+  "5847215@45": {
+   "id": 5847215,
+   "campionato": "Premier League",
+   "casa": "Baltika",
+   "ospite": "Akron Togliatti",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.47,
+    0.38
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.7,
+    0.57
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.7,
+    0.57
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 16:27"
+  },
+  "5981680@45": {
+   "id": 5981680,
+   "campionato": "WSL",
+   "casa": "Charlton (W)",
+   "ospite": "Chelsea (W)",
+   "minuto": 45,
+   "punteggio_live": "0-4",
+   "xg": [
+    0.07,
+    2.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.11,
+    3.21
+   ],
+   "punteggio": [
+    0,
+    3
+   ],
+   "xsxg": [
+    0.11,
+    -0.79
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 16:27"
   }
  },
- "aggiornato": "01/11/2026 16:00"
+ "aggiornato": "01/11/2026 16:27"
 }
