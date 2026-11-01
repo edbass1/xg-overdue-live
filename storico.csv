@@ -677,3 +677,5 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;5105040;Eliteserien;Start;Lillestrøm;45;0-1;0.6;1.36;1;2 Ospite;
 20261101;5943286;Super League;Panetolikos;OFI Crete;45;0-0;0.44;0.16;0;1 Casa;
 20261101;5904786;Super Lig;Kasımpaşa;Beşiktaş;45;0-1;0.52;0.54;0;Pareggio;
+20261101;5795501;Premier League;Liverpool;Arsenal;45;0-1;0.59;0.77;1;Pareggio;
+20261101;5881210;Bundesliga;Eintracht Frankfurt;Hamburger SV;45;1-1;0.34;0.66;-1;2 Ospite;
