@@ -2308,9 +2308,108 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "01/11/2026 22:18"
+  },
+  "1000019608@45": {
+   "id": 1000019608,
+   "campionato": "Liga Profesional",
+   "casa": "Newell's Old Boys",
+   "ospite": "Unión",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.03,
+    0.34
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.04,
+    0.51
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.04,
+    0.51
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 23:21"
+  },
+  "1000019613@45": {
+   "id": 1000019613,
+   "campionato": "Liga Profesional",
+   "casa": "Belgrano",
+   "ospite": "Barracas Central",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.34,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.51,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.49,
+    0.38
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 23:21"
+  },
+  "5190790@45": {
+   "id": 5190790,
+   "campionato": "Série B",
+   "casa": "Novorizontino",
+   "ospite": "Operário-PR",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.99,
+    0.03
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.48,
+    0.04
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.52,
+    0.04
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 23:21"
   }
  },
- "aggiornato": "01/11/2026 22:50"
+ "aggiornato": "01/11/2026 23:21"
 }
