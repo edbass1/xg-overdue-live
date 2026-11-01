@@ -696,3 +696,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261101;1000019608;Liga Profesional;Newell's Old Boys;Unión;45;0-0;0.03;0.34;0;2 Ospite;
 20261101;1000019613;Liga Profesional;Belgrano;Barracas Central;45;1-0;0.34;0.25;-1;Pareggio;
 20261101;5190790;Série B;Novorizontino;Operário-PR;45;2-0;0.99;0.03;-1;1 Casa;
+20261101;5161687;NWSL;Angel City FC (W);Boston Legacy FC (W);45;1-1;0.17;0.44;-2;2 Ospite;
+20261101;5161685;NWSL;North Carolina Courage (W);Denver Summit FC (W);45;0-0;0.16;0.45;0;2 Ospite;
+20261101;5161686;NWSL;Racing Louisville (W);Kansas City Current (W);45;0-1;0.1;0.52;-1;2 Ospite;
+20261101;5161684;NWSL;Seattle Reign FC (W);Orlando Pride (W);45;0-0;1.3;0.21;2;1 Casa;
+20261101;5161683;NWSL;Washington Spirit (W);Chicago Stars (W);45;0-0;0.59;0.52;1;Pareggio;
