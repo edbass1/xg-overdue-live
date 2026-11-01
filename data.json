@@ -2211,7 +2211,73 @@
    "esito": "1 Casa",
    "finale": "1 - 0",
    "scansione": "01/11/2026 20:10"
+  },
+  "5802977@45": {
+   "id": 5802977,
+   "campionato": "Ligue 1",
+   "casa": "Marseille",
+   "ospite": "Toulouse",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.54,
+    0.88
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.32
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -1.19,
+    1.32
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "01/11/2026 21:47"
+  },
+  "5749735@45": {
+   "id": 5749735,
+   "campionato": "Serie A",
+   "casa": "Juventus",
+   "ospite": "Napoli",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.56,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.84,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.84,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 21:47"
   }
  },
- "aggiornato": "01/11/2026 21:15"
+ "aggiornato": "01/11/2026 21:47"
 }
