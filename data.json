@@ -823,7 +823,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 1",
    "scansione": "01/11/2026 15:59"
   },
   "5749734@45": {
@@ -889,7 +889,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "01/11/2026 15:59"
   },
   "5967130@45": {
@@ -922,7 +922,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "01/11/2026 15:59"
   },
   "5967133@45": {
@@ -1186,7 +1186,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "01/11/2026 16:27"
   },
   "5847215@45": {
@@ -1219,7 +1219,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "01/11/2026 16:27"
   },
   "5981680@45": {
@@ -1386,7 +1386,205 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "01/11/2026 16:57"
+  },
+  "5887664@45": {
+   "id": 5887664,
+   "campionato": "Liga Portugal",
+   "casa": "Arouca",
+   "ospite": "Nacional",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.1,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.15,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.15,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
+  },
+  "5804287@45": {
+   "id": 5804287,
+   "campionato": "Super League",
+   "casa": "Lausanne",
+   "ospite": "Thun",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.38,
+    0.45
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.07,
+    0.68
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.07,
+    -0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
+  },
+  "5804288@45": {
+   "id": 5804288,
+   "campionato": "Super League",
+   "casa": "Lugano",
+   "ospite": "Basel",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    0.53,
+    0.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    0.69
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.2,
+    -0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
+  },
+  "5107647@45": {
+   "id": 5107647,
+   "campionato": "Allsvenskan",
+   "casa": "Häcken",
+   "ospite": "IFK Göteborg",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.45,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.68,
+    0.48
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.32,
+    0.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
+  },
+  "5107650@45": {
+   "id": 5107650,
+   "campionato": "Allsvenskan",
+   "casa": "Elfsborg",
+   "ospite": "Örgryte",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.25,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.38,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    0.38
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
+  },
+  "5107652@45": {
+   "id": 5107652,
+   "campionato": "Allsvenskan",
+   "casa": "Västerås SK",
+   "ospite": "Brommapojkarna",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.6,
+    0.79
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    1.19
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.9,
+    1.19
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "01/11/2026 17:25"
   }
  },
- "aggiornato": "01/11/2026 16:58"
+ "aggiornato": "01/11/2026 17:26"
 }
