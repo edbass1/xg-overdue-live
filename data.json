@@ -130,7 +130,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "02/11/2026 21:30"
   },
   "5887671@45": {
@@ -198,7 +198,73 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "02/11/2026 22:19"
+  },
+  "1000014207@45": {
+   "id": 1000014207,
+   "campionato": "Primera A",
+   "casa": "Águilas Doradas",
+   "ospite": "Fortaleza FC",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.14,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.21,
+    0.75
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "02/11/2026 22:57"
+  },
+  "5190791@45": {
+   "id": 5190791,
+   "campionato": "Série B",
+   "casa": "Athletic Club MG",
+   "ospite": "Ceará",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.03,
+    0.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.54,
+    0.46
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    -0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "02/11/2026 22:57"
   }
  },
- "aggiornato": "02/11/2026 22:19"
+ "aggiornato": "02/11/2026 22:57"
 }
