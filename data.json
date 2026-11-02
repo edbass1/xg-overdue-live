@@ -64,9 +64,42 @@
    ],
    "totale": 3,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "02/11/2026 19:14"
+  },
+  "5190793@45": {
+   "id": 5190793,
+   "campionato": "Série B",
+   "casa": "Fortaleza",
+   "ospite": "Atlético-GO",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.15,
+    0.16
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.22,
+    0.24
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.22,
+    0.24
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "02/11/2026 20:53"
   }
  },
- "aggiornato": "02/11/2026 20:06"
+ "aggiornato": "02/11/2026 20:53"
 }
