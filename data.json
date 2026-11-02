@@ -97,7 +97,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "02/11/2026 20:53"
   },
   "5804027@45": {
@@ -132,7 +132,73 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "02/11/2026 21:30"
+  },
+  "5887671@45": {
+   "id": 5887671,
+   "campionato": "Liga Portugal",
+   "casa": "Benfica",
+   "ospite": "Alverca",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.28,
+    0.31
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.42,
+    0.46
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.42,
+    0.46
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "02/11/2026 22:19"
+  },
+  "5887667@45": {
+   "id": 5887667,
+   "campionato": "Liga Portugal",
+   "casa": "Gil Vicente",
+   "ospite": "Vitória de Guimarães",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.19,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.29,
+    0.08
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "02/11/2026 22:19"
   }
  },
- "aggiornato": "02/11/2026 21:30"
+ "aggiornato": "02/11/2026 22:19"
 }
