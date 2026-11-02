@@ -33,7 +33,40 @@
    "esito": "1 Casa",
    "finale": "1 - 0",
    "scansione": "02/11/2026 14:38"
+  },
+  "5804026@45": {
+   "id": 5804026,
+   "campionato": "Ekstraklasa",
+   "casa": "Radomiak Radom",
+   "ospite": "Śląsk Wrocław",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.38,
+    2.01
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.07,
+    3.01
+   ],
+   "punteggio": [
+    2,
+    3
+   ],
+   "xsxg": [
+    1.07,
+    2.01
+   ],
+   "overdue": [
+    1,
+    2
+   ],
+   "totale": 3,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "02/11/2026 19:14"
   }
  },
- "aggiornato": "02/11/2026 18:21"
+ "aggiornato": "02/11/2026 19:14"
 }
