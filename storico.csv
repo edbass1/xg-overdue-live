@@ -709,3 +709,14 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261102;5887667;Liga Portugal;Gil Vicente;Vitória de Guimarães;45;0-0;0.19;0.05;0;Pareggio;
 20261102;1000014207;Primera A;Águilas Doradas;Fortaleza FC;45;0-0;0.14;0.5;0;2 Ospite;
 20261102;5190791;Série B;Athletic Club MG;Ceará;45;1-1;1.03;0.31;0;1 Casa;
+20261103;6106266;Champions League;Atlético Madrid;Bayern München;45;0-0;0.33;0.78;1;2 Ospite;
+20261103;6106316;Champions League;Bodø/Glimt;Lille;45;0-0;0.0;0.21;0;2 Ospite;
+20261103;5836911;Championship;Blackburn Rovers;Stoke City;45;0-1;0.87;0.14;0;1 Casa;
+20261103;5836912;Championship;Derby County;Norwich City;45;0-3;0.07;1.39;-1;2 Ospite;
+20261103;5836913;Championship;Portsmouth;Swansea City;45;1-0;0.72;0.07;0;1 Casa;
+20261103;5836914;Championship;Preston North End;Sheffield United;45;1-3;0.3;1.26;-2;2 Ospite;
+20261103;5836920;Championship;Charlton Athletic;Bolton Wanderers;45;0-1;0.3;0.25;-1;Pareggio;
+20261103;5836910;Championship;Birmingham City;Millwall;45;3-0;1.68;0.45;0;1 Casa;
+20261103;5837174;League One;Huddersfield Town;Luton Town;45;0-1;0.57;0.21;0;1 Casa;
+20261103;5837194;League One;Wigan Athletic;Mansfield Town;45;0-0;0.57;0.78;2;2 Ospite;
+20261103;5837963;League Two;Northampton Town;Oldham Athletic;45;0-0;0.13;0.19;0;Pareggio;
