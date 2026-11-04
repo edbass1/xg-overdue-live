@@ -66,7 +66,40 @@
    "esito": "Pareggio",
    "finale": "3 - 2",
    "scansione": "04/11/2026 19:47"
+  },
+  "5811786@45": {
+   "id": 5811786,
+   "campionato": "Belgian Pro League",
+   "casa": "Kortrijk",
+   "ospite": "KV Mechelen",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.62,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.93,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "04/11/2026 21:31"
   }
  },
- "aggiornato": "04/11/2026 20:42"
+ "aggiornato": "04/11/2026 21:31"
 }
