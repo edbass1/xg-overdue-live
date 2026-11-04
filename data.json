@@ -1,5 +1,72 @@
 {
  "date": "20261104",
- "matches": {},
- "aggiornato": "04/11/2026 18:59"
+ "matches": {
+  "6106401@45": {
+   "id": 6106401,
+   "campionato": "Champions League",
+   "casa": "AEK Athens",
+   "ospite": "Real Madrid",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.49,
+    1.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.73,
+    1.69
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.27,
+    0.69
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "04/11/2026 19:47"
+  },
+  "6106330@45": {
+   "id": 6106330,
+   "campionato": "Champions League",
+   "casa": "Fenerbahçe",
+   "ospite": "Liverpool",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.97,
+    0.8
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.46,
+    1.2
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.46,
+    0.2
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "04/11/2026 19:47"
+  }
+ },
+ "aggiornato": "04/11/2026 19:47"
 }
