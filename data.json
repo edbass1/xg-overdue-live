@@ -1,5 +1,39 @@
 {
  "date": "20261105",
- "matches": {},
- "aggiornato": "05/11/2026 12:37"
+ "matches": {
+  "6362013@45": {
+   "id": 6362013,
+   "campionato": "Indian Super League",
+   "casa": "Churchill Brothers",
+   "ospite": "Northeast United FC",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.35,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.52,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.52,
+    -0.7
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "05/11/2026 13:31"
+  }
+ },
+ "aggiornato": "05/11/2026 13:31"
 }
