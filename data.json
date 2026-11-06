@@ -66,7 +66,238 @@
    "esito": "Pareggio",
    "finale": "0 - 0",
    "scansione": "06/11/2026 19:21"
+  },
+  "6469310@45": {
+   "id": 6469310,
+   "campionato": "FA Cup",
+   "casa": "Oxford City",
+   "ospite": "Leicester City",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.17,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.26,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.74,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5802989@45": {
+   "id": 5802989,
+   "campionato": "Ligue 1",
+   "casa": "Toulouse",
+   "ospite": "Strasbourg",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.45,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.68,
+    0.17
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.32,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5749749@45": {
+   "id": 5749749,
+   "campionato": "Serie A",
+   "casa": "Venezia",
+   "ospite": "Udinese",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.07,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.6,
+    0.49
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.6,
+    0.49
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5811806@45": {
+   "id": 5811806,
+   "campionato": "Belgian Pro League",
+   "casa": "Standard Liège",
+   "ospite": "SK Beveren",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.51,
+    0.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.77,
+    0.09
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.23,
+    0.09
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5836927@45": {
+   "id": 5836927,
+   "campionato": "Championship",
+   "casa": "Derby County",
+   "ospite": "Bolton Wanderers",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.04,
+    0.72
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.06,
+    1.08
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.06,
+    0.08
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5803308@65": {
+   "id": 5803308,
+   "campionato": "Ligue 2",
+   "casa": "Boulogne",
+   "ospite": "Annecy FC",
+   "minuto": 65,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.82,
+    0.24
+   ],
+   "fattore": 1.278,
+   "proj": [
+    1.05,
+    0.31
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.05,
+    0.31
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
+  },
+  "5803311@65": {
+   "id": 5803311,
+   "campionato": "Ligue 2",
+   "casa": "Dunkerque",
+   "ospite": "Guingamp",
+   "minuto": 65,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.45,
+    0.44
+   ],
+   "fattore": 1.278,
+   "proj": [
+    0.57,
+    0.56
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.43,
+    0.56
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "06/11/2026 21:48"
   }
  },
- "aggiornato": "06/11/2026 21:08"
+ "aggiornato": "06/11/2026 21:48"
 }
