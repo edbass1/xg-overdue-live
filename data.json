@@ -1,5 +1,72 @@
 {
  "date": "20261106",
- "matches": {},
- "aggiornato": "06/11/2026 18:36"
+ "matches": {
+  "5881724@45": {
+   "id": 5881724,
+   "campionato": "2. Bundesliga",
+   "casa": "Dynamo Dresden",
+   "ospite": "Greuther Fürth",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.65,
+    0.5
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.98,
+    0.75
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.02,
+    0.75
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "06/11/2026 19:21"
+  },
+  "5881718@45": {
+   "id": 5881718,
+   "campionato": "2. Bundesliga",
+   "casa": "Eintracht Braunschweig",
+   "ospite": "Energie Cottbus",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.37,
+    0.17
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.55,
+    0.26
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.55,
+    0.26
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "06/11/2026 19:21"
+  }
+ },
+ "aggiornato": "06/11/2026 19:22"
 }
