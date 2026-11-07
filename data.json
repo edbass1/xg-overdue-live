@@ -427,7 +427,7 @@
    ],
    "totale": -2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "07/11/2026 17:21"
   },
   "5868527@45": {
@@ -460,7 +460,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "07/11/2026 17:21"
   },
   "5846017@45": {
@@ -561,7 +561,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "07/11/2026 17:58"
+  },
+  "5804031@45": {
+   "id": 5804031,
+   "campionato": "Ekstraklasa",
+   "casa": "Górnik Zabrze",
+   "ospite": "Wieczysta Kraków",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.19,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.78,
+    0.42
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    -0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 18:26"
+  },
+  "5847226@45": {
+   "id": 5847226,
+   "campionato": "Premier League",
+   "casa": "FC Krasnodar",
+   "ospite": "CSKA Moscow",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    2.08,
+    0.92
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.12,
+    1.38
+   ],
+   "punteggio": [
+    3,
+    1
+   ],
+   "xsxg": [
+    1.12,
+    0.38
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 18:26"
+  },
+  "5107656@45": {
+   "id": 5107656,
+   "campionato": "Allsvenskan",
+   "casa": "Örgryte",
+   "ospite": "Västerås SK",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.26,
+    1.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    1.58
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.39,
+    1.58
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 18:26"
+  },
+  "5107658@45": {
+   "id": 5107658,
+   "campionato": "Allsvenskan",
+   "casa": "Degerfors",
+   "ospite": "GAIS",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.4,
+    0.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.6,
+    0.58
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.6,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 18:26"
   }
  },
- "aggiornato": "07/11/2026 17:59"
+ "aggiornato": "07/11/2026 18:26"
 }
