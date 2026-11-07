@@ -769,3 +769,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5868529;LaLiga2;Córdoba;AD Ceuta FC;45;2-0;0.95;0.24;-1;1 Casa;
 20261107;5868532;LaLiga2;Leganés;Albacete;45;0-2;0.54;1.04;0;2 Ospite;
 20261107;5943289;Super League;Aris Thessaloniki;Panetolikos;45;1-0;0.78;0.88;1;Pareggio;
+20261107;5803315;Ligue 2;Pau;Nantes;45;0-1;0.13;1.08;0;2 Ospite;
+20261107;5803316;Ligue 2;Saint-Étienne;Laval;45;1-0;1.06;0.0;0;1 Casa;
+20261107;5190805;Série B;Avaí;São Bernardo;45;0-0;0.5;0.2;1;1 Casa;

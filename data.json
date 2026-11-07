@@ -955,7 +955,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "07/11/2026 19:25"
   },
   "5881223@45": {
@@ -988,7 +988,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "07/11/2026 19:25"
   },
   "6469313@45": {
@@ -1054,7 +1054,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "07/11/2026 19:25"
   },
   "5868529@45": {
@@ -1087,7 +1087,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "07/11/2026 19:25"
   },
   "5868532@45": {
@@ -1120,7 +1120,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 3",
    "scansione": "07/11/2026 19:25"
   },
   "5943289@45": {
@@ -1153,9 +1153,108 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "07/11/2026 19:25"
+  },
+  "5803315@45": {
+   "id": 5803315,
+   "campionato": "Ligue 2",
+   "casa": "Pau",
+   "ospite": "Nantes",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.13,
+    1.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.2,
+    1.62
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.2,
+    0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 20:50"
+  },
+  "5803316@45": {
+   "id": 5803316,
+   "campionato": "Ligue 2",
+   "casa": "Saint-Étienne",
+   "ospite": "Laval",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.06,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.59,
+    0.0
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.59,
+    0.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 20:50"
+  },
+  "5190805@45": {
+   "id": 5190805,
+   "campionato": "Série B",
+   "casa": "Avaí",
+   "ospite": "São Bernardo",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.5,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.75,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.75,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 20:50"
   }
  },
- "aggiornato": "07/11/2026 20:13"
+ "aggiornato": "07/11/2026 20:50"
 }
