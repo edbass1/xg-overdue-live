@@ -328,7 +328,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 16:48"
   },
   "5836926@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 16:48"
   },
   "5836932@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "07/11/2026 16:48"
   },
   "5781801@45": {
@@ -462,7 +462,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "07/11/2026 17:21"
+  },
+  "5846017@45": {
+   "id": 5846017,
+   "campionato": "Bundesliga",
+   "casa": "Austria Lustenau",
+   "ospite": "Grazer AK",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.06,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.09,
+    -0.61
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 17:58"
+  },
+  "5904800@45": {
+   "id": 5904800,
+   "campionato": "Super Lig",
+   "casa": "Galatasaray",
+   "ospite": "Amed Sportif",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.9,
+    0.57
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.35,
+    0.85
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.65,
+    0.85
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 17:58"
+  },
+  "5904798@45": {
+   "id": 5904798,
+   "campionato": "Super Lig",
+   "casa": "Göztepe",
+   "ospite": "Başakşehir",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.62,
+    0.74
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    1.11
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.07,
+    0.11
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 17:58"
   }
  },
- "aggiornato": "07/11/2026 17:21"
+ "aggiornato": "07/11/2026 17:59"
 }

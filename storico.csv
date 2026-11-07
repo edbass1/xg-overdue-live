@@ -748,3 +748,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5836932;Championship;West Bromwich Albion;Millwall;45;0-0;0.82;0.15;1;1 Casa;
 20261107;5781801;Eredivisie;Fortuna Sittard;Telstar;45;2-2;1.48;0.35;-2;1 Casa;
 20261107;5868527;LaLiga2;Cádiz;Real Oviedo;45;0-2;0.84;0.34;-1;1 Casa;
+20261107;5846017;Bundesliga;Austria Lustenau;Grazer AK;45;0-1;0.06;0.26;-1;2 Ospite;
+20261107;5904800;Super Lig;Galatasaray;Amed Sportif;45;2-0;0.9;0.57;0;1 Casa;
+20261107;5904798;Super Lig;Göztepe;Başakşehir;45;1-1;0.62;0.74;0;Pareggio;
