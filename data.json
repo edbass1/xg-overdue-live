@@ -1021,7 +1021,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "07/11/2026 19:25"
   },
   "5868126@45": {
@@ -1254,7 +1254,139 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "07/11/2026 20:50"
+  },
+  "5881720@45": {
+   "id": 5881720,
+   "campionato": "2. Bundesliga",
+   "casa": "Hertha BSC",
+   "ospite": "Wolfsburg",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.88,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.32,
+    0.43
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.68,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 21:20"
+  },
+  "5804038@45": {
+   "id": 5804038,
+   "campionato": "Ekstraklasa",
+   "casa": "Widzew Łódź",
+   "ospite": "Pogoń Szczecin",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.77,
+    0.21
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.16,
+    0.32
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.16,
+    0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 21:20"
+  },
+  "5804292@45": {
+   "id": 5804292,
+   "campionato": "Super League",
+   "casa": "Grasshopper",
+   "ospite": "Lausanne",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.0,
+    0.66
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.5,
+    0.99
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.5,
+    0.99
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 21:20"
+  },
+  "5190800@45": {
+   "id": 5190800,
+   "campionato": "Série B",
+   "casa": "Novorizontino",
+   "ospite": "Fortaleza",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.45,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.68,
+    0.41
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.32,
+    -0.59
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 21:20"
   }
  },
- "aggiornato": "07/11/2026 20:50"
+ "aggiornato": "07/11/2026 21:21"
 }
