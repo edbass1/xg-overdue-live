@@ -231,7 +231,40 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "07/11/2026 14:57"
+  },
+  "5847223@45": {
+   "id": 5847223,
+   "campionato": "Premier League",
+   "casa": "FK Akhmat",
+   "ospite": "Rodina",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.5,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.75,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.25,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 15:31"
   }
  },
- "aggiornato": "07/11/2026 14:58"
+ "aggiornato": "07/11/2026 15:31"
 }
