@@ -295,7 +295,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "07/11/2026 16:14"
   },
   "5836923@45": {
@@ -396,7 +396,73 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "07/11/2026 16:48"
+  },
+  "5781801@45": {
+   "id": 5781801,
+   "campionato": "Eredivisie",
+   "casa": "Fortuna Sittard",
+   "ospite": "Telstar",
+   "minuto": 45,
+   "punteggio_live": "2-2",
+   "xg": [
+    1.48,
+    0.35
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.22,
+    0.52
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.22,
+    -1.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 17:21"
+  },
+  "5868527@45": {
+   "id": 5868527,
+   "campionato": "LaLiga2",
+   "casa": "Cádiz",
+   "ospite": "Real Oviedo",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.84,
+    0.34
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.26,
+    0.51
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.26,
+    -1.49
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 17:21"
   }
  },
- "aggiornato": "07/11/2026 16:50"
+ "aggiornato": "07/11/2026 17:21"
 }
