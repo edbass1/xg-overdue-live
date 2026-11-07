@@ -592,7 +592,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 18:26"
   },
   "5847226@45": {
@@ -625,7 +625,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 2",
    "scansione": "07/11/2026 18:26"
   },
   "5107656@45": {
@@ -691,7 +691,7 @@
    ],
    "totale": 1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "07/11/2026 18:26"
   },
   "5749747@45": {
@@ -724,7 +724,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "07/11/2026 18:56"
   },
   "5105048@45": {
@@ -757,7 +757,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 1",
    "scansione": "07/11/2026 18:56"
   },
   "5901193@45": {
@@ -790,7 +790,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 18:56"
   },
   "5908455@45": {
@@ -823,7 +823,7 @@
    ],
    "totale": -3,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 7",
    "scansione": "07/11/2026 18:56"
   },
   "5804297@45": {
@@ -856,7 +856,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 4",
    "scansione": "07/11/2026 18:56"
   },
   "5804293@45": {
@@ -889,7 +889,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 3",
    "scansione": "07/11/2026 18:56"
   },
   "5739542@45": {
@@ -922,7 +922,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "07/11/2026 18:56"
   },
   "5795513@45": {
@@ -1157,5 +1157,5 @@
    "scansione": "07/11/2026 19:25"
   }
  },
- "aggiornato": "07/11/2026 19:26"
+ "aggiornato": "07/11/2026 20:13"
 }
