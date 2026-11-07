@@ -743,3 +743,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5904802;Super Lig;Samsunspor;Konyaspor;45;1-0;0.68;0.14;0;1 Casa;
 20261107;5847223;Premier League;FK Akhmat;Rodina;45;1-0;0.5;0.3;0;1 Casa;
 20261107;5749748;Serie A;Torino;Lecce;45;0-0;0.12;0.0;0;Pareggio;
+20261107;5836923;Championship;Blackburn Rovers;West Ham United;45;0-0;0.2;0.15;0;Pareggio;
+20261107;5836926;Championship;Charlton Athletic;Sheffield United;45;1-1;0.69;0.48;-1;1 Casa;
+20261107;5836932;Championship;West Bromwich Albion;Millwall;45;0-0;0.82;0.15;1;1 Casa;

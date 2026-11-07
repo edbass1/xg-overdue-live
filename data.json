@@ -262,7 +262,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "07/11/2026 15:31"
   },
   "5749748@45": {
@@ -297,7 +297,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "07/11/2026 16:14"
+  },
+  "5836923@45": {
+   "id": 5836923,
+   "campionato": "Championship",
+   "casa": "Blackburn Rovers",
+   "ospite": "West Ham United",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.2,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.3,
+    0.22
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.3,
+    0.22
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 16:48"
+  },
+  "5836926@45": {
+   "id": 5836926,
+   "campionato": "Championship",
+   "casa": "Charlton Athletic",
+   "ospite": "Sheffield United",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.69,
+    0.48
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.03,
+    0.72
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.03,
+    -0.28
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 16:48"
+  },
+  "5836932@45": {
+   "id": 5836932,
+   "campionato": "Championship",
+   "casa": "West Bromwich Albion",
+   "ospite": "Millwall",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.82,
+    0.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.23,
+    0.22
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.23,
+    0.22
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 16:48"
   }
  },
- "aggiornato": "07/11/2026 16:14"
+ "aggiornato": "07/11/2026 16:50"
 }
