@@ -97,9 +97,141 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 3",
    "scansione": "07/11/2026 13:19"
+  },
+  "5868125@45": {
+   "id": 5868125,
+   "campionato": "LaLiga",
+   "casa": "Málaga",
+   "ospite": "Racing Santander",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.61,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.92,
+    0.42
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.08,
+    0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 14:57"
+  },
+  "5868526@45": {
+   "id": 5868526,
+   "campionato": "LaLiga2",
+   "casa": "Burgos CF",
+   "ospite": "Celta Fortuna",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.71,
+    0.38
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.06,
+    0.57
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.06,
+    -0.43
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 14:57"
+  },
+  "5803309@45": {
+   "id": 5803309,
+   "campionato": "Ligue 2",
+   "casa": "Clermont Foot",
+   "ospite": "Rodez",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.26,
+    0.32
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    0.48
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.39,
+    0.48
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 14:57"
+  },
+  "5904802@45": {
+   "id": 5904802,
+   "campionato": "Super Lig",
+   "casa": "Samsunspor",
+   "ospite": "Konyaspor",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.68,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.02,
+    0.21
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.02,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 14:57"
   }
  },
- "aggiornato": "07/11/2026 14:14"
+ "aggiornato": "07/11/2026 14:58"
 }

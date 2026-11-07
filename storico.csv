@@ -737,3 +737,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;1000017578;A-League;Perth Glory;Newcastle Jets;45;1-0;0.29;0.86;0;2 Ospite;
 20261107;5804033;Ekstraklasa;Korona Kielce;Radomiak Radom;45;0-0;0.86;0.11;1;1 Casa;
 20261107;6362016;Indian Super League;Inter Kashi;SC Delhi;45;0-1;0.13;1.07;0;2 Ospite;
+20261107;5868125;LaLiga;Málaga;Racing Santander;45;1-0;0.61;0.28;0;1 Casa;
+20261107;5868526;LaLiga2;Burgos CF;Celta Fortuna;45;0-1;0.71;0.38;0;1 Casa;
+20261107;5803309;Ligue 2;Clermont Foot;Rodez;45;0-0;0.26;0.32;0;Pareggio;
+20261107;5904802;Super Lig;Samsunspor;Konyaspor;45;1-0;0.68;0.14;0;1 Casa;
