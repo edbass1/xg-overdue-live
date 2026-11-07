@@ -1318,7 +1318,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 0",
    "scansione": "07/11/2026 21:20"
   },
   "5804292@45": {
@@ -1351,7 +1351,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "07/11/2026 21:20"
   },
   "5190800@45": {
@@ -1384,7 +1384,7 @@
    ],
    "totale": -1,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 21:20"
   },
   "6469304@45": {
@@ -1584,7 +1584,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "07/11/2026 21:59"
+  },
+  "5887679@45": {
+   "id": 5887679,
+   "campionato": "Liga Portugal",
+   "casa": "Sporting CP",
+   "ospite": "Moreirense",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.55,
+    0.24
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.33,
+    0.36
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.33,
+    0.36
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 22:27"
+  },
+  "1000019626@45": {
+   "id": 1000019626,
+   "campionato": "Liga Profesional",
+   "casa": "Boca Juniors",
+   "ospite": "Defensa y Justicia",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.53,
+    0.33
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.8,
+    0.49
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.8,
+    0.49
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 22:27"
+  },
+  "1000019628@45": {
+   "id": 1000019628,
+   "campionato": "Liga Profesional",
+   "casa": "Argentinos Juniors",
+   "ospite": "Huracán",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.1,
+    0.86
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.15,
+    1.29
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.15,
+    -0.71
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 22:27"
+  },
+  "1000019630@45": {
+   "id": 1000019630,
+   "campionato": "Liga Profesional",
+   "casa": "Rosario Central",
+   "ospite": "Estudiantes de Río Cuarto",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.65,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.98,
+    0.0
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.02,
+    0.0
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 22:27"
   }
  },
- "aggiornato": "07/11/2026 21:59"
+ "aggiornato": "07/11/2026 22:27"
 }

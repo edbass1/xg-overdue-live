@@ -782,3 +782,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5781800;Eredivisie;Excelsior;Go Ahead Eagles;45;0-0;0.29;0.03;0;1 Casa;
 20261107;5901197;Premiere Ligue;Saint Malo (W);Marseille (W);45;1-1;0.16;1.15;-1;2 Ospite;
 20261107;5793974;Premiership;St. Mirren;Rangers;45;0-1;0.14;1.87;2;2 Ospite;
+20261107;5887679;Liga Portugal;Sporting CP;Moreirense;45;0-0;1.55;0.24;2;1 Casa;
+20261107;1000019626;Liga Profesional;Boca Juniors;Defensa y Justicia;45;0-0;0.53;0.33;1;1 Casa;
+20261107;1000019628;Liga Profesional;Argentinos Juniors;Huracán;45;0-2;0.1;0.86;-1;2 Ospite;
+20261107;1000019630;Liga Profesional;Rosario Central;Estudiantes de Río Cuarto;45;1-0;0.65;0.0;-1;1 Casa;
