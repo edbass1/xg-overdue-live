@@ -559,7 +559,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "07/11/2026 17:58"
   },
   "5804031@45": {
@@ -658,7 +658,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "07/11/2026 18:26"
   },
   "5107658@45": {
@@ -924,7 +924,238 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "07/11/2026 18:56"
+  },
+  "5795513@45": {
+   "id": 5795513,
+   "campionato": "Premier League",
+   "casa": "Nottingham Forest",
+   "ospite": "Manchester City",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.83,
+    0.91
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.24,
+    1.36
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    -0.76,
+    1.36
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "5881223@45": {
+   "id": 5881223,
+   "campionato": "Bundesliga",
+   "casa": "VfB Stuttgart",
+   "ospite": "Werder Bremen",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.38,
+    0.23
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.57,
+    0.35
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.43,
+    0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "6469313@45": {
+   "id": 6469313,
+   "campionato": "FA Cup",
+   "casa": "Altrincham",
+   "ospite": "Notts County",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.62,
+    1.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.93,
+    1.58
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.07,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "5868126@45": {
+   "id": 5868126,
+   "campionato": "LaLiga",
+   "casa": "Osasuna",
+   "ospite": "Athletic Club",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.25,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.38,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.38,
+    0.38
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "5868529@45": {
+   "id": 5868529,
+   "campionato": "LaLiga2",
+   "casa": "Córdoba",
+   "ospite": "AD Ceuta FC",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.95,
+    0.24
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.42,
+    0.36
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    -0.58,
+    0.36
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "5868532@45": {
+   "id": 5868532,
+   "campionato": "LaLiga2",
+   "casa": "Leganés",
+   "ospite": "Albacete",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.54,
+    1.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.56
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.81,
+    -0.44
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
+  },
+  "5943289@45": {
+   "id": 5943289,
+   "campionato": "Super League",
+   "casa": "Aris Thessaloniki",
+   "ospite": "Panetolikos",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.78,
+    0.88
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.17,
+    1.32
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.17,
+    1.32
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "07/11/2026 19:25"
   }
  },
- "aggiornato": "07/11/2026 18:57"
+ "aggiornato": "07/11/2026 19:26"
 }

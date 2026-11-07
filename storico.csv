@@ -762,3 +762,10 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5804297;Super League;FC Vaduz;Sion;45;0-3;0.54;1.71;0;2 Ospite;
 20261107;5804293;Super League;Luzern;Young Boys;45;1-1;1.31;0.62;0;1 Casa;
 20261107;5739542;Superligaen;OB;Viborg;45;0-2;0.48;1.09;0;2 Ospite;
+20261107;5795513;Premier League;Nottingham Forest;Manchester City;45;2-0;0.83;0.91;0;Pareggio;
+20261107;5881223;Bundesliga;VfB Stuttgart;Werder Bremen;45;1-0;0.38;0.23;-1;Pareggio;
+20261107;6469313;FA Cup;Altrincham;Notts County;45;1-1;0.62;1.05;0;2 Ospite;
+20261107;5868126;LaLiga;Osasuna;Athletic Club;45;0-0;0.25;0.25;0;Pareggio;
+20261107;5868529;LaLiga2;Córdoba;AD Ceuta FC;45;2-0;0.95;0.24;-1;1 Casa;
+20261107;5868532;LaLiga2;Leganés;Albacete;45;0-2;0.54;1.04;0;2 Ospite;
+20261107;5943289;Super League;Aris Thessaloniki;Panetolikos;45;1-0;0.78;0.88;1;Pareggio;
