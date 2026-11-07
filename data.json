@@ -1186,7 +1186,7 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "07/11/2026 20:50"
   },
   "5803316@45": {
@@ -1219,7 +1219,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "07/11/2026 20:50"
   },
   "5190805@45": {
@@ -1252,7 +1252,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "07/11/2026 20:50"
   },
   "5881720@45": {
@@ -1386,7 +1386,205 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "07/11/2026 21:20"
+  },
+  "6469304@45": {
+   "id": 6469304,
+   "campionato": "FA Cup",
+   "casa": "Peterborough United",
+   "ospite": "Reading",
+   "minuto": 45,
+   "punteggio_live": "0-3",
+   "xg": [
+    0.19,
+    0.64
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.29,
+    0.96
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    -2.04
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
+  },
+  "5868129@45": {
+   "id": 5868129,
+   "campionato": "LaLiga",
+   "casa": "Valencia",
+   "ospite": "Real Madrid",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.06,
+    0.76
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.09,
+    1.14
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.09,
+    -0.86
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
+  },
+  "5802987@45": {
+   "id": 5802987,
+   "campionato": "Ligue 1",
+   "casa": "Paris Saint-Germain",
+   "ospite": "Troyes",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.09,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.64,
+    0.39
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.64,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
+  },
+  "5781800@45": {
+   "id": 5781800,
+   "campionato": "Eredivisie",
+   "casa": "Excelsior",
+   "ospite": "Go Ahead Eagles",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.29,
+    0.03
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    0.04
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.43,
+    0.04
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
+  },
+  "5901197@45": {
+   "id": 5901197,
+   "campionato": "Premiere Ligue",
+   "casa": "Saint Malo (W)",
+   "ospite": "Marseille (W)",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    0.16,
+    1.15
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.24,
+    1.72
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.76,
+    0.72
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
+  },
+  "5793974@45": {
+   "id": 5793974,
+   "campionato": "Premiership",
+   "casa": "St. Mirren",
+   "ospite": "Rangers",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.14,
+    1.87
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.21,
+    2.81
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.21,
+    1.81
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "07/11/2026 21:59"
   }
  },
- "aggiornato": "07/11/2026 21:21"
+ "aggiornato": "07/11/2026 21:59"
 }
