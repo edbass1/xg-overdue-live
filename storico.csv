@@ -786,3 +786,8 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;1000019626;Liga Profesional;Boca Juniors;Defensa y Justicia;45;0-0;0.53;0.33;1;1 Casa;
 20261107;1000019628;Liga Profesional;Argentinos Juniors;Huracán;45;0-2;0.1;0.86;-1;2 Ospite;
 20261107;1000019630;Liga Profesional;Rosario Central;Estudiantes de Río Cuarto;45;1-0;0.65;0.0;-1;1 Casa;
+20261107;5071489;Major League Soccer;CF Montréal;Vancouver Whitecaps;45;0-0;0.11;0.13;0;Pareggio;
+20261107;5071487;Major League Soccer;DC United;New York City FC;45;0-0;0.06;0.6;0;2 Ospite;
+20261107;5071491;Major League Soccer;Orlando City;New England Revolution;45;1-0;0.81;0.54;1;1 Casa;
+20261107;5071490;Major League Soccer;Red Bull New York;Atlanta United;45;1-0;2.04;0.29;2;1 Casa;
+20261107;1000014225;Primera A;Once Caldas;Águilas Doradas;45;0-0;0.26;0.36;0;Pareggio;
