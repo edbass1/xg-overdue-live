@@ -229,7 +229,7 @@
    ],
    "totale": 2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "08/11/2026 14:57"
   },
   "5804295@45": {
@@ -262,7 +262,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "5 - 0",
    "scansione": "08/11/2026 14:57"
   },
   "5904799@45": {
@@ -295,7 +295,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 5",
    "scansione": "08/11/2026 14:57"
   },
   "5739546@45": {
@@ -328,7 +328,7 @@
    ],
    "totale": 2,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "08/11/2026 14:57"
   },
   "5107655@45": {
@@ -361,7 +361,7 @@
    ],
    "totale": 3,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "08/11/2026 14:57"
   },
   "5107660@45": {
@@ -394,7 +394,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "08/11/2026 14:57"
   },
   "5846018@45": {
@@ -495,7 +495,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "08/11/2026 15:29"
+  },
+  "5795506@45": {
+   "id": 5795506,
+   "campionato": "Premier League",
+   "casa": "Brighton & Hove Albion",
+   "ospite": "Brentford",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.46,
+    0.39
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.19,
+    0.58
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.19,
+    0.58
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 16:06"
+  },
+  "5795514@45": {
+   "id": 5795514,
+   "campionato": "Premier League",
+   "casa": "Sunderland",
+   "ospite": "Chelsea",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.71,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.56,
+    0.29
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.56,
+    0.29
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 16:06"
+  },
+  "5981689@45": {
+   "id": 5981689,
+   "campionato": "WSL",
+   "casa": "Tottenham Hotspur (W)",
+   "ospite": "Brighton (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.41,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.61,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.61,
+    -0.7
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 16:06"
   }
  },
- "aggiornato": "08/11/2026 15:29"
+ "aggiornato": "08/11/2026 16:06"
 }
