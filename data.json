@@ -1120,7 +1120,7 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "4 - 1",
    "scansione": "08/11/2026 20:12"
   },
   "5105043@45": {
@@ -1153,7 +1153,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "08/11/2026 20:12"
   },
   "1000015507@45": {
@@ -1186,7 +1186,7 @@
    ],
    "totale": 1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "08/11/2026 20:12"
   },
   "1000022938@45": {
@@ -1219,7 +1219,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "08/11/2026 20:12"
   },
   "5781795@45": {
@@ -1353,7 +1353,40 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "08/11/2026 20:52"
+  },
+  "5804034@45": {
+   "id": 5804034,
+   "campionato": "Ekstraklasa",
+   "casa": "Lech Poznań",
+   "ospite": "Zagłębie Lubin",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.56,
+    0.25
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.84,
+    0.38
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.84,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 21:21"
   }
  },
- "aggiornato": "08/11/2026 20:52"
+ "aggiornato": "08/11/2026 21:22"
 }
