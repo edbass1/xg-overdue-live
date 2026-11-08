@@ -791,3 +791,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261107;5071491;Major League Soccer;Orlando City;New England Revolution;45;1-0;0.81;0.54;1;1 Casa;
 20261107;5071490;Major League Soccer;Red Bull New York;Atlanta United;45;1-0;2.04;0.29;2;1 Casa;
 20261107;1000014225;Primera A;Once Caldas;Águilas Doradas;45;0-0;0.26;0.36;0;Pareggio;
+20261108;1000014217;Primera A;Atlético Nacional;Deportivo Pereira;45;2-1;0.94;0.26;-2;1 Casa;
+20261108;5190807;Série B;Cuiabá;Juventude;45;0-1;0.33;0.17;-1;Pareggio;
+20261108;5190808;Série B;Vila Nova;Criciúma;45;1-0;0.51;0.02;-1;1 Casa;
