@@ -814,3 +814,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;5105045;Eliteserien;Hamarkameratene;Sarpsborg 08;45;0-0;0.36;0.47;1;Pareggio;
 20261108;5781796;Eredivisie;Cambuur;PSV Eindhoven;45;1-3;0.18;1.06;-3;2 Ospite;
 20261108;5793971;Premiership;Celtic;Kilmarnock;45;1-0;0.82;0.94;1;Pareggio;
+20261108;5881217;Bundesliga;Freiburg;Union Berlin;45;0-0;0.8;0.0;1;1 Casa;
+20261108;5802982;Ligue 1;Angers;Nice;45;0-1;0.34;1.47;1;2 Ospite;
+20261108;5967141;Serie B;Carrarese;Sampdoria;45;0-1;0.35;0.43;0;Pareggio;
+20261108;5943292;Super League;OFI Crete;Atromitos;45;0-0;0.59;0.08;1;1 Casa;

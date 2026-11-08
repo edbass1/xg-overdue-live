@@ -625,7 +625,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "08/11/2026 17:13"
   },
   "5868530@45": {
@@ -658,7 +658,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "08/11/2026 17:13"
   },
   "5105045@45": {
@@ -759,7 +759,139 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "08/11/2026 17:49"
+  },
+  "5881217@45": {
+   "id": 5881217,
+   "campionato": "Bundesliga",
+   "casa": "Freiburg",
+   "ospite": "Union Berlin",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.8,
+    0.0
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.2,
+    0.0
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.2,
+    0.0
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 18:19"
+  },
+  "5802982@45": {
+   "id": 5802982,
+   "campionato": "Ligue 1",
+   "casa": "Angers",
+   "ospite": "Nice",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.34,
+    1.47
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.51,
+    2.21
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.51,
+    1.21
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 18:19"
+  },
+  "5967141@45": {
+   "id": 5967141,
+   "campionato": "Serie B",
+   "casa": "Carrarese",
+   "ospite": "Sampdoria",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.35,
+    0.43
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.52,
+    0.65
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.52,
+    -0.35
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 18:19"
+  },
+  "5943292@45": {
+   "id": 5943292,
+   "campionato": "Super League",
+   "casa": "OFI Crete",
+   "ospite": "Atromitos",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.59,
+    0.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    0.12
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.89,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 18:19"
   }
  },
- "aggiornato": "08/11/2026 17:49"
+ "aggiornato": "08/11/2026 18:19"
 }
