@@ -820,3 +820,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;5943292;Super League;OFI Crete;Atromitos;45;0-0;0.59;0.08;1;1 Casa;
 20261108;5749744;Serie A;Inter;Como;45;2-0;1.4;0.04;0;1 Casa;
 20261108;5739545;Superligaen;FC Midtjylland;Sønderjyske;45;1-1;1.43;0.58;1;1 Casa;
+20261108;5868122;LaLiga;Celta Vigo;Levante;45;0-0;1.2;0.06;1;1 Casa;
+20261108;5868130;LaLiga;Villarreal;Getafe;45;0-0;0.65;0.14;1;1 Casa;
+20261108;5811805;Belgian Pro League;Union St.Gilloise;Genk;45;0-0;0.54;0.22;1;1 Casa;
+20261108;5868535;LaLiga2;Sporting Gijón;Real Valladolid;45;0-2;0.08;0.97;-1;2 Ospite;
