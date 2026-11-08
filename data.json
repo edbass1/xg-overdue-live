@@ -660,7 +660,106 @@
    "esito": "Pareggio",
    "finale": null,
    "scansione": "08/11/2026 17:13"
+  },
+  "5105045@45": {
+   "id": 5105045,
+   "campionato": "Eliteserien",
+   "casa": "Hamarkameratene",
+   "ospite": "Sarpsborg 08",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.36,
+    0.47
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.54,
+    0.7
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.54,
+    0.7
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 17:49"
+  },
+  "5781796@45": {
+   "id": 5781796,
+   "campionato": "Eredivisie",
+   "casa": "Cambuur",
+   "ospite": "PSV Eindhoven",
+   "minuto": 45,
+   "punteggio_live": "1-3",
+   "xg": [
+    0.18,
+    1.06
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.27,
+    1.59
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    -0.73,
+    -1.41
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -3,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 17:49"
+  },
+  "5793971@45": {
+   "id": 5793971,
+   "campionato": "Premiership",
+   "casa": "Celtic",
+   "ospite": "Kilmarnock",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.82,
+    0.94
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.23,
+    1.41
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.23,
+    1.41
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 17:49"
   }
  },
- "aggiornato": "08/11/2026 17:13"
+ "aggiornato": "08/11/2026 17:49"
 }
