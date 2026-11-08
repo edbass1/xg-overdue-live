@@ -130,7 +130,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 1",
    "scansione": "08/11/2026 13:19"
   },
   "5781797@45": {
@@ -196,9 +196,207 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "08/11/2026 13:19"
+  },
+  "5868123@45": {
+   "id": 5868123,
+   "campionato": "LaLiga",
+   "casa": "Elche",
+   "ospite": "Real Betis",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.05,
+    0.37
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.58,
+    0.55
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.58,
+    0.55
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
+  },
+  "5804295@45": {
+   "id": 5804295,
+   "campionato": "Super League",
+   "casa": "St. Gallen",
+   "ospite": "Lugano",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    1.64,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.46,
+    0.29
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    -0.54,
+    0.29
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
+  },
+  "5904799@45": {
+   "id": 5904799,
+   "campionato": "Super Lig",
+   "casa": "Çorum FK",
+   "ospite": "Fenerbahçe",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    1.41,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.11,
+    0.45
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.11,
+    -1.55
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
+  },
+  "5739546@45": {
+   "id": 5739546,
+   "campionato": "Superligaen",
+   "casa": "AGF",
+   "ospite": "AC Horsens",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.73,
+    0.05
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.59,
+    0.08
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.59,
+    0.08
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
+  },
+  "5107655@45": {
+   "id": 5107655,
+   "campionato": "Allsvenskan",
+   "casa": "IFK Göteborg",
+   "ospite": "Malmö FF",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.24,
+    1.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.86,
+    1.94
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.86,
+    1.94
+   ],
+   "overdue": [
+    1,
+    1
+   ],
+   "totale": 3,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
+  },
+  "5107660@45": {
+   "id": 5107660,
+   "campionato": "Allsvenskan",
+   "casa": "Halmstads BK",
+   "ospite": "Djurgården",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.86,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.29,
+    0.54
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.29,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 14:57"
   }
  },
- "aggiornato": "08/11/2026 14:14"
+ "aggiornato": "08/11/2026 14:58"
 }
