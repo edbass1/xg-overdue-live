@@ -526,7 +526,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "08/11/2026 16:06"
   },
   "5795514@45": {
@@ -559,7 +559,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "08/11/2026 16:06"
   },
   "5981689@45": {
@@ -592,9 +592,75 @@
    ],
    "totale": -1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "08/11/2026 16:06"
+  },
+  "5868127@45": {
+   "id": 5868127,
+   "campionato": "LaLiga",
+   "casa": "Real Sociedad",
+   "ospite": "Rayo Vallecano",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.59,
+    0.36
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    0.54
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.89,
+    0.54
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 17:13"
+  },
+  "5868530@45": {
+   "id": 5868530,
+   "campionato": "LaLiga2",
+   "casa": "Girona",
+   "ospite": "Almería",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.27,
+    0.26
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.39
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.41,
+    0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 17:13"
   }
  },
- "aggiornato": "08/11/2026 16:37"
+ "aggiornato": "08/11/2026 17:13"
 }
