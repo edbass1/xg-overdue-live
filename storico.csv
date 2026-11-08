@@ -803,3 +803,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;5739546;Superligaen;AGF;AC Horsens;45;0-0;1.73;0.05;2;1 Casa;
 20261108;5107655;Allsvenskan;IFK Göteborg;Malmö FF;45;0-0;1.24;1.29;3;Pareggio;
 20261108;5107660;Allsvenskan;Halmstads BK;Djurgården;45;1-0;0.86;0.36;0;1 Casa;
+20261108;5846018;Bundesliga;Hartberg;Altach;45;2-0;0.6;0.14;-1;1 Casa;
+20261108;5846022;Bundesliga;WSG Tirol;Austria Wien;45;1-1;1.19;0.47;0;1 Casa;
+20261108;5781803;Eredivisie;FC Twente;Ajax;45;0-1;0.84;0.63;1;1 Casa;

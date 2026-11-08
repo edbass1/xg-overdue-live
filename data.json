@@ -396,7 +396,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "08/11/2026 14:57"
+  },
+  "5846018@45": {
+   "id": 5846018,
+   "campionato": "Bundesliga",
+   "casa": "Hartberg",
+   "ospite": "Altach",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.6,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.9,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.1,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 15:29"
+  },
+  "5846022@45": {
+   "id": 5846022,
+   "campionato": "Bundesliga",
+   "casa": "WSG Tirol",
+   "ospite": "Austria Wien",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.19,
+    0.47
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.78,
+    0.7
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.78,
+    -0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 15:29"
+  },
+  "5781803@45": {
+   "id": 5781803,
+   "campionato": "Eredivisie",
+   "casa": "FC Twente",
+   "ospite": "Ajax",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.84,
+    0.63
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.26,
+    0.95
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.26,
+    -0.05
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 15:29"
   }
  },
- "aggiornato": "08/11/2026 14:58"
+ "aggiornato": "08/11/2026 15:29"
 }
