@@ -99,7 +99,106 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "08/11/2026 01:08"
+  },
+  "5749746@45": {
+   "id": 5749746,
+   "campionato": "Serie A",
+   "casa": "Napoli",
+   "ospite": "Lazio",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.08,
+    0.67
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.62,
+    1.01
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    1.62,
+    0.01
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 13:19"
+  },
+  "5781797@45": {
+   "id": 5781797,
+   "campionato": "Eredivisie",
+   "casa": "SC Heerenveen",
+   "ospite": "Feyenoord",
+   "minuto": 45,
+   "punteggio_live": "1-2",
+   "xg": [
+    0.95,
+    0.92
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.42,
+    1.38
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    0.42,
+    -0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 13:19"
+  },
+  "1000017779@45": {
+   "id": 1000017779,
+   "campionato": "Thai League",
+   "casa": "Prachuap FC",
+   "ospite": "Sisaket United",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.0,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.0,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.0,
+    0.3
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 13:19"
   }
  },
- "aggiornato": "08/11/2026 12:41"
+ "aggiornato": "08/11/2026 13:20"
 }

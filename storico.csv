@@ -794,3 +794,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;1000014217;Primera A;Atlético Nacional;Deportivo Pereira;45;2-1;0.94;0.26;-2;1 Casa;
 20261108;5190807;Série B;Cuiabá;Juventude;45;0-1;0.33;0.17;-1;Pareggio;
 20261108;5190808;Série B;Vila Nova;Criciúma;45;1-0;0.51;0.02;-1;1 Casa;
+20261108;5749746;Serie A;Napoli;Lazio;45;0-1;1.08;0.67;1;1 Casa;
+20261108;5781797;Eredivisie;SC Heerenveen;Feyenoord;45;1-2;0.95;0.92;-1;Pareggio;
+20261108;1000017779;Thai League;Prachuap FC;Sisaket United;45;0-0;0.0;0.2;0;2 Ospite;
