@@ -828,3 +828,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;5105043;Eliteserien;Fredrikstad;Brann;45;0-0;0.74;0.19;1;1 Casa;
 20261108;1000015507;First Division B;KSC Lokeren;FCV Dender EH;45;0-1;0.59;0.93;1;2 Ospite;
 20261108;1000022938;Liga de Expansión MX - Apertura - Quarter-finals;Leones Negros;Alacranes de Durango;45;2-0;1.4;0.28;0;1 Casa;
+20261108;5781795;Eredivisie;FC Utrecht;NEC Nijmegen;45;0-2;0.26;1.12;0;2 Ospite;
+20261108;5943293;Super League;Olympiacos;PAOK Thessaloniki;45;0-0;0.54;0.91;2;2 Ospite;
+20261108;1000014222;Primera A;Santa Fe;Deportivo Pasto;45;2-0;0.27;0.51;-1;2 Ospite;
+20261108;5190801;Série B;Athletic Club MG;Atlético-GO;45;1-0;0.3;0.22;-1;Pareggio;

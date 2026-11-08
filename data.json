@@ -988,7 +988,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "08/11/2026 19:22"
   },
   "5868130@45": {
@@ -1021,7 +1021,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "08/11/2026 19:22"
   },
   "5811805@45": {
@@ -1054,7 +1054,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "1 - 0",
    "scansione": "08/11/2026 19:22"
   },
   "5868535@45": {
@@ -1087,7 +1087,7 @@
    ],
    "totale": -1,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "1 - 2",
    "scansione": "08/11/2026 19:22"
   },
   "5811807@45": {
@@ -1221,7 +1221,139 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "08/11/2026 20:12"
+  },
+  "5781795@45": {
+   "id": 5781795,
+   "campionato": "Eredivisie",
+   "casa": "FC Utrecht",
+   "ospite": "NEC Nijmegen",
+   "minuto": 45,
+   "punteggio_live": "0-2",
+   "xg": [
+    0.26,
+    1.12
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.39,
+    1.68
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.39,
+    -0.32
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 20:52"
+  },
+  "5943293@45": {
+   "id": 5943293,
+   "campionato": "Super League",
+   "casa": "Olympiacos",
+   "ospite": "PAOK Thessaloniki",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.54,
+    0.91
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.81,
+    1.36
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.81,
+    1.36
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 20:52"
+  },
+  "1000014222@45": {
+   "id": 1000014222,
+   "campionato": "Primera A",
+   "casa": "Santa Fe",
+   "ospite": "Deportivo Pasto",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    0.27,
+    0.51
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.41,
+    0.77
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -1.59,
+    0.77
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 20:52"
+  },
+  "5190801@45": {
+   "id": 5190801,
+   "campionato": "Série B",
+   "casa": "Athletic Club MG",
+   "ospite": "Atlético-GO",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.3,
+    0.22
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.45,
+    0.33
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.55,
+    0.33
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "08/11/2026 20:52"
   }
  },
- "aggiornato": "08/11/2026 20:12"
+ "aggiornato": "08/11/2026 20:52"
 }
