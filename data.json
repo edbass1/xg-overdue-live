@@ -724,7 +724,7 @@
    ],
    "totale": -3,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 5",
    "scansione": "08/11/2026 17:49"
   },
   "5793971@45": {
@@ -891,7 +891,73 @@
    "esito": "1 Casa",
    "finale": null,
    "scansione": "08/11/2026 18:19"
+  },
+  "5749744@45": {
+   "id": 5749744,
+   "campionato": "Serie A",
+   "casa": "Inter",
+   "ospite": "Como",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.4,
+    0.04
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.1,
+    0.06
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.1,
+    0.06
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 18:51"
+  },
+  "5739545@45": {
+   "id": 5739545,
+   "campionato": "Superligaen",
+   "casa": "FC Midtjylland",
+   "ospite": "Sønderjyske",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.43,
+    0.58
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.15,
+    0.87
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.15,
+    -0.13
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 18:51"
   }
  },
- "aggiornato": "08/11/2026 18:19"
+ "aggiornato": "08/11/2026 18:51"
 }
