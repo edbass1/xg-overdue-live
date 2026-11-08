@@ -824,3 +824,7 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261108;5868130;LaLiga;Villarreal;Getafe;45;0-0;0.65;0.14;1;1 Casa;
 20261108;5811805;Belgian Pro League;Union St.Gilloise;Genk;45;0-0;0.54;0.22;1;1 Casa;
 20261108;5868535;LaLiga2;Sporting Gijón;Real Valladolid;45;0-2;0.08;0.97;-1;2 Ospite;
+20261108;5811807;Belgian Pro League;St.Truiden;Zulte Waregem;45;2-1;1.04;0.75;-1;1 Casa;
+20261108;5105043;Eliteserien;Fredrikstad;Brann;45;0-0;0.74;0.19;1;1 Casa;
+20261108;1000015507;First Division B;KSC Lokeren;FCV Dender EH;45;0-1;0.59;0.93;1;2 Ospite;
+20261108;1000022938;Liga de Expansión MX - Apertura - Quarter-finals;Leones Negros;Alacranes de Durango;45;2-0;1.4;0.28;0;1 Casa;

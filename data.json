@@ -790,7 +790,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "08/11/2026 18:19"
   },
   "5802982@45": {
@@ -889,7 +889,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "08/11/2026 18:19"
   },
   "5749744@45": {
@@ -922,7 +922,7 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 0",
    "scansione": "08/11/2026 18:51"
   },
   "5739545@45": {
@@ -955,7 +955,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "08/11/2026 18:51"
   },
   "5868122@45": {
@@ -1089,7 +1089,139 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "08/11/2026 19:22"
+  },
+  "5811807@45": {
+   "id": 5811807,
+   "campionato": "Belgian Pro League",
+   "casa": "St.Truiden",
+   "ospite": "Zulte Waregem",
+   "minuto": 45,
+   "punteggio_live": "2-1",
+   "xg": [
+    1.04,
+    0.75
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.56,
+    1.12
+   ],
+   "punteggio": [
+    1,
+    1
+   ],
+   "xsxg": [
+    -0.44,
+    0.12
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 20:12"
+  },
+  "5105043@45": {
+   "id": 5105043,
+   "campionato": "Eliteserien",
+   "casa": "Fredrikstad",
+   "ospite": "Brann",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.74,
+    0.19
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.11,
+    0.29
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.11,
+    0.29
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 20:12"
+  },
+  "1000015507@45": {
+   "id": 1000015507,
+   "campionato": "First Division B",
+   "casa": "KSC Lokeren",
+   "ospite": "FCV Dender EH",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.59,
+    0.93
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.89,
+    1.4
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.89,
+    0.4
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "08/11/2026 20:12"
+  },
+  "1000022938@45": {
+   "id": 1000022938,
+   "campionato": "Liga de Expansión MX - Apertura - Quarter-finals",
+   "casa": "Leones Negros",
+   "ospite": "Alacranes de Durango",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.4,
+    0.28
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.1,
+    0.42
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.1,
+    0.42
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "08/11/2026 20:12"
   }
  },
- "aggiornato": "08/11/2026 19:23"
+ "aggiornato": "08/11/2026 20:12"
 }
