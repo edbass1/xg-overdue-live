@@ -1,39 +1,5 @@
 {
- "date": "20261110",
- "matches": {
-  "1000014224@45": {
-   "id": 1000014224,
-   "campionato": "Primera A",
-   "casa": "Junior FC",
-   "ospite": "Cúcuta",
-   "minuto": 45,
-   "punteggio_live": "1-0",
-   "xg": [
-    0.55,
-    0.25
-   ],
-   "fattore": 1.5,
-   "proj": [
-    0.83,
-    0.38
-   ],
-   "punteggio": [
-    0,
-    0
-   ],
-   "xsxg": [
-    -0.17,
-    0.38
-   ],
-   "overdue": [
-    0,
-    0
-   ],
-   "totale": 0,
-   "esito": "1 Casa",
-   "finale": "2 - 0",
-   "scansione": "10/11/2026 01:50"
-  }
- },
- "aggiornato": "10/11/2026 23:25"
+ "date": "20261111",
+ "matches": {},
+ "aggiornato": "11/11/2026 03:01"
 }
