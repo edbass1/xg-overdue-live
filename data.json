@@ -1,5 +1,39 @@
 {
  "date": "20261114",
- "matches": {},
- "aggiornato": "14/11/2026 03:41"
+ "matches": {
+  "5868544@45": {
+   "id": 5868544,
+   "campionato": "LaLiga2",
+   "casa": "Real Sociedad B",
+   "ospite": "Sporting Gijón",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.2,
+    0.96
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.3,
+    1.44
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.3,
+    0.44
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "14/11/2026 17:11"
+  }
+ },
+ "aggiornato": "14/11/2026 17:12"
 }
