@@ -31,9 +31,405 @@
    ],
    "totale": 0,
    "esito": "2 Ospite",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "14/11/2026 17:11"
+  },
+  "5181870@45": {
+   "id": 5181870,
+   "campionato": "UEFA Nations League A Grp. 4",
+   "casa": "Portugal",
+   "ospite": "Denmark",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.18,
+    1.08
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.27,
+    1.62
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.27,
+    0.62
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5181821@45": {
+   "id": 5181821,
+   "campionato": "UEFA Nations League B Grp. 3",
+   "casa": "Austria",
+   "ospite": "Ireland",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.67,
+    0.27
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.01,
+    0.41
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.01,
+    0.41
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5181809@45": {
+   "id": 5181809,
+   "campionato": "UEFA Nations League B Grp. 2",
+   "casa": "Northern Ireland",
+   "ospite": "Ukraine",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.17,
+    0.38
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.75,
+    0.57
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.75,
+    0.57
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5181845@45": {
+   "id": 5181845,
+   "campionato": "UEFA Nations League B Grp. 4",
+   "casa": "Romania",
+   "ospite": "Poland",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.18,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.27,
+    0.45
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.27,
+    0.45
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5181846@45": {
+   "id": 5181846,
+   "campionato": "UEFA Nations League B Grp. 4",
+   "casa": "Sweden",
+   "ospite": "Bosnia and Herzegovina",
+   "minuto": 45,
+   "punteggio_live": "3-0",
+   "xg": [
+    2.05,
+    0.69
+   ],
+   "fattore": 1.5,
+   "proj": [
+    3.07,
+    1.03
+   ],
+   "punteggio": [
+    3,
+    1
+   ],
+   "xsxg": [
+    0.07,
+    1.03
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190811@45": {
+   "id": 5190811,
+   "campionato": "Série B",
+   "casa": "América-MG",
+   "ospite": "Avaí",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.1,
+    0.13
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.15,
+    0.2
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.15,
+    0.2
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190814@45": {
+   "id": 5190814,
+   "campionato": "Série B",
+   "casa": "Atlético-GO",
+   "ospite": "Cuiabá",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.56,
+    0.87
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.84,
+    1.3
+   ],
+   "punteggio": [
+    0,
+    1
+   ],
+   "xsxg": [
+    0.84,
+    1.3
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 2,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190817@45": {
+   "id": 5190817,
+   "campionato": "Série B",
+   "casa": "CRB",
+   "ospite": "Ceará",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    1.44,
+    0.34
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.16,
+    0.51
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.16,
+    -0.49
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190815@45": {
+   "id": 5190815,
+   "campionato": "Série B",
+   "casa": "Criciúma",
+   "ospite": "Novorizontino",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.34,
+    0.29
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.51,
+    0.43
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.51,
+    0.43
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190813@45": {
+   "id": 5190813,
+   "campionato": "Série B",
+   "casa": "Fortaleza",
+   "ospite": "Vila Nova",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    0.29,
+    0.11
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.43,
+    0.17
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    -0.57,
+    0.17
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190818@45": {
+   "id": 5190818,
+   "campionato": "Série B",
+   "casa": "Juventude",
+   "ospite": "Botafogo SP",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.32,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.48,
+    0.21
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.48,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
+  },
+  "5190816@45": {
+   "id": 5190816,
+   "campionato": "Série B",
+   "casa": "Sport Recife",
+   "ospite": "Goiás",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.56,
+    0.86
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.34,
+    1.29
+   ],
+   "punteggio": [
+    2,
+    1
+   ],
+   "xsxg": [
+    0.34,
+    1.29
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "14/11/2026 21:43"
   }
  },
- "aggiornato": "14/11/2026 17:12"
+ "aggiornato": "14/11/2026 21:43"
 }
