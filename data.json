@@ -33,7 +33,40 @@
    "esito": "2 Ospite",
    "finale": null,
    "scansione": "15/11/2026 01:20"
+  },
+  "6593109@45": {
+   "id": 6593109,
+   "campionato": "NWSL Playoff",
+   "casa": "Gotham FC (W)",
+   "ospite": "Kansas City Current (W)",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.08,
+    0.2
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.12,
+    0.3
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.12,
+    -0.7
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": -1,
+   "esito": "Pareggio",
+   "finale": null,
+   "scansione": "15/11/2026 22:18"
   }
  },
- "aggiornato": "15/11/2026 17:40"
+ "aggiornato": "15/11/2026 22:19"
 }
