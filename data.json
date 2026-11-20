@@ -1,5 +1,39 @@
 {
  "date": "20261120",
- "matches": {},
- "aggiornato": "20/11/2026 01:56"
+ "matches": {
+  "5804042@45": {
+   "id": 5804042,
+   "campionato": "Ekstraklasa",
+   "casa": "Piast Gliwice",
+   "ospite": "Korona Kielce",
+   "minuto": 45,
+   "punteggio_live": "1-0",
+   "xg": [
+    1.82,
+    0.3
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.73,
+    0.45
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    1.73,
+    0.45
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "20/11/2026 19:03"
+  }
+ },
+ "aggiornato": "20/11/2026 19:04"
 }
