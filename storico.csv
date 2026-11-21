@@ -856,3 +856,6 @@ data;matchId;campionato;casa;ospite;minuto;punteggio;xg_casa;xg_ospite;totale_ov
 20261115;5103573;Série A;Chapecoense;Vasco da Gama;45;0-1;0.29;1.27;1;2 Ospite;
 20261115;6593109;NWSL Playoff;Gotham FC (W);Kansas City Current (W);45;0-1;0.08;0.2;-1;Pareggio;
 20261120;5804042;Ekstraklasa;Piast Gliwice;Korona Kielce;45;1-0;1.82;0.3;2;1 Casa;
+20261121;5846026;Bundesliga;LASK;Hartberg;45;2-1;0.43;0.36;-2;Pareggio;
+20261121;5846027;Bundesliga;WSG Tirol;Austria Lustenau;45;0-1;0.33;0.34;0;Pareggio;
+20261121;5904810;Süper Lig;Kocaelispor;Fenerbahçe;45;0-0;0.36;0.13;0;1 Casa;
