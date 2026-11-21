@@ -31,7 +31,7 @@
    ],
    "totale": -2,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "2 - 1",
    "scansione": "21/11/2026 17:59"
   },
   "5846027@45": {
@@ -64,7 +64,7 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 1",
    "scansione": "21/11/2026 17:59"
   },
   "5904810@45": {
@@ -97,9 +97,42 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "2 - 2",
    "scansione": "21/11/2026 17:59"
+  },
+  "6580836@45": {
+   "id": 6580836,
+   "campionato": "Major League Soccer Playoff",
+   "casa": "FC Dallas",
+   "ospite": "Portland Timbers",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.22,
+    0.54
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.33,
+    0.81
+   ],
+   "punteggio": [
+    0,
+    0
+   ],
+   "xsxg": [
+    0.33,
+    0.81
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "21/11/2026 23:03"
   }
  },
- "aggiornato": "21/11/2026 18:00"
+ "aggiornato": "21/11/2026 23:03"
 }
