@@ -31,7 +31,7 @@
    ],
    "totale": 1,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "0 - 2",
    "scansione": "22/11/2026 03:05"
   },
   "1000024433@45": {
@@ -64,9 +64,108 @@
    ],
    "totale": 0,
    "esito": "Pareggio",
-   "finale": null,
+   "finale": "0 - 0",
    "scansione": "22/11/2026 03:05"
+  },
+  "5795521@45": {
+   "id": 5795521,
+   "campionato": "Premier League",
+   "casa": "Liverpool",
+   "ospite": "Manchester United",
+   "minuto": 45,
+   "punteggio_live": "2-0",
+   "xg": [
+    1.67,
+    0.14
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.5,
+    0.21
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    0.5,
+    0.21
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "22/11/2026 18:27"
+  },
+  "5804047@45": {
+   "id": 5804047,
+   "campionato": "Ekstraklasa",
+   "casa": "Wisła Płock",
+   "ospite": "Legia Warszawa",
+   "minuto": 45,
+   "punteggio_live": "0-1",
+   "xg": [
+    0.34,
+    1.46
+   ],
+   "fattore": 1.5,
+   "proj": [
+    0.51,
+    2.19
+   ],
+   "punteggio": [
+    0,
+    2
+   ],
+   "xsxg": [
+    0.51,
+    1.19
+   ],
+   "overdue": [
+    0,
+    1
+   ],
+   "totale": 1,
+   "esito": "2 Ospite",
+   "finale": null,
+   "scansione": "22/11/2026 18:27"
+  },
+  "5881232@45": {
+   "id": 5881232,
+   "campionato": "Bundesliga",
+   "casa": "Werder Bremen",
+   "ospite": "Hamburger SV",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    0.96,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.44,
+    0.61
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    1.44,
+    0.61
+   ],
+   "overdue": [
+    1,
+    0
+   ],
+   "totale": 2,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "22/11/2026 18:27"
   }
  },
- "aggiornato": "22/11/2026 03:05"
+ "aggiornato": "22/11/2026 18:28"
 }
