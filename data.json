@@ -1,5 +1,39 @@
 {
- "date": "20261125",
- "matches": {},
- "aggiornato": "25/11/2026 20:38"
+ "date": "20261126",
+ "matches": {
+  "1000024435@45": {
+   "id": 1000024435,
+   "campionato": "Primera A",
+   "casa": "Atlético Nacional",
+   "ospite": "Independiente Medellín",
+   "minuto": 45,
+   "punteggio_live": "1-1",
+   "xg": [
+    1.04,
+    0.41
+   ],
+   "fattore": 1.5,
+   "proj": [
+    1.56,
+    0.61
+   ],
+   "punteggio": [
+    1,
+    0
+   ],
+   "xsxg": [
+    0.56,
+    -0.39
+   ],
+   "overdue": [
+    0,
+    0
+   ],
+   "totale": 0,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "26/11/2026 03:25"
+  }
+ },
+ "aggiornato": "26/11/2026 03:25"
 }
