@@ -31,9 +31,42 @@
    ],
    "totale": 0,
    "esito": "1 Casa",
-   "finale": null,
+   "finale": "3 - 1",
    "scansione": "26/11/2026 03:25"
+  },
+  "6112357@45": {
+   "id": 6112357,
+   "campionato": "Europa League",
+   "casa": "Beşiktaş",
+   "ospite": "Hapoel Beer Sheva",
+   "minuto": 45,
+   "punteggio_live": "0-0",
+   "xg": [
+    1.51,
+    0.61
+   ],
+   "fattore": 1.5,
+   "proj": [
+    2.27,
+    0.92
+   ],
+   "punteggio": [
+    2,
+    0
+   ],
+   "xsxg": [
+    2.27,
+    0.92
+   ],
+   "overdue": [
+    2,
+    0
+   ],
+   "totale": 3,
+   "esito": "1 Casa",
+   "finale": null,
+   "scansione": "26/11/2026 20:19"
   }
  },
- "aggiornato": "26/11/2026 03:25"
+ "aggiornato": "26/11/2026 20:19"
 }
